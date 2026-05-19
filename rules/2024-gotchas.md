@@ -2,7 +2,7 @@
 type: rules
 version: dnd-5e-2024
 source: PHB 2024
-status: verified
+status: needs-source-check
 tags: [rules, gotchas, 2024-vs-2014, quick-reference]
 updated: 2026-05-19
 ---

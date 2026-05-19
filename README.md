@@ -1,5 +1,14 @@
 # D&D 5e 2024 Rules Knowledge Base
 
+> ⚠️ **Disclaimer: Work-in-Progress Reference**
+> 
+> This is a community-maintained reference compiled from secondary sources (aidedd.org, wikidot, rpgbot.net, etc.), **not** a verbatim reproduction of the official 2024 Player's Handbook. Most files are marked `status: needs-source-check` — treat them as useful reference material, not authoritative RAW (Rules As Written). Always verify against the official PHB for final rulings.
+> 
+> **Source verification levels:**
+> - `verified` — Cross-checked against official PHB text
+> - `needs-source-check` — Compiled from secondary sources, not yet verified against PHB
+> - `unverified` — Rough draft, may contain errors
+
 A structured, searchable reference for **D&D 5th Edition 2024 Revised Rules** (PHB, DMG, MM).
 
 Built for AI DMs and players to query during sessions.
