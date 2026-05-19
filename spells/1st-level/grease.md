@@ -1,0 +1,36 @@
+---
+type: spell
+level: 1
+school: conjuration
+version: dnd-5e-2024
+source: PHB 2024
+status: needs-source-check
+tags: [spell, 1st-level, conjuration, grease]
+updated: 2026-05-19
+---
+
+# Grease
+
+*1st-level Conjuration*
+
+- **Casting Time:** Action
+- **Range:** 60 feet
+- **Components:** V, S, M (a bit of pork rind or butter)
+- **Duration:** 1 minute
+- **Concentration:** No
+- **Ritual:** No
+
+## Description
+
+Nonflammable grease covers the ground in a 10-foot square centered on a point within range and turns it into Difficult Terrain for the duration.
+
+When the grease appears, each creature standing in its area must succeed on a Dexterity saving throw or have the Prone condition. A creature that enters the area or ends its turn there must also succeed on that save or fall Prone.
+
+## Spell Lists
+
+- **Classes:** Artificer, Sorcerer, Wizard
+- **Categories:** Arcane
+
+## 2024 Changes
+
+*Needs verification against 2014 PHB version.*
