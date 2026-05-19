@@ -1,3 +1,13 @@
+---
+type: feat
+category: epic-boon
+version: dnd-5e-2024
+source: PHB 2024, Feats
+status: needs-source-check
+tags: [feat, epic-boon, boon-of-irresistible-offense]
+updated: 2026-05-19
+---
+
 # Boon of Irresistible Offense
 
 **Source:** Player's Handbook 2024  

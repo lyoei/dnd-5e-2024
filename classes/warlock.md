@@ -1,3 +1,12 @@
+---
+type: class
+version: dnd-5e-2024
+source: PHB 2024, Classes
+status: needs-source-check
+tags: [class, warlock, archfey-patron, celestial-patron, fiend-patron, great-old-one-patron]
+updated: 2026-05-19
+---
+
 # Warlock
 
 > *Source: Player's Handbook (2024)*

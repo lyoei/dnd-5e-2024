@@ -1,3 +1,13 @@
+---
+type: feat
+category: general
+version: dnd-5e-2024
+source: PHB 2024, Feats
+status: needs-source-check
+tags: [feat, general, great-weapon-master]
+updated: 2026-05-19
+---
+
 # Great Weapon Master
 
 **Source:** Player's Handbook 2024  

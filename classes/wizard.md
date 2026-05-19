@@ -1,3 +1,12 @@
+---
+type: class
+version: dnd-5e-2024
+source: PHB 2024, Classes
+status: needs-source-check
+tags: [class, wizard, abjurer, diviner, evoker, illusionist]
+updated: 2026-05-19
+---
+
 # Wizard
 
 > Scholarly magic-users who cast spells of explosive power, subtle deception, and spectacular transformation through exhaustive study of magic's inner workings.

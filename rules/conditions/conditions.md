@@ -1,3 +1,12 @@
+---
+type: rules
+version: dnd-5e-2024
+source: PHB 2024
+status: needs-source-check
+tags: [rules, conditions]
+updated: 2026-05-19
+---
+
 # Conditions
 
 > Source: 2024 Player's Handbook — Rules Glossary

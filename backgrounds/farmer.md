@@ -1,3 +1,12 @@
+---
+type: background
+version: dnd-5e-2024
+source: PHB 2024, Backgrounds
+status: needs-source-check
+tags: [background, farmer, tough]
+updated: 2026-05-19
+---
+
 # Farmer
 
 **Source:** Player's Handbook (2024)
@@ -13,7 +22,7 @@ You grew up close to the land. Years of tending the fields, growing crops, mindi
 | **Ability Scores** | Strength, Constitution, Wisdom (choose +2/+1 or +1/+1/+1) |
 | **Skill Proficiencies** | Animal Handling, Nature |
 | **Tool Proficiency** | Carpenter's Tools |
-| **Origin Feat** | Tough |
+| **Origin Feat** | [Tough](../feats/origin/tough.md) |
 
 ## Equipment
 
@@ -23,8 +32,8 @@ Choose A or B:
 
 ## Origin Feat: Tough
 
-Your Hit Point maximum increases by an amount equal to twice your character level when you gain this feat. Whenever you gain a level thereafter, your Hit Point maximum increases by an additional 2 Hit Points.
+**Origin Feat:** [Tough](../feats/origin/tough.md) — HP maximum increases by twice your character level, plus 2 additional HP per level gained thereafter.
 
 ## 2024 Changes
 
-- **New Background:** Farmer is new to the 2024 PHB. It did not exist in the 2014 PHB (Folk Hero was the closest equivalent).
+New background in the 2024 PHB. No 2014 equivalent. Folk Hero was the closest thematic predecessor.

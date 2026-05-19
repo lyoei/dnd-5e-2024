@@ -1,3 +1,12 @@
+---
+type: class
+version: dnd-5e-2024
+source: PHB 2024, Classes
+status: needs-source-check
+tags: [class, barbarian, path-of-the-berserker, path-of-the-wild-heart, path-of-the-world-tree, path-of-the-zealot]
+updated: 2026-05-19
+---
+
 # Barbarian
 
 > *Source: 2024 Player's Handbook*

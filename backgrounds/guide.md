@@ -1,3 +1,12 @@
+---
+type: background
+version: dnd-5e-2024
+source: PHB 2024, Backgrounds
+status: needs-source-check
+tags: [background, guide, magic-initiate-druid]
+updated: 2026-05-19
+---
+
 # Guide
 
 **Source:** Player's Handbook (2024)
@@ -13,7 +22,7 @@ You came of age outdoors, far from civilization's comforts. Your style of life w
 | **Ability Scores** | Dexterity, Constitution, Wisdom (choose +2/+1 or +1/+1/+1) |
 | **Skill Proficiencies** | Stealth, Survival |
 | **Tool Proficiency** | Cartographer's Tools |
-| **Origin Feat** | Magic Initiate (Druid) |
+| **Origin Feat** | [Magic Initiate (Druid)](../feats/origin/magic-initiate.md) |
 
 ## Equipment
 
@@ -23,8 +32,8 @@ Choose A or B:
 
 ## Origin Feat: Magic Initiate (Druid)
 
-You learn two cantrips and one 1st-level spell from the Druid spell list. You can cast the 1st-level spell once per Long Rest without a spell slot, or using any spell slots you have. Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells (choose when you select this feat).
+**Origin Feat:** [Magic Initiate (Druid)](../feats/origin/magic-initiate.md) — Learn two Druid cantrips and one 1st-level Druid spell; cast the spell once per Long Rest without a slot or using any spell slots you have.
 
 ## 2024 Changes
 
-- **New Background:** Guide is new to the 2024 PHB. It did not exist in the 2014 PHB (Outlander was the closest equivalent).
+New background in the 2024 PHB. No 2014 equivalent. Outlander was the closest thematic predecessor.

@@ -1,3 +1,12 @@
+---
+type: background
+version: dnd-5e-2024
+source: PHB 2024, Backgrounds
+status: needs-source-check
+tags: [background, soldier, savage-attacker]
+updated: 2026-05-19
+---
+
 # Soldier
 
 **Source:** Player's Handbook (2024)
@@ -13,7 +22,7 @@ You began training for war as soon as you reached adulthood and carried a weapon
 | **Ability Scores** | Strength, Dexterity, Constitution (choose +2/+1 or +1/+1/+1) |
 | **Skill Proficiencies** | Athletics, Intimidation |
 | **Tool Proficiency** | Choose one kind of Gaming Set |
-| **Origin Feat** | Savage Attacker |
+| **Origin Feat** | [Savage Attacker](../feats/origin/savage-attacker.md) |
 
 ## Equipment
 
@@ -23,13 +32,13 @@ Choose A or B:
 
 ## Origin Feat: Savage Attacker
 
-You've trained to deal particularly devastating blows. Once per turn when you hit a target with a weapon, you can roll the weapon's damage dice twice and use either roll against the target.
+**Origin Feat:** [Savage Attacker](../feats/origin/savage-attacker.md) — Once per turn when you hit with a weapon, roll the weapon's damage dice twice and use either roll.
 
 ## 2024 Changes
 
 - **Ability Scores:** Now grants ability score increases (Str/Dex/Con). Previously, backgrounds did not grant ASIs.
 - **Origin Feat:** Gains Savage Attacker. Previously, backgrounds did not grant feats.
-- **Skill Proficiencies:** Changed from Athletics and Intimidation (unchanged).
+- **Skill Proficiencies:** Athletics and Intimidation, unchanged from 2014.
 - **Tool Proficiency:** Now one Gaming Set. Previously granted one Gaming Set and land vehicles.
 - **Removed:** Military Rank feature, personality traits, ideals, bonds, and flaws tables, and language proficiencies are no longer part of backgrounds.
 - **Equipment:** Updated equipment package and GP values.

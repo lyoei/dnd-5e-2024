@@ -1,3 +1,12 @@
+---
+type: background
+version: dnd-5e-2024
+source: PHB 2024, Backgrounds
+status: needs-source-check
+tags: [background, charlatan, skilled]
+updated: 2026-05-19
+---
+
 # Charlatan
 
 **Source:** Player's Handbook (2024)
@@ -13,7 +22,7 @@ Once you were old enough to order an ale, you soon had a favorite stool in every
 | **Ability Scores** | Dexterity, Constitution, Charisma (choose +2/+1 or +1/+1/+1) |
 | **Skill Proficiencies** | Deception, Sleight of Hand |
 | **Tool Proficiency** | Forgery Kit |
-| **Origin Feat** | Skilled |
+| **Origin Feat** | [Skilled](../feats/origin/skilled.md) |
 
 ## Equipment
 
@@ -23,13 +32,13 @@ Choose A or B:
 
 ## Origin Feat: Skilled
 
-You gain proficiency in any combination of three skills or tools of your choice.
+**Origin Feat:** [Skilled](../feats/origin/skilled.md) — Gain proficiency in any combination of three skills or tools of your choice.
 
 ## 2024 Changes
 
 - **Ability Scores:** Now grants ability score increases (Dex/Con/Cha). Previously, backgrounds did not grant ASIs.
 - **Origin Feat:** Gains the Skilled feat. Previously, backgrounds did not grant feats.
-- **Skill Proficiencies:** Changed from Deception and Sleight of Hand (unchanged).
+- **Skill Proficiencies:** Deception and Sleight of Hand, unchanged from 2014.
 - **Tool Proficiency:** Now grants Forgery Kit only. Previously granted Disguise Kit and Forgery Kit.
 - **Removed:** False Identity feature, personality traits, ideals, bonds, and flaws tables, and language proficiencies are no longer part of backgrounds.
 - **Equipment:** Updated equipment package and GP values.

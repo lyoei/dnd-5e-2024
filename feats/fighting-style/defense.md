@@ -1,3 +1,13 @@
+---
+type: feat
+category: fighting-style
+version: dnd-5e-2024
+source: PHB 2024, Feats
+status: needs-source-check
+tags: [feat, fighting-style, defense]
+updated: 2026-05-19
+---
+
 # Defense
 
 **Source:** Player's Handbook 2024  

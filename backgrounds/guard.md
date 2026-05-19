@@ -1,3 +1,12 @@
+---
+type: background
+version: dnd-5e-2024
+source: PHB 2024, Backgrounds
+status: needs-source-check
+tags: [background, guard, alert]
+updated: 2026-05-19
+---
+
 # Guard
 
 **Source:** Player's Handbook (2024)
@@ -13,7 +22,7 @@ You served as a guard, protecting those around you from danger. Perhaps you watc
 | **Ability Scores** | Strength, Intelligence, Wisdom (choose +2/+1 or +1/+1/+1) |
 | **Skill Proficiencies** | Athletics, Perception |
 | **Tool Proficiency** | Choose one kind of Gaming Set |
-| **Origin Feat** | Alert |
+| **Origin Feat** | [Alert](../feats/origin/alert.md) |
 
 ## Equipment
 
@@ -23,11 +32,8 @@ Choose A or B:
 
 ## Origin Feat: Alert
 
-You gain the following benefits:
-
-- **Initiative Proficiency.** When you roll Initiative, you can add your Proficiency Bonus to the roll.
-- **Initiative Swap.** Immediately after you roll Initiative, you can swap your Initiative with one willing ally in the same combat. You can't make this swap if you or the ally is Incapacitated.
+**Origin Feat:** [Alert](../feats/origin/alert.md) — Add Proficiency Bonus to Initiative rolls and swap Initiative with a willing ally.
 
 ## 2024 Changes
 
-- **New Background:** Guard is new to the 2024 PHB. It did not exist in the 2014 PHB (Soldier was the closest equivalent for a martial/watchkeeping background).
+New background in the 2024 PHB. No 2014 equivalent. Soldier was the closest thematic predecessor for a martial/watchkeeping background.

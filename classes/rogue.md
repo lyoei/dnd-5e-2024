@@ -1,3 +1,12 @@
+---
+type: class
+version: dnd-5e-2024
+source: PHB 2024, Classes
+status: needs-source-check
+tags: [class, rogue, arcane-trickster, assassin, soulknife, thief]
+updated: 2026-05-19
+---
+
 # Rogue
 
 > *Source: Player's Handbook (2024)*

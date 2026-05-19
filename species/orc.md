@@ -1,3 +1,12 @@
+---
+type: species
+version: dnd-5e-2024
+source: PHB 2024, Species
+status: needs-source-check
+tags: [species, orc]
+updated: 2026-05-19
+---
+
 # Orc
 
 > Source: 2024 Player's Handbook

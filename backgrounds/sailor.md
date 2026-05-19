@@ -1,3 +1,12 @@
+---
+type: background
+version: dnd-5e-2024
+source: PHB 2024, Backgrounds
+status: needs-source-check
+tags: [background, sailor, tavern-brawler]
+updated: 2026-05-19
+---
+
 # Sailor
 
 **Source:** Player's Handbook (2024)
@@ -13,7 +22,7 @@ You spent years at sea, whether as a deckhand, navigator, boatswain, or captain.
 | **Ability Scores** | Strength, Dexterity, Wisdom (choose +2/+1 or +1/+1/+1) |
 | **Skill Proficiencies** | Acrobatics, Perception |
 | **Tool Proficiency** | Navigator's Tools |
-| **Origin Feat** | Tavern Brawler |
+| **Origin Feat** | [Tavern Brawler](../feats/origin/tavern-brawler.md) |
 
 ## Equipment
 
@@ -23,18 +32,13 @@ Choose A or B:
 
 ## Origin Feat: Tavern Brawler
 
-You gain the following benefits:
-
-- **Enhanced Unarmed Strike.** When you hit with your Unarmed Strike and deal damage, you can deal Bludgeoning damage equal to 1d4 plus your Strength modifier instead of the normal damage of an Unarmed Strike.
-- **Damage Rerolls.** Whenever you roll a damage die for your Unarmed Strike, you can reroll the die if it rolls a 1, and you must use the new roll.
-- **Shove.** When you hit a creature with an Unarmed Strike as part of the Attack action on your turn, you can deal damage to the target and also push it 5 feet away from you. You can use this benefit only once per turn.
-- **Furniture as Weapons.** You can wield furniture as a Weapon, using the statistics of a Club for Small furniture or a Greatclub for Medium or larger furniture.
+**Origin Feat:** [Tavern Brawler](../feats/origin/tavern-brawler.md) — Enhanced Unarmed Strikes (1d4 + Str), reroll 1s on unarmed damage, shove 5 ft on hit (once per turn), and wield furniture as weapons.
 
 ## 2024 Changes
 
 - **Ability Scores:** Now grants ability score increases (Str/Dex/Wis). Previously, backgrounds did not grant ASIs.
 - **Origin Feat:** Gains Tavern Brawler. Previously, backgrounds did not grant feats.
-- **Skill Proficiencies:** Changed from Athletics and Perception to Acrobatics and Perception.
-- **Tool Proficiency:** Navigator's Tools (unchanged).
+- **Skill Proficiencies:** Changed from Athletics and Perception (2014) to Acrobatics and Perception.
+- **Tool Proficiency:** Navigator's Tools, unchanged from 2014.
 - **Removed:** Ship's Passage feature, personality traits, ideals, bonds, and flaws tables, and language proficiencies are no longer part of backgrounds.
 - **Equipment:** Updated equipment package and GP values.

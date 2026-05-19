@@ -1,3 +1,12 @@
+---
+type: species
+version: dnd-5e-2024
+source: PHB 2024, Species
+status: needs-source-check
+tags: [species, aasimar]
+updated: 2026-05-19
+---
+
 # Aasimar
 
 > Source: 2024 Player's Handbook

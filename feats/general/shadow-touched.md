@@ -1,3 +1,13 @@
+---
+type: feat
+category: general
+version: dnd-5e-2024
+source: PHB 2024, Feats
+status: needs-source-check
+tags: [feat, general, shadow-touched]
+updated: 2026-05-19
+---
+
 # Shadow-Touched
 
 **Source:** Player's Handbook 2024  

@@ -1,3 +1,12 @@
+---
+type: class
+version: dnd-5e-2024
+source: PHB 2024, Classes
+status: needs-source-check
+tags: [class, cleric, life-domain, light-domain, trickery-domain, war-domain, knowledge-domain]
+updated: 2026-05-19
+---
+
 # Cleric
 
 > *Source: 2024 Player's Handbook*

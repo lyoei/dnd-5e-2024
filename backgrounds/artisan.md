@@ -1,3 +1,12 @@
+---
+type: background
+version: dnd-5e-2024
+source: PHB 2024, Backgrounds
+status: needs-source-check
+tags: [background, artisan, crafter]
+updated: 2026-05-19
+---
+
 # Artisan
 
 **Source:** Player's Handbook (2024)
@@ -13,7 +22,7 @@ You began mopping floors and scrubbing counters in an artisan's workshop for a f
 | **Ability Scores** | Strength, Dexterity, Intelligence (choose +2/+1 or +1/+1/+1) |
 | **Skill Proficiencies** | Investigation, Persuasion |
 | **Tool Proficiency** | Choose one kind of Artisan's Tools |
-| **Origin Feat** | Crafter |
+| **Origin Feat** | [Crafter](../feats/origin/crafter.md) |
 
 ## Equipment
 
@@ -23,13 +32,8 @@ Choose A or B:
 
 ## Origin Feat: Crafter
 
-You gain the following benefits:
-
-- **Crafting:** You can craft nonmagical items at a faster rate than normal, spending half the normal time and cost.
-- **Discount:** Whenever you buy a nonmagical item, you receive a 20 percent discount.
-- **Tool Proficiency:** You gain proficiency with three different Artisan's Tools of your choice.
+**Origin Feat:** [Crafter](../feats/origin/crafter.md) — Craft nonmagical items at half time/cost, get a 20% discount on nonmagical purchases, and gain proficiency with three Artisan's Tools.
 
 ## 2024 Changes
 
-- **New Background:** Artisan is new to the 2024 PHB. It did not exist in the 2014 PHB (Guild Artisan was the closest equivalent).
-- Replaces aspects of the former Guild Artisan background but with a different mechanical package.
+New background in the 2024 PHB. No 2014 equivalent. Guild Artisan was the closest thematic predecessor but had a different mechanical package (no ASIs, no Origin Feat, different proficiencies).

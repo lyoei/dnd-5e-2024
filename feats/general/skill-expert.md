@@ -1,3 +1,13 @@
+---
+type: feat
+category: general
+version: dnd-5e-2024
+source: PHB 2024, Feats
+status: needs-source-check
+tags: [feat, general, skill-expert]
+updated: 2026-05-19
+---
+
 # Skill Expert
 
 **Source:** Player's Handbook 2024  

@@ -1,3 +1,12 @@
+---
+type: class
+version: dnd-5e-2024
+source: PHB 2024, Classes
+status: needs-source-check
+tags: [class, monk, warrior-of-mercy, warrior-of-shadow, warrior-of-the-elements, warrior-of-the-open-hand]
+updated: 2026-05-19
+---
+
 # Monk
 
 > *Source: 2024 Player's Handbook*

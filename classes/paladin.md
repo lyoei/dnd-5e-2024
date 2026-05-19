@@ -1,3 +1,12 @@
+---
+type: class
+version: dnd-5e-2024
+source: PHB 2024, Classes
+status: needs-source-check
+tags: [class, paladin, oath-of-devotion, oath-of-glory, oath-of-the-ancients, oath-of-vengeance]
+updated: 2026-05-19
+---
+
 # Paladin
 
 > *Source: 2024 Player's Handbook*

@@ -1,3 +1,12 @@
+---
+type: class
+version: dnd-5e-2024
+source: PHB 2024, Classes
+status: needs-source-check
+tags: [class, bard, college-of-dance, college-of-glamour, college-of-lore, college-of-valor, college-of-the-moon]
+updated: 2026-05-19
+---
+
 # Bard
 
 > *Source: 2024 Player's Handbook*

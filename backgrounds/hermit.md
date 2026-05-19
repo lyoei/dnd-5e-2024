@@ -1,3 +1,12 @@
+---
+type: background
+version: dnd-5e-2024
+source: PHB 2024, Backgrounds
+status: needs-source-check
+tags: [background, hermit, healer]
+updated: 2026-05-19
+---
+
 # Hermit
 
 **Source:** Player's Handbook (2024)
@@ -13,7 +22,7 @@ You lived for a time in seclusion — either in a sheltered community such as a 
 | **Ability Scores** | Constitution, Wisdom, Charisma (choose +2/+1 or +1/+1/+1) |
 | **Skill Proficiencies** | Medicine, Religion |
 | **Tool Proficiency** | Herbalism Kit |
-| **Origin Feat** | Healer |
+| **Origin Feat** | [Healer](../feats/origin/healer.md) |
 
 ## Equipment
 
@@ -23,16 +32,13 @@ Choose A or B:
 
 ## Origin Feat: Healer
 
-You gain the following benefits:
-
-- **Battle Medic.** If you have a Healer's Kit, you can expend one use of it and tend to a creature within 5 feet of you as a Utilize action. That creature regains 2d6 + 2 Hit Points. That creature can't regain Hit Points from this feat again until it finishes a Short or Long Rest.
-- **Healing Rerolls.** Whenever you roll a die to determine the number of Hit Points you restore with a spell or with this feat's Battle Medic benefit, you can reroll the die if it rolls a 1, and you must use the new roll.
+**Origin Feat:** [Healer](../feats/origin/healer.md) — Use a Healer's Kit to restore 2d6+2 HP as a Utilize action (once per creature per rest). Reroll 1s on healing dice from spells and this feat.
 
 ## 2024 Changes
 
 - **Ability Scores:** Now grants ability score increases (Con/Wis/Cha). Previously, backgrounds did not grant ASIs.
 - **Origin Feat:** Gains the Healer feat. Previously, backgrounds did not grant feats.
-- **Skill Proficiencies:** Changed from Medicine and Religion (unchanged).
-- **Tool Proficiency:** Herbalism Kit (unchanged).
+- **Skill Proficiencies:** Medicine and Religion, unchanged from 2014.
+- **Tool Proficiency:** Herbalism Kit, unchanged from 2014.
 - **Removed:** Discovery feature, personality traits, ideals, bonds, and flaws tables, and language proficiencies are no longer part of backgrounds.
 - **Equipment:** Updated equipment package and GP values.

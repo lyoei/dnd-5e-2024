@@ -1,3 +1,13 @@
+---
+type: feat
+category: general
+version: dnd-5e-2024
+source: PHB 2024, Feats
+status: needs-source-check
+tags: [feat, general, ritual-caster]
+updated: 2026-05-19
+---
+
 # Ritual Caster
 
 **Source:** Player's Handbook 2024  

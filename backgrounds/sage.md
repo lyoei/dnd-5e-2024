@@ -1,3 +1,12 @@
+---
+type: background
+version: dnd-5e-2024
+source: PHB 2024, Backgrounds
+status: needs-source-check
+tags: [background, sage, magic-initiate-wizard]
+updated: 2026-05-19
+---
+
 # Sage
 
 **Source:** Player's Handbook (2024)
@@ -13,7 +22,7 @@ You spent your formative years traveling between libraries, absorbing knowledge 
 | **Ability Scores** | Constitution, Intelligence, Wisdom (choose +2/+1 or +1/+1/+1) |
 | **Skill Proficiencies** | Arcana, History |
 | **Tool Proficiency** | Calligrapher's Supplies |
-| **Origin Feat** | Magic Initiate (Wizard) |
+| **Origin Feat** | [Magic Initiate (Wizard)](../feats/origin/magic-initiate.md) |
 
 ## Equipment
 
@@ -23,13 +32,13 @@ Choose A or B:
 
 ## Origin Feat: Magic Initiate (Wizard)
 
-You learn two cantrips and one 1st-level spell from the Wizard spell list. You can cast the 1st-level spell once per Long Rest without a spell slot, or using any spell slots you have. Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells (choose when you select this feat).
+**Origin Feat:** [Magic Initiate (Wizard)](../feats/origin/magic-initiate.md) — Learn two Wizard cantrips and one 1st-level Wizard spell; cast the spell once per Long Rest without a slot or using any spell slots you have.
 
 ## 2024 Changes
 
 - **Ability Scores:** Now grants ability score increases (Con/Int/Wis). Previously, backgrounds did not grant ASIs.
 - **Origin Feat:** Gains Magic Initiate (Wizard). Previously, backgrounds did not grant feats.
-- **Skill Proficiencies:** Arcana and History (unchanged).
+- **Skill Proficiencies:** Arcana and History, unchanged from 2014.
 - **Tool Proficiency:** Now Calligrapher's Supplies. Previously granted two languages instead.
 - **Removed:** Researcher feature, personality traits, ideals, bonds, and flaws tables, and language proficiencies are no longer part of backgrounds.
 - **Equipment:** Updated equipment package and GP values.

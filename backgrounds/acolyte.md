@@ -1,3 +1,12 @@
+---
+type: background
+version: dnd-5e-2024
+source: PHB 2024, Backgrounds
+status: needs-source-check
+tags: [background, acolyte, magic-initiate-cleric]
+updated: 2026-05-19
+---
+
 # Acolyte
 
 **Source:** Player's Handbook (2024)
@@ -13,7 +22,7 @@ You devoted yourself to service in a temple, either nestled in a town or seclude
 | **Ability Scores** | Intelligence, Wisdom, Charisma (choose +2/+1 or +1/+1/+1) |
 | **Skill Proficiencies** | Insight, Religion |
 | **Tool Proficiency** | Calligrapher's Supplies |
-| **Origin Feat** | Magic Initiate (Cleric) |
+| **Origin Feat** | [Magic Initiate (Cleric)](../feats/origin/magic-initiate.md) |
 
 ## Equipment
 
@@ -23,7 +32,7 @@ Choose A or B:
 
 ## Origin Feat: Magic Initiate (Cleric)
 
-You learn two cantrips and one 1st-level spell from the Cleric spell list. You can cast the 1st-level spell once per Long Rest without a spell slot, or using any spell slots you have. Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells (choose when you select this feat).
+**Origin Feat:** [Magic Initiate (Cleric)](../feats/origin/magic-initiate.md) — Learn two Cleric cantrips and one 1st-level Cleric spell; cast the spell once per Long Rest without a slot or using any spell slots you have.
 
 ## 2024 Changes
 

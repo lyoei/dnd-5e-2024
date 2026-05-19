@@ -1,3 +1,12 @@
+---
+type: background
+version: dnd-5e-2024
+source: PHB 2024, Backgrounds
+status: needs-source-check
+tags: [background, scribe, skilled]
+updated: 2026-05-19
+---
+
 # Scribe
 
 **Source:** Player's Handbook (2024)
@@ -13,7 +22,7 @@ You spent formative years in a scriptorium, copying books and learning a great d
 | **Ability Scores** | Dexterity, Intelligence, Wisdom (choose +2/+1 or +1/+1/+1) |
 | **Skill Proficiencies** | Investigation, Perception |
 | **Tool Proficiency** | Calligrapher's Supplies |
-| **Origin Feat** | Skilled |
+| **Origin Feat** | [Skilled](../feats/origin/skilled.md) |
 
 ## Equipment
 
@@ -23,8 +32,8 @@ Choose A or B:
 
 ## Origin Feat: Skilled
 
-You gain proficiency in any combination of three skills or tools of your choice.
+**Origin Feat:** [Skilled](../feats/origin/skilled.md) — Gain proficiency in any combination of three skills or tools of your choice.
 
 ## 2024 Changes
 
-- **New Background:** Scribe is new to the 2024 PHB. It did not exist in the 2014 PHB (Sage or Cloistered Scholar were the closest equivalents).
+New background in the 2024 PHB. No 2014 equivalent. Sage or Cloistered Scholar were the closest thematic predecessors.
