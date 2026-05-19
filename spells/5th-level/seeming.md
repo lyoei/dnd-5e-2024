@@ -1,11 +1,11 @@
 ---
 type: spell
 level: 5
-school: Illusion
+school: illusion
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
-tags: [spell, 5th-level, Illusion, seeming]
+tags: [spell, 5th-level, illusion, seeming]
 updated: 2026-05-19
 ---
 
@@ -26,7 +26,7 @@ This spell allows you to change the appearance of any number of creatures that y
 
 ## At Higher Levels
 
-No additional effect at higher levels.
+None.
 
 ## Spell Lists
 

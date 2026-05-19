@@ -1,7 +1,7 @@
 ---
 type: spell
 level: 3
-school: Transmutation
+school: transmutation
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
@@ -30,7 +30,7 @@ When you cast this spell using a spell slot of 4th level or higher, you can targ
 
 ## Spell Lists
 
-- Arcane (Sorcerer, Warlock, Wizard)
+Sorcerer, Warlock, Wizard
 
 ## 2024 Changes
 

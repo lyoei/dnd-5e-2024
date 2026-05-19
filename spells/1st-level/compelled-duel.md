@@ -28,8 +28,7 @@ The spell ends if you make an attack roll against a creature other than the targ
 
 ## Spell Lists
 
-- **Classes:** Paladin
-- **Categories:** Divine
+Paladin
 
 ## 2024 Changes
 

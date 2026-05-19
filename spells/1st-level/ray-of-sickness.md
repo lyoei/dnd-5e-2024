@@ -28,8 +28,7 @@ You shoot a greenish ray at a creature within range. Make a ranged spell attack 
 
 ## Spell Lists
 
-- **Classes:** Sorcerer, Wizard
-- **Categories:** Arcane
+Sorcerer, Wizard
 
 ## 2024 Changes
 

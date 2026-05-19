@@ -1,7 +1,7 @@
 ---
 type: spell
 level: 8
-school: Conjuration
+school: conjuration
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
@@ -11,14 +11,14 @@ updated: 2026-05-19
 
 # Demiplane
 
-**Level:** 8th
-**School:** Conjuration
-**Casting Time:** Action
-**Range:** 60 feet
-**Components:** S
-**Duration:** 1 hour
-**Concentration:** No
-**Ritual:** No
+- **Level:** 8th
+- **School:** Conjuration
+- **Casting Time:** Action
+- **Range:** 60 feet
+- **Components:** S
+- **Duration:** 1 hour
+- **Concentration:** No
+- **Ritual:** No
 
 ## Description
 
@@ -28,13 +28,11 @@ When the spell ends, the door disappears, and any creatures or objects inside th
 
 ## At Higher Levels
 
-Not applicable.
+None.
 
 ## Spell Lists
 
-- Arcane (Wizard)
-- Warlock
-- Sorcerer
+Wizard, Warlock, Sorcerer
 
 ## 2024 Changes
 

@@ -1,7 +1,7 @@
 ---
 type: spell
 level: 2
-school: Conjuration
+school: conjuration
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
@@ -26,8 +26,7 @@ Briefly surrounded by silvery mist, you teleport up to 30 feet to an unoccupied 
 
 ## Spell Lists
 
-- **Classes:** Sorcerer, Warlock, Wizard
-- **Spell Lists:** Arcane
+Sorcerer, Warlock, Wizard
 
 ## 2024 Changes
 

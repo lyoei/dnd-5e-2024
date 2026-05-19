@@ -1,11 +1,11 @@
 ---
 type: spell
 level: 6
-school: Abjuration
+school: abjuration
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
-tags: [spell, 6th-level, Abjuration, heal]
+tags: [spell, 6th-level, abjuration, heal]
 updated: 2026-05-19
 ---
 

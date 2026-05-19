@@ -1,7 +1,7 @@
 ---
 type: spell
 level: 4
-school: Enchantment
+school: enchantment
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
@@ -17,9 +17,8 @@ updated: 2026-05-19
 - **Range:** 30 feet
 - **Components:** V, S
 - **Duration:** 1 hour
-- **Concentration:** no
-- **Ritual:** no
-
+- **Concentration:** No
+- **Ritual:** No
 ## Description
 
 You attempt to charm a creature you can see within range. It must make a Wisdom saving throw, and it does so with Advantage if you or your companions are fighting it. On a failed save, the target has the Charmed condition until the spell ends or until you or your allies damage it. The Charmed creature is friendly to you. When the spell ends, the creature knows it was Charmed by you.

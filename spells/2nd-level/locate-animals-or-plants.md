@@ -1,7 +1,7 @@
 ---
 type: spell
 level: 2
-school: Divination
+school: divination
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
@@ -26,8 +26,7 @@ Describe or name a specific kind of Beast, Plant creature, or nonmagical plant. 
 
 ## Spell Lists
 
-- **Classes:** Bard, Druid, Ranger
-- **Spell Lists:** Arcane, Primal
+Bard, Druid, Ranger
 
 ## 2024 Changes
 

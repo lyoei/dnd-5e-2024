@@ -1,7 +1,7 @@
 ---
 type: spell
 level: 4
-school: Conjuration
+school: conjuration
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
@@ -17,9 +17,8 @@ updated: 2026-05-19
 - **Range:** 90 feet
 - **Components:** V, S, M (air, a pebble, ash, and water inside a gold-inlaid vial worth 400+ GP)
 - **Duration:** Concentration, up to 1 hour
-- **Concentration:** yes
-- **Ritual:** no
-
+- **Concentration:** Yes
+- **Ritual:** No
 ## Description
 
 You call forth an elemental spirit. It manifests in an unoccupied space that you can see within range and uses the Elemental Spirit stat block. When you cast the spell, choose an element: Air, Earth, Fire, or Water. The creature resembles a vaguely humanoid form wreathed in the chosen element, which determines certain details in its stat block. The creature disappears when it drops to 0 Hit Points or when the spell ends.

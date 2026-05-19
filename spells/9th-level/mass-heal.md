@@ -1,7 +1,7 @@
 ---
 type: spell
 level: 9
-school: Abjuration
+school: abjuration
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
@@ -11,14 +11,14 @@ updated: 2026-05-19
 
 # Mass Heal
 
-**Level:** 9th
-**School:** Abjuration
-**Casting Time:** 1 action
-**Range:** 60 feet
-**Components:** V, S
-**Duration:** Instantaneous
-**Concentration:** No
-**Ritual:** No
+- **Level:** 9th
+- **School:** Abjuration
+- **Casting Time:** 1 action
+- **Range:** 60 feet
+- **Components:** V, S
+- **Duration:** Instantaneous
+- **Concentration:** No
+- **Ritual:** No
 
 ## Description
 
@@ -26,11 +26,11 @@ A flood of healing energy flows from you into creatures around you. You restore 
 
 ## At Higher Levels
 
-Not applicable.
+None.
 
 ## Spell Lists
 
-- Divine (Cleric)
+Cleric
 
 ## 2024 Changes
 

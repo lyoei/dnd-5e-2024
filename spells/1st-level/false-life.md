@@ -28,8 +28,7 @@ You gain 2d4 + 4 Temporary Hit Points.
 
 ## Spell Lists
 
-- **Classes:** Artificer, Sorcerer, Wizard
-- **Categories:** Arcane
+Artificer, Sorcerer, Wizard
 
 ## 2024 Changes
 

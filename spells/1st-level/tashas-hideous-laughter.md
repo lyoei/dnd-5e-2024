@@ -30,8 +30,7 @@ At the end of each of its turns and each time it takes damage, it makes another 
 
 ## Spell Lists
 
-- **Classes:** Bard, Warlock, Wizard
-- **Categories:** Arcane
+Bard, Warlock, Wizard
 
 ## 2024 Changes
 

@@ -1,7 +1,7 @@
 ---
 type: spell
 level: 8
-school: Conjuration
+school: conjuration
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
@@ -11,14 +11,14 @@ updated: 2026-05-19
 
 # Incendiary Cloud
 
-**Level:** 8th
-**School:** Conjuration
-**Casting Time:** Action
-**Range:** 150 feet
-**Components:** V, S
-**Duration:** Concentration, up to 1 minute
-**Concentration:** Yes
-**Ritual:** No
+- **Level:** 8th
+- **School:** Conjuration
+- **Casting Time:** Action
+- **Range:** 150 feet
+- **Components:** V, S
+- **Duration:** Concentration, up to 1 minute
+- **Concentration:** Yes
+- **Ritual:** No
 
 ## Description
 
@@ -30,13 +30,11 @@ The cloud moves 10 feet away from you in a direction you choose at the start of 
 
 ## At Higher Levels
 
-Not applicable.
+None.
 
 ## Spell Lists
 
-- Arcane (Wizard)
-- Primal (Druid)
-- Sorcerer
+Wizard, Druid, Sorcerer
 
 ## 2024 Changes
 

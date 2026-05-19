@@ -1,11 +1,11 @@
 ---
 type: spell
 level: 6
-school: Conjuration
+school: conjuration
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
-tags: [spell, 6th-level, Conjuration, wall-of-thorns]
+tags: [spell, 6th-level, conjuration, wall-of-thorns]
 updated: 2026-05-19
 ---
 

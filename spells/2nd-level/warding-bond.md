@@ -1,7 +1,7 @@
 ---
 type: spell
 level: 2
-school: Abjuration
+school: abjuration
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
@@ -28,8 +28,7 @@ The spell ends if you drop to 0 Hit Points or if you and the target become separ
 
 ## Spell Lists
 
-- **Classes:** Cleric, Paladin
-- **Spell Lists:** Divine
+Cleric, Paladin
 
 ## 2024 Changes
 

@@ -1,11 +1,11 @@
 ---
 type: spell
 level: 5
-school: Conjuration
+school: conjuration
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
-tags: [spell, 5th-level, Conjuration, steel-wind-strike]
+tags: [spell, 5th-level, conjuration, steel-wind-strike]
 updated: 2026-05-19
 ---
 
@@ -26,7 +26,7 @@ You flourish the weapon used in the casting and then vanish to strike like the w
 
 ## At Higher Levels
 
-No additional effect at higher levels.
+None.
 
 ## Spell Lists
 

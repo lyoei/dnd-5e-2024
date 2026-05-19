@@ -1,11 +1,11 @@
 ---
 type: spell
 level: 6
-school: Necromancy
+school: necromancy
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
-tags: [spell, 6th-level, Necromancy, eyebite]
+tags: [spell, 6th-level, necromancy, eyebite]
 updated: 2026-05-19
 ---
 
@@ -26,7 +26,7 @@ For the spell's duration, your eyes become an inky void imbued with dread power.
 
 ## At Higher Levels
 
-No additional effect at higher levels.
+None.
 
 ## Spell Lists
 

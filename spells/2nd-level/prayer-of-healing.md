@@ -1,7 +1,7 @@
 ---
 type: spell
 level: 2
-school: Abjuration
+school: abjuration
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
@@ -30,8 +30,7 @@ The healing increases by 1d8 for each spell slot level above 2.
 
 ## Spell Lists
 
-- **Classes:** Cleric, Paladin
-- **Spell Lists:** Divine
+Cleric, Paladin
 
 ## 2024 Changes
 

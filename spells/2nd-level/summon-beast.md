@@ -1,7 +1,7 @@
 ---
 type: spell
 level: 2
-school: Conjuration
+school: conjuration
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
@@ -32,8 +32,7 @@ Use the spell slot's level for the spell's level in the stat block.
 
 ## Spell Lists
 
-- **Classes:** Druid, Ranger
-- **Spell Lists:** Primal
+Druid, Ranger
 
 ## 2024 Changes
 

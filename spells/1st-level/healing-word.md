@@ -28,8 +28,7 @@ A creature of your choice that you can see within range regains Hit Points equal
 
 ## Spell Lists
 
-- **Classes:** Bard, Cleric, Druid
-- **Categories:** Arcane, Divine, Primal
+Bard, Cleric, Druid
 
 ## 2024 Changes
 

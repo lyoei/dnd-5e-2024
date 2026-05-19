@@ -1,7 +1,7 @@
 ---
 type: spell
 level: 3
-school: Evocation
+school: evocation
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
@@ -30,8 +30,7 @@ When you cast this spell using a spell slot of 4th level or higher, the healing 
 
 ## Spell Lists
 
-- Divine (Cleric)
-- Arcane (Bard)
+Cleric, Bard
 
 ## 2024 Changes
 

@@ -28,8 +28,7 @@ You create a 20-foot-radius Sphere of fog centered on a point within range. The 
 
 ## Spell Lists
 
-- **Classes:** Druid, Ranger, Sorcerer, Wizard
-- **Categories:** Arcane, Primal
+Druid, Ranger, Sorcerer, Wizard
 
 ## 2024 Changes
 

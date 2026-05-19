@@ -28,8 +28,7 @@ Uneaten berries disappear when the spell ends.
 
 ## Spell Lists
 
-- **Classes:** Druid, Ranger
-- **Categories:** Primal
+Druid, Ranger
 
 ## 2024 Changes
 

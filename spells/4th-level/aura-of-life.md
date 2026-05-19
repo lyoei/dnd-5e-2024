@@ -1,7 +1,7 @@
 ---
 type: spell
 level: 4
-school: Abjuration
+school: abjuration
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
@@ -17,16 +17,15 @@ updated: 2026-05-19
 - **Range:** Self
 - **Components:** V
 - **Duration:** Concentration, up to 10 minutes
-- **Concentration:** yes
-- **Ritual:** no
-
+- **Concentration:** Yes
+- **Ritual:** No
 ## Description
 
 An aura of life-preserving energy radiates from you in a 30-foot Emanation for the duration. The aura moves with you, centered on you. Each nonhostile creature in the aura (including you) has Resistance to Necrotic damage, and its Hit Point maximum can't be reduced. In addition, a nonhostile, living creature regains 1 Hit Point when it starts its turn in the aura with 0 Hit Points.
 
 ## At Higher Levels
 
-None specified.
+None.
 
 ## Spell Lists
 

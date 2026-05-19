@@ -30,8 +30,7 @@ To discern that you are disguised, a creature must take the Study action to insp
 
 ## Spell Lists
 
-- **Classes:** Artificer, Bard, Sorcerer, Wizard
-- **Categories:** Arcane
+Artificer, Bard, Sorcerer, Wizard
 
 ## 2024 Changes
 

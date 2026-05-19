@@ -1,7 +1,7 @@
 ---
 type: spell
 level: 2
-school: Abjuration
+school: abjuration
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
@@ -28,8 +28,7 @@ While affected by this spell, the object is more difficult to break or force ope
 
 ## Spell Lists
 
-- **Classes:** Wizard
-- **Spell Lists:** Arcane
+Wizard
 
 ## 2024 Changes
 

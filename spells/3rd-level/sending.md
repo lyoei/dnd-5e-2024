@@ -1,7 +1,7 @@
 ---
 type: spell
 level: 3
-school: Evocation
+school: evocation
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
@@ -32,8 +32,7 @@ N/A
 
 ## Spell Lists
 
-- Arcane (Bard, Wizard)
-- Divine (Cleric)
+Bard, Wizard, Cleric
 
 ## 2024 Changes
 

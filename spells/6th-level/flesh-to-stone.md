@@ -1,11 +1,11 @@
 ---
 type: spell
 level: 6
-school: Transmutation
+school: transmutation
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
-tags: [spell, 6th-level, Transmutation, flesh-to-stone]
+tags: [spell, 6th-level, transmutation, flesh-to-stone]
 updated: 2026-05-19
 ---
 
@@ -26,7 +26,7 @@ You attempt to turn one creature that you can see within range into stone. If th
 
 ## At Higher Levels
 
-No additional effect at higher levels.
+None.
 
 ## Spell Lists
 

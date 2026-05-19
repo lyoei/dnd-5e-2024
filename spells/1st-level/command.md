@@ -38,8 +38,7 @@ You speak a one-word command to a creature you can see within range. The target 
 
 ## Spell Lists
 
-- **Classes:** Bard, Cleric, Paladin
-- **Categories:** Arcane, Divine
+Bard, Cleric, Paladin
 
 ## 2024 Changes
 

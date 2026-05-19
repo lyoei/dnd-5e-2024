@@ -1,7 +1,7 @@
 ---
 type: spell
 level: 4
-school: Abjuration
+school: abjuration
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
@@ -17,9 +17,8 @@ updated: 2026-05-19
 - **Range:** Touch
 - **Components:** V, S
 - **Duration:** 8 hours
-- **Concentration:** no
-- **Ritual:** no
-
+- **Concentration:** No
+- **Ritual:** No
 ## Description
 
 You touch a creature and grant it a measure of protection from death. The first time the target would drop to 0 Hit Points before the spell ends, the target instead drops to 1 Hit Point, and the spell ends.
@@ -28,7 +27,7 @@ If the spell is still in effect when the target is subjected to an effect that w
 
 ## At Higher Levels
 
-None specified.
+None.
 
 ## Spell Lists
 

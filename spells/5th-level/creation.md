@@ -1,11 +1,11 @@
 ---
 type: spell
 level: 5
-school: Illusion
+school: illusion
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
-tags: [spell, 5th-level, Illusion, creation]
+tags: [spell, 5th-level, illusion, creation]
 updated: 2026-05-19
 ---
 

@@ -28,8 +28,7 @@ As you hit the target, it takes an extra 1d6 Fire damage from the attack. At the
 
 ## Spell Lists
 
-- **Classes:** Paladin
-- **Categories:** Divine
+Paladin
 
 ## 2024 Changes
 

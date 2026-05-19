@@ -1,7 +1,7 @@
 ---
 type: spell
 level: 3
-school: Abjuration
+school: abjuration
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
@@ -38,8 +38,7 @@ When you cast this spell using a spell slot of 4th level or higher, the damage o
 
 ## Spell Lists
 
-- Arcane (Bard, Wizard)
-- Divine (Cleric)
+Bard, Wizard, Cleric
 
 ## 2024 Changes
 

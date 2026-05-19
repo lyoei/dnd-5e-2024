@@ -1,7 +1,7 @@
 ---
 type: spell
 level: 2
-school: Necromancy
+school: necromancy
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
@@ -28,8 +28,7 @@ The spell also effectively extends the time limit on raising the target from the
 
 ## Spell Lists
 
-- **Classes:** Cleric, Paladin, Wizard
-- **Spell Lists:** Arcane, Divine
+Cleric, Paladin, Wizard
 
 ## 2024 Changes
 

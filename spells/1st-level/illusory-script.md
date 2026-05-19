@@ -30,8 +30,7 @@ A creature that has Truesight can read the hidden message.
 
 ## Spell Lists
 
-- **Classes:** Bard, Warlock, Wizard
-- **Categories:** Arcane
+Bard, Warlock, Wizard
 
 ## 2024 Changes
 

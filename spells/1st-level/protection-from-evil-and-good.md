@@ -26,8 +26,7 @@ Until the spell ends, one willing creature you touch is protected against creatu
 
 ## Spell Lists
 
-- **Classes:** Cleric, Druid, Paladin, Warlock, Wizard
-- **Categories:** Arcane, Divine, Primal
+Cleric, Druid, Paladin, Warlock, Wizard
 
 ## 2024 Changes
 

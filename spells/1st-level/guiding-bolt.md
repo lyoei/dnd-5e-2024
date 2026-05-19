@@ -28,8 +28,7 @@ You hurl a bolt of light toward a creature within range. Make a ranged spell att
 
 ## Spell Lists
 
-- **Classes:** Cleric
-- **Categories:** Divine
+Cleric
 
 ## 2024 Changes
 

@@ -1,7 +1,7 @@
 ---
 type: spell
 level: 3
-school: Illusion
+school: illusion
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
@@ -32,7 +32,7 @@ When you cast this spell using a spell slot of 6th level or higher, the spell la
 
 ## Spell Lists
 
-- Arcane (Bard, Sorcerer, Warlock, Wizard)
+Bard, Sorcerer, Warlock, Wizard
 
 ## 2024 Changes
 

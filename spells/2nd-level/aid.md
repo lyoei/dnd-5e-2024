@@ -1,7 +1,7 @@
 ---
 type: spell
 level: 2
-school: Abjuration
+school: abjuration
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
@@ -30,8 +30,7 @@ The number of Temporary Hit Points increases by 5 for each spell slot level abov
 
 ## Spell Lists
 
-- **Classes:** Bard, Cleric, Druid, Ranger
-- **Spell Lists:** Divine, Primal
+Bard, Cleric, Druid, Ranger
 
 ## 2024 Changes
 

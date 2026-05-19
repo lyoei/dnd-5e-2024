@@ -1,7 +1,7 @@
 ---
 type: spell
 level: 4
-school: Evocation
+school: evocation
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
@@ -17,9 +17,8 @@ updated: 2026-05-19
 - **Range:** Self
 - **Components:** V, S
 - **Duration:** Concentration, up to 10 minutes
-- **Concentration:** yes
-- **Ritual:** no
-
+- **Concentration:** Yes
+- **Ritual:** No
 ## Description
 
 A cool light wreathes your body for the duration, emitting Bright Light in a 20-foot radius and Dim Light for an additional 20 feet.
@@ -30,7 +29,7 @@ In addition, immediately after you take damage from a creature you can see withi
 
 ## At Higher Levels
 
-None specified.
+None.
 
 ## Spell Lists
 

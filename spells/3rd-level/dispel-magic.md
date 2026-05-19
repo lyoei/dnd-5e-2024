@@ -1,7 +1,7 @@
 ---
 type: spell
 level: 3
-school: Abjuration
+school: abjuration
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
@@ -30,9 +30,7 @@ When you cast this spell using a spell slot of 4th level or higher, you automati
 
 ## Spell Lists
 
-- Arcane (Bard, Sorcerer, Warlock, Wizard)
-- Divine (Cleric, Paladin)
-- Primal (Druid, Ranger)
+Bard, Sorcerer, Warlock, Wizard, Cleric, Paladin, Druid, Ranger
 
 ## 2024 Changes
 

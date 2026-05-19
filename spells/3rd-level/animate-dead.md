@@ -1,7 +1,7 @@
 ---
 type: spell
 level: 3
-school: Necromancy
+school: necromancy
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
@@ -34,8 +34,7 @@ When you cast this spell using a spell slot of 4th level or higher, you animate 
 
 ## Spell Lists
 
-- Arcane (Wizard)
-- Divine (Cleric)
+Wizard, Cleric
 
 ## 2024 Changes
 

@@ -1,7 +1,7 @@
 ---
 type: spell
 level: 2
-school: Illusion
+school: illusion
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
@@ -30,8 +30,7 @@ With a touch, you place an illusion on a willing creature or an object that isn'
 
 ## Spell Lists
 
-- **Classes:** Wizard
-- **Spell Lists:** Arcane
+Wizard
 
 ## 2024 Changes
 

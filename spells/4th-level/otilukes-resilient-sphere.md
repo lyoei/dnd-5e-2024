@@ -1,7 +1,7 @@
 ---
 type: spell
 level: 4
-school: Evocation
+school: evocation
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
@@ -17,9 +17,8 @@ updated: 2026-05-19
 - **Range:** 30 feet
 - **Components:** V, S, M (a hemispherical piece of clear crystal and a matching hemispherical piece of gum arabic)
 - **Duration:** Concentration, up to 1 minute
-- **Concentration:** yes
-- **Ritual:** no
-
+- **Concentration:** Yes
+- **Ritual:** No
 ## Description
 
 A shimmering Sphere of force encloses a creature or object of Large size or smaller within range. An unwilling creature must make a Dexterity saving throw. On a failed save, the creature is enclosed for the duration.
@@ -32,7 +31,7 @@ A Disintegrate spell targeting the globe destroys it without harming anything in
 
 ## At Higher Levels
 
-None specified.
+None.
 
 ## Spell Lists
 

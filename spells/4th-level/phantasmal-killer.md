@@ -1,7 +1,7 @@
 ---
 type: spell
 level: 4
-school: Illusion
+school: illusion
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
@@ -17,9 +17,8 @@ updated: 2026-05-19
 - **Range:** 120 feet
 - **Components:** V, S
 - **Duration:** Concentration, up to 1 minute
-- **Concentration:** yes
-- **Ritual:** no
-
+- **Concentration:** Yes
+- **Ritual:** No
 ## Description
 
 You tap into the nightmares of a creature you can see within range and create an illusory manifestation of its deepest fears, visible only to that creature. The target makes a Wisdom saving throw. On a failed save, the target takes 4d10 Psychic damage and has the Frightened condition for the duration. On a successful save, the target takes half as much damage only.

@@ -32,8 +32,7 @@ You do one of the following:
 
 ## Spell Lists
 
-- **Classes:** Cleric, Druid
-- **Categories:** Divine, Primal
+Cleric, Druid
 
 ## 2024 Changes
 

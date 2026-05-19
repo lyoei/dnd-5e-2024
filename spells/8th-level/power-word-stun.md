@@ -1,7 +1,7 @@
 ---
 type: spell
 level: 8
-school: Enchantment
+school: enchantment
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
@@ -11,14 +11,14 @@ updated: 2026-05-19
 
 # Power Word Stun
 
-**Level:** 8th
-**School:** Enchantment
-**Casting Time:** Action
-**Range:** 60 feet
-**Components:** V
-**Duration:** Instantaneous
-**Concentration:** No
-**Ritual:** No
+- **Level:** 8th
+- **School:** Enchantment
+- **Casting Time:** Action
+- **Range:** 60 feet
+- **Components:** V
+- **Duration:** Instantaneous
+- **Concentration:** No
+- **Ritual:** No
 
 ## Description
 
@@ -28,14 +28,11 @@ The Stunned target makes a Constitution saving throw at the end of each of its t
 
 ## At Higher Levels
 
-Not applicable.
+None.
 
 ## Spell Lists
 
-- Arcane (Wizard)
-- Bard
-- Sorcerer
-- Warlock
+Wizard, Bard, Sorcerer, Warlock
 
 ## 2024 Changes
 

@@ -28,8 +28,7 @@ Target a Beast that you can see within range. The target must succeed on a Wisdo
 
 ## Spell Lists
 
-- **Classes:** Bard, Druid, Ranger
-- **Categories:** Arcane, Primal
+Bard, Druid, Ranger
 
 ## 2024 Changes
 

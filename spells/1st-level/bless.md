@@ -28,8 +28,7 @@ You bless up to three creatures within range. Whenever a target makes an attack 
 
 ## Spell Lists
 
-- **Classes:** Cleric, Paladin
-- **Categories:** Divine
+Cleric, Paladin
 
 ## 2024 Changes
 

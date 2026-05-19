@@ -26,8 +26,7 @@ Until the spell ends, your attacks with weapons deal an extra 1d4 Radiant damage
 
 ## Spell Lists
 
-- **Classes:** Paladin
-- **Categories:** Divine
+Paladin
 
 ## 2024 Changes
 

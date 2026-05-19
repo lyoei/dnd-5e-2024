@@ -1,7 +1,7 @@
 ---
 type: spell
 level: 9
-school: Illusion
+school: illusion
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
@@ -11,14 +11,14 @@ updated: 2026-05-19
 
 # Weird
 
-**Level:** 9th
-**School:** Illusion
-**Casting Time:** Action
-**Range:** 120 feet
-**Components:** V, S
-**Duration:** Concentration, up to 1 minute
-**Concentration:** Yes
-**Ritual:** No
+- **Level:** 9th
+- **School:** Illusion
+- **Casting Time:** Action
+- **Range:** 120 feet
+- **Components:** V, S
+- **Duration:** Concentration, up to 1 minute
+- **Concentration:** Yes
+- **Ritual:** No
 
 ## Description
 
@@ -28,12 +28,11 @@ A Frightened target makes a Wisdom saving throw at the end of each of its turns.
 
 ## At Higher Levels
 
-Not applicable.
+None.
 
 ## Spell Lists
 
-- Arcane (Wizard)
-- Warlock
+Wizard, Warlock
 
 ## 2024 Changes
 

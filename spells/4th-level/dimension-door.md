@@ -1,7 +1,7 @@
 ---
 type: spell
 level: 4
-school: Conjuration
+school: conjuration
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
@@ -17,9 +17,8 @@ updated: 2026-05-19
 - **Range:** 500 feet
 - **Components:** V
 - **Duration:** Instantaneous
-- **Concentration:** no
-- **Ritual:** no
-
+- **Concentration:** No
+- **Ritual:** No
 ## Description
 
 You teleport to a spot you can see, you can visualize, or you can describe by stating distance and direction, such as "200 feet straight downward" or "300 feet upward to the northwest at a 45-degree angle."
@@ -30,7 +29,7 @@ If you would arrive in a space already occupied by an object or a creature, you 
 
 ## At Higher Levels
 
-None specified.
+None.
 
 ## Spell Lists
 

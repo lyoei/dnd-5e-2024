@@ -1,11 +1,11 @@
 ---
 type: spell
 level: 6
-school: Necromancy
+school: necromancy
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
-tags: [spell, 6th-level, Necromancy, harm]
+tags: [spell, 6th-level, necromancy, harm]
 updated: 2026-05-19
 ---
 
@@ -26,7 +26,7 @@ You unleash a virulent disease on a creature that you can see within range. The 
 
 ## At Higher Levels
 
-No additional effect at higher levels.
+None.
 
 ## Spell Lists
 

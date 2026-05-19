@@ -28,8 +28,7 @@ The spell is blocked by 1 foot of stone, dirt, or wood; 1 inch of metal; or a th
 
 ## Spell Lists
 
-- **Classes:** Artificer, Bard, Cleric, Druid, Paladin, Ranger, Sorcerer, Warlock, Wizard
-- **Categories:** Arcane, Divine, Primal
+Artificer, Bard, Cleric, Druid, Paladin, Ranger, Sorcerer, Warlock, Wizard
 
 ## 2024 Changes
 

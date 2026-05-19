@@ -28,8 +28,7 @@ You create three glowing darts of magical force. Each dart strikes a creature of
 
 ## Spell Lists
 
-- **Classes:** Sorcerer, Wizard
-- **Categories:** Arcane
+Sorcerer, Wizard
 
 ## 2024 Changes
 

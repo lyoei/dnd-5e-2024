@@ -1,11 +1,11 @@
 ---
 type: spell
 level: 7
-school: Illusion
+school: illusion
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
-tags: [spell, 7th-level, Illusion, simulacrum]
+tags: [spell, 7th-level, illusion, simulacrum]
 updated: 2026-05-19
 ---
 
@@ -26,7 +26,7 @@ You shape an illusory duplicate of one Beast or Humanoid that is within range fo
 
 ## At Higher Levels
 
-No additional effect at higher levels.
+None.
 
 ## Spell Lists
 

@@ -1,7 +1,7 @@
 ---
 type: spell
 level: 4
-school: Conjuration
+school: conjuration
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
@@ -17,9 +17,8 @@ updated: 2026-05-19
 - **Range:** 60 feet
 - **Components:** V, S
 - **Duration:** Concentration, up to 1 minute
-- **Concentration:** yes
-- **Ritual:** no
-
+- **Concentration:** Yes
+- **Ritual:** No
 ## Description
 
 You conjure a vine that sprouts from a surface in an unoccupied space that you can see within range. The vine lasts for the duration.
@@ -30,7 +29,7 @@ Until the spell ends, you can direct the vine to lash out at the same target or 
 
 ## At Higher Levels
 
-None specified.
+None.
 
 ## Spell Lists
 

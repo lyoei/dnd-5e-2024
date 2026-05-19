@@ -28,8 +28,7 @@ Each creature (other than you) in the area when you cast the spell must succeed 
 
 ## Spell Lists
 
-- **Classes:** Druid, Ranger
-- **Categories:** Primal
+Druid, Ranger
 
 ## 2024 Changes
 

@@ -1,7 +1,7 @@
 ---
 type: spell
 level: 9
-school: Transmutation
+school: transmutation
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
@@ -11,14 +11,14 @@ updated: 2026-05-19
 
 # Shapechange
 
-**Level:** 9th
-**School:** Transmutation
-**Casting Time:** Action
-**Range:** Self
-**Components:** V, S, M (a jade circlet worth 1,500+ GP)
-**Duration:** Concentration, up to 1 hour
-**Concentration:** Yes
-**Ritual:** No
+- **Level:** 9th
+- **School:** Transmutation
+- **Casting Time:** Action
+- **Range:** Self
+- **Components:** V, S, M (a jade circlet worth 1,500+ GP)
+- **Duration:** Concentration, up to 1 hour
+- **Concentration:** Yes
+- **Ritual:** No
 
 ## Description
 
@@ -32,12 +32,11 @@ Upon shape-shifting, you determine whether your equipment drops to the ground or
 
 ## At Higher Levels
 
-Not applicable.
+None.
 
 ## Spell Lists
 
-- Arcane (Wizard)
-- Primal (Druid)
+Wizard, Druid
 
 ## 2024 Changes
 

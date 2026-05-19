@@ -28,8 +28,7 @@ As you hit the creature, this spell creates a rain of thorns that sprouts from y
 
 ## Spell Lists
 
-- **Classes:** Ranger
-- **Categories:** Primal
+Ranger
 
 ## 2024 Changes
 

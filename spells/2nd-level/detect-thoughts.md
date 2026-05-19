@@ -1,7 +1,7 @@
 ---
 type: spell
 level: 2
-school: Divination
+school: divination
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
@@ -34,8 +34,7 @@ As a Magic action on your next turn, you can try to probe deeper into the target
 
 ## Spell Lists
 
-- **Classes:** Bard, Sorcerer, Wizard
-- **Spell Lists:** Arcane
+Bard, Sorcerer, Wizard
 
 ## 2024 Changes
 

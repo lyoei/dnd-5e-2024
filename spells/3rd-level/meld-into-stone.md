@@ -1,7 +1,7 @@
 ---
 type: spell
 level: 3
-school: Transmutation
+school: transmutation
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
@@ -34,7 +34,7 @@ N/A
 
 ## Spell Lists
 
-- Primal (Druid, Ranger)
+Druid, Ranger
 
 ## 2024 Changes
 

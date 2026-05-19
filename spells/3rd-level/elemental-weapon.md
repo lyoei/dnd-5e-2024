@@ -1,7 +1,7 @@
 ---
 type: spell
 level: 3
-school: Transmutation
+school: transmutation
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
@@ -30,8 +30,7 @@ When you cast this spell using a spell slot of 5th or 6th level, the bonus to at
 
 ## Spell Lists
 
-- Divine (Paladin)
-- Primal (Druid, Ranger)
+Paladin, Druid, Ranger
 
 ## 2024 Changes
 

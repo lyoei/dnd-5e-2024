@@ -1,11 +1,11 @@
 ---
 type: spell
 level: 5
-school: Transmutation
+school: transmutation
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
-tags: [spell, 5th-level, Transmutation, awaken]
+tags: [spell, 5th-level, transmutation, awaken]
 updated: 2026-05-19
 ---
 
@@ -26,7 +26,7 @@ You spend the casting time tracing magical pathways within a precious gemstone, 
 
 ## At Higher Levels
 
-No additional effect at higher levels.
+None.
 
 ## Spell Lists
 

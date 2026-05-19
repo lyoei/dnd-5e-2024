@@ -26,8 +26,7 @@ For the duration, you understand the literal meaning of any language that you he
 
 ## Spell Lists
 
-- **Classes:** Bard, Sorcerer, Warlock, Wizard
-- **Categories:** Arcane
+Bard, Sorcerer, Warlock, Wizard
 
 ## 2024 Changes
 

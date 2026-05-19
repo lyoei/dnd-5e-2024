@@ -1,11 +1,11 @@
 ---
 type: spell
 level: 5
-school: Abjuration
+school: abjuration
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
-tags: [spell, 5th-level, Abjuration, antilife-shell]
+tags: [spell, 5th-level, abjuration, antilife-shell]
 updated: 2026-05-19
 ---
 
@@ -26,7 +26,7 @@ A shimmering barrier extends from you in a 10-foot-radius Sphere and moves with 
 
 ## At Higher Levels
 
-No additional effect at higher levels.
+None.
 
 ## Spell Lists
 

@@ -1,11 +1,11 @@
 ---
 type: spell
 level: 5
-school: Transmutation
+school: transmutation
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
-tags: [spell, 5th-level, Transmutation, telekinesis]
+tags: [spell, 5th-level, transmutation, telekinesis]
 updated: 2026-05-19
 ---
 
@@ -26,7 +26,7 @@ You gain the ability to move or manipulate creatures or objects by thought. When
 
 ## At Higher Levels
 
-No additional effect at higher levels.
+None.
 
 ## Spell Lists
 

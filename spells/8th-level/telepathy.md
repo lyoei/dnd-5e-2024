@@ -1,7 +1,7 @@
 ---
 type: spell
 level: 8
-school: Divination
+school: divination
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
@@ -11,14 +11,14 @@ updated: 2026-05-19
 
 # Telepathy
 
-**Level:** 8th
-**School:** Divination
-**Casting Time:** Action
-**Range:** Unlimited
-**Components:** V, S, M (a pair of linked silver rings)
-**Duration:** 24 hours
-**Concentration:** No
-**Ritual:** No
+- **Level:** 8th
+- **School:** Divination
+- **Casting Time:** Action
+- **Range:** Unlimited
+- **Components:** V, S, M (a pair of linked silver rings)
+- **Duration:** 24 hours
+- **Concentration:** No
+- **Ritual:** No
 
 ## Description
 
@@ -28,11 +28,11 @@ Until the spell ends, you and the target can share words, images, sounds, and ot
 
 ## At Higher Levels
 
-Not applicable.
+None.
 
 ## Spell Lists
 
-- Arcane (Wizard)
+Wizard
 
 ## 2024 Changes
 

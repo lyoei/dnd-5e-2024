@@ -1,7 +1,7 @@
 ---
 type: spell
 level: 8
-school: Abjuration
+school: abjuration
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
@@ -11,14 +11,14 @@ updated: 2026-05-19
 
 # Holy Aura
 
-**Level:** 8th
-**School:** Abjuration
-**Casting Time:** Action
-**Range:** Self
-**Components:** V, S, M (a tiny reliquary worth 1,000+ GP)
-**Duration:** Concentration, up to 1 minute
-**Concentration:** Yes
-**Ritual:** No
+- **Level:** 8th
+- **School:** Abjuration
+- **Casting Time:** Action
+- **Range:** Self
+- **Components:** V, S, M (a tiny reliquary worth 1,000+ GP)
+- **Duration:** Concentration, up to 1 minute
+- **Concentration:** Yes
+- **Ritual:** No
 
 ## Description
 
@@ -26,11 +26,11 @@ Shimmering light surrounds you in a 30-foot Emanation for the duration. Creature
 
 ## At Higher Levels
 
-Not applicable.
+None.
 
 ## Spell Lists
 
-- Divine (Cleric)
+Cleric
 
 ## 2024 Changes
 

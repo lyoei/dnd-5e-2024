@@ -1,7 +1,7 @@
 ---
 type: spell
 level: 4
-school: Illusion
+school: illusion
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
@@ -17,16 +17,15 @@ updated: 2026-05-19
 - **Range:** Touch
 - **Components:** V, S
 - **Duration:** Concentration, up to 1 minute
-- **Concentration:** yes
-- **Ritual:** no
-
+- **Concentration:** Yes
+- **Ritual:** No
 ## Description
 
 A creature you touch has the Invisible condition until the spell ends. Anything the target is wearing or carrying is also Invisible as long as it is on the target's person.
 
 ## At Higher Levels
 
-None specified.
+None.
 
 ## Spell Lists
 

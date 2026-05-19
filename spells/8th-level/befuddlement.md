@@ -1,7 +1,7 @@
 ---
 type: spell
 level: 8
-school: Enchantment
+school: enchantment
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
@@ -11,14 +11,14 @@ updated: 2026-05-19
 
 # Befuddlement
 
-**Level:** 8th
-**School:** Enchantment
-**Casting Time:** Action
-**Range:** 150 feet
-**Components:** V, S, M (a handful of clay, crystal, glass, or mineral spheres)
-**Duration:** Instantaneous
-**Concentration:** No
-**Ritual:** No
+- **Level:** 8th
+- **School:** Enchantment
+- **Casting Time:** Action
+- **Range:** 150 feet
+- **Components:** V, S, M (a handful of clay, crystal, glass, or mineral spheres)
+- **Duration:** Instantaneous
+- **Concentration:** No
+- **Ritual:** No
 
 ## Description
 
@@ -30,14 +30,11 @@ On a successful save, the target takes half as much damage only.
 
 ## At Higher Levels
 
-Not applicable.
+None.
 
 ## Spell Lists
 
-- Arcane (Wizard)
-- Primal (Druid)
-- Bard
-- Warlock
+Wizard, Druid, Bard, Warlock
 
 ## 2024 Changes
 

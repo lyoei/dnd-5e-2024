@@ -28,8 +28,7 @@ If you instead touch a creature throughout the casting, you learn which ongoing 
 
 ## Spell Lists
 
-- **Classes:** Artificer, Bard, Wizard
-- **Categories:** Arcane
+Artificer, Bard, Wizard
 
 ## 2024 Changes
 

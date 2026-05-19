@@ -1,7 +1,7 @@
 ---
 type: spell
 level: 2
-school: Divination
+school: divination
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
@@ -30,8 +30,7 @@ This spell can't locate an object if any thickness of lead blocks a direct path 
 
 ## Spell Lists
 
-- **Classes:** Bard, Cleric, Druid, Paladin, Ranger, Wizard
-- **Spell Lists:** Arcane, Divine, Primal
+Bard, Cleric, Druid, Paladin, Ranger, Wizard
 
 ## 2024 Changes
 

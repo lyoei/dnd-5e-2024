@@ -1,11 +1,11 @@
 ---
 type: spell
 level: 5
-school: Illusion
+school: illusion
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
-tags: [spell, 5th-level, Illusion, mislead]
+tags: [spell, 5th-level, illusion, mislead]
 updated: 2026-05-19
 ---
 
@@ -26,7 +26,7 @@ You become Invisible at the same time that an illusory double of you appears whe
 
 ## At Higher Levels
 
-No additional effect at higher levels.
+None.
 
 ## Spell Lists
 

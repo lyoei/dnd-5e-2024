@@ -1,7 +1,7 @@
 ---
 type: spell
 level: 4
-school: Evocation
+school: evocation
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
@@ -17,9 +17,8 @@ updated: 2026-05-19
 - **Range:** 300 feet
 - **Components:** V, S, M (a pinch of dust and a few drops of water)
 - **Duration:** Instantaneous
-- **Concentration:** no
-- **Ritual:** no
-
+- **Concentration:** No
+- **Ritual:** No
 ## Description
 
 A hail of rock-hard ice pounds to the ground in a 20-foot-radius, 40-foot-high Cylinder centered on a point within range. Each creature in the Cylinder makes a Dexterity saving throw. A creature takes 2d10 Bludgeoning damage and 4d6 Cold damage on a failed save or half as much damage on a successful one.

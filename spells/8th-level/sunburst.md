@@ -1,7 +1,7 @@
 ---
 type: spell
 level: 8
-school: Evocation
+school: evocation
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
@@ -11,14 +11,14 @@ updated: 2026-05-19
 
 # Sunburst
 
-**Level:** 8th
-**School:** Evocation
-**Casting Time:** Action
-**Range:** 150 feet
-**Components:** V, S, M (a piece of sunstone)
-**Duration:** Instantaneous
-**Concentration:** No
-**Ritual:** No
+- **Level:** 8th
+- **School:** Evocation
+- **Casting Time:** Action
+- **Range:** 150 feet
+- **Components:** V, S, M (a piece of sunstone)
+- **Duration:** Instantaneous
+- **Concentration:** No
+- **Ritual:** No
 
 ## Description
 
@@ -30,14 +30,11 @@ This spell dispels Darkness in its area that was created by any spell.
 
 ## At Higher Levels
 
-Not applicable.
+None.
 
 ## Spell Lists
 
-- Arcane (Wizard)
-- Divine (Cleric)
-- Primal (Druid)
-- Sorcerer
+Wizard, Cleric, Druid, Sorcerer
 
 ## 2024 Changes
 

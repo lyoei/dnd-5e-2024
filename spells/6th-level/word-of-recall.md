@@ -1,11 +1,11 @@
 ---
 type: spell
 level: 6
-school: Conjuration
+school: conjuration
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
-tags: [spell, 6th-level, Conjuration, word-of-recall]
+tags: [spell, 6th-level, conjuration, word-of-recall]
 updated: 2026-05-19
 ---
 
@@ -26,7 +26,7 @@ You and up to five willing creatures within 5 feet of you instantly teleport to 
 
 ## At Higher Levels
 
-No additional effect at higher levels.
+None.
 
 ## Spell Lists
 

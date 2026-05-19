@@ -1,11 +1,11 @@
 ---
 type: spell
 level: 6
-school: Illusion
+school: illusion
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
-tags: [spell, 6th-level, Illusion, programmed-illusion]
+tags: [spell, 6th-level, illusion, programmed-illusion]
 updated: 2026-05-19
 ---
 
@@ -26,7 +26,7 @@ You create an illusion of an object, a creature, or some other visible phenomeno
 
 ## At Higher Levels
 
-No additional effect at higher levels.
+None.
 
 ## Spell Lists
 

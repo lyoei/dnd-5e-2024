@@ -1,11 +1,11 @@
 ---
 type: spell
 level: 6
-school: Enchantment
+school: enchantment
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
-tags: [spell, 6th-level, Enchantment, ottos-irresistible-dance]
+tags: [spell, 6th-level, enchantment, ottos-irresistible-dance]
 updated: 2026-05-19
 ---
 
@@ -26,7 +26,7 @@ Choose one creature that you can see within range. The target begins a comic dan
 
 ## At Higher Levels
 
-No additional effect at higher levels.
+None.
 
 ## Spell Lists
 

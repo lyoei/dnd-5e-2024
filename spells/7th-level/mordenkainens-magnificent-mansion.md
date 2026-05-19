@@ -1,11 +1,11 @@
 ---
 type: spell
 level: 7
-school: Conjuration
+school: conjuration
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
-tags: [spell, 7th-level, Conjuration, mordenkainens-magnificent-mansion]
+tags: [spell, 7th-level, conjuration, mordenkainens-magnificent-mansion]
 updated: 2026-05-19
 ---
 
@@ -26,7 +26,7 @@ You conjure an extradimensional dwelling in range that lasts for the duration. Y
 
 ## At Higher Levels
 
-No additional effect at higher levels.
+None.
 
 ## Spell Lists
 

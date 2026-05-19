@@ -1,7 +1,7 @@
 ---
 type: spell
 level: 2
-school: Transmutation
+school: transmutation
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
@@ -28,8 +28,7 @@ The space can hold up to eight Medium or smaller creatures. Attacks, spells, and
 
 ## Spell Lists
 
-- **Classes:** Wizard
-- **Spell Lists:** Arcane
+Wizard
 
 ## 2024 Changes
 

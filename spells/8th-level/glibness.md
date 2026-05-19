@@ -1,7 +1,7 @@
 ---
 type: spell
 level: 8
-school: Enchantment
+school: enchantment
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
@@ -11,14 +11,14 @@ updated: 2026-05-19
 
 # Glibness
 
-**Level:** 8th
-**School:** Enchantment
-**Casting Time:** Action
-**Range:** Self
-**Components:** V
-**Duration:** 1 hour
-**Concentration:** No
-**Ritual:** No
+- **Level:** 8th
+- **School:** Enchantment
+- **Casting Time:** Action
+- **Range:** Self
+- **Components:** V
+- **Duration:** 1 hour
+- **Concentration:** No
+- **Ritual:** No
 
 ## Description
 
@@ -26,12 +26,11 @@ Until the spell ends, when you make a Charisma check, you can replace the number
 
 ## At Higher Levels
 
-Not applicable.
+None.
 
 ## Spell Lists
 
-- Bard
-- Warlock
+Bard, Warlock
 
 ## 2024 Changes
 

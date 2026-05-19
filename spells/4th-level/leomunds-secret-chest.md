@@ -1,7 +1,7 @@
 ---
 type: spell
 level: 4
-school: Conjuration
+school: conjuration
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
@@ -17,9 +17,8 @@ updated: 2026-05-19
 - **Range:** Touch
 - **Components:** V, S, M (an exquisite chest, 3 feet by 2 feet by 2 feet, constructed from rare materials worth at least 5,000 GP, and a Tiny replica made from the same materials worth at least 50 GP)
 - **Duration:** Instantaneous
-- **Concentration:** no
-- **Ritual:** no
-
+- **Concentration:** No
+- **Ritual:** No
 ## Description
 
 You hide a chest, and all its contents, on the Ethereal Plane. You must touch the chest and the miniature replica that serves as a Material component for the spell. The chest can contain up to 12 cubic feet of nonliving material (3 feet by 2 feet by 2 feet).
@@ -30,7 +29,7 @@ After 60 days, there is a cumulative 5 percent chance per day that the spell end
 
 ## At Higher Levels
 
-None specified.
+None.
 
 ## Spell Lists
 

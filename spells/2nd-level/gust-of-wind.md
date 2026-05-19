@@ -1,7 +1,7 @@
 ---
 type: spell
 level: 2
-school: Evocation
+school: evocation
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
@@ -32,8 +32,7 @@ As a Bonus Action on your later turns, you can change the direction in which the
 
 ## Spell Lists
 
-- **Classes:** Druid, Ranger, Sorcerer, Wizard
-- **Spell Lists:** Arcane, Primal
+Druid, Ranger, Sorcerer, Wizard
 
 ## 2024 Changes
 

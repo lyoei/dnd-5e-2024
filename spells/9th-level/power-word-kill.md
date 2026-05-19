@@ -1,7 +1,7 @@
 ---
 type: spell
 level: 9
-school: Enchantment
+school: enchantment
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
@@ -11,14 +11,14 @@ updated: 2026-05-19
 
 # Power Word Kill
 
-**Level:** 9th
-**School:** Enchantment
-**Casting Time:** Action
-**Range:** 60 feet
-**Components:** V
-**Duration:** Instantaneous
-**Concentration:** No
-**Ritual:** No
+- **Level:** 9th
+- **School:** Enchantment
+- **Casting Time:** Action
+- **Range:** 60 feet
+- **Components:** V
+- **Duration:** Instantaneous
+- **Concentration:** No
+- **Ritual:** No
 
 ## Description
 
@@ -26,14 +26,11 @@ You compel one creature you can see within range to die. If the target has 100 H
 
 ## At Higher Levels
 
-Not applicable.
+None.
 
 ## Spell Lists
 
-- Arcane (Wizard)
-- Bard
-- Sorcerer
-- Warlock
+Wizard, Bard, Sorcerer, Warlock
 
 ## 2024 Changes
 

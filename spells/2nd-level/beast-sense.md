@@ -1,7 +1,7 @@
 ---
 type: spell
 level: 2
-school: Divination
+school: divination
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
@@ -26,8 +26,7 @@ You touch a willing Beast. For the duration, you can take a Magic action to see 
 
 ## Spell Lists
 
-- **Classes:** Druid, Ranger
-- **Spell Lists:** Primal
+Druid, Ranger
 
 ## 2024 Changes
 

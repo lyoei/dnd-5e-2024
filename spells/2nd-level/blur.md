@@ -1,7 +1,7 @@
 ---
 type: spell
 level: 2
-school: Illusion
+school: illusion
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
@@ -26,8 +26,7 @@ Your body becomes blurred. For the duration, any creature has Disadvantage on at
 
 ## Spell Lists
 
-- **Classes:** Sorcerer, Wizard
-- **Spell Lists:** Arcane
+Sorcerer, Wizard
 
 ## 2024 Changes
 

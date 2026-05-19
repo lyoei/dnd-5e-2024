@@ -1,7 +1,7 @@
 ---
 type: spell
 level: 2
-school: Transmutation
+school: transmutation
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
@@ -30,8 +30,7 @@ You can target one additional creature for each spell slot level above 2.
 
 ## Spell Lists
 
-- **Classes:** Sorcerer, Warlock, Wizard
-- **Spell Lists:** Arcane
+Sorcerer, Warlock, Wizard
 
 ## 2024 Changes
 

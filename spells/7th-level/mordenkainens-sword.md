@@ -1,11 +1,11 @@
 ---
 type: spell
 level: 7
-school: Evocation
+school: evocation
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
-tags: [spell, 7th-level, Evocation, mordenkainens-sword]
+tags: [spell, 7th-level, evocation, mordenkainens-sword]
 updated: 2026-05-19
 ---
 
@@ -26,7 +26,7 @@ You create a sword-shaped plane of force that hovers within range. It lasts for 
 
 ## At Higher Levels
 
-No additional effect at higher levels.
+None.
 
 ## Spell Lists
 

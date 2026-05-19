@@ -28,8 +28,7 @@ The target takes an extra 1d6 Necrotic damage from the attack, and it must succe
 
 ## Spell Lists
 
-- **Classes:** Paladin
-- **Categories:** Divine
+Paladin
 
 ## 2024 Changes
 

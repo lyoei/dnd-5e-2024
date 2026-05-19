@@ -1,7 +1,7 @@
 ---
 type: spell
 level: 2
-school: Necromancy
+school: necromancy
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
@@ -28,8 +28,7 @@ On a failed save, the target has Disadvantage on Strength-based D20 Tests for th
 
 ## Spell Lists
 
-- **Classes:** Warlock, Wizard
-- **Spell Lists:** Arcane
+Warlock, Wizard
 
 ## 2024 Changes
 

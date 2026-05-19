@@ -1,7 +1,7 @@
 ---
 type: spell
 level: 9
-school: Conjuration
+school: conjuration
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
@@ -11,14 +11,14 @@ updated: 2026-05-19
 
 # Storm of Vengeance
 
-**Level:** 9th
-**School:** Conjuration
-**Casting Time:** Action
-**Range:** 1 mile
-**Components:** V, S
-**Duration:** Concentration, up to 1 minute
-**Concentration:** Yes
-**Ritual:** No
+- **Level:** 9th
+- **School:** Conjuration
+- **Casting Time:** Action
+- **Range:** 1 mile
+- **Components:** V, S
+- **Duration:** Concentration, up to 1 minute
+- **Concentration:** Yes
+- **Ritual:** No
 
 ## Description
 
@@ -36,11 +36,11 @@ At the start of each of your later turns, the storm produces different effects, 
 
 ## At Higher Levels
 
-Not applicable.
+None.
 
 ## Spell Lists
 
-- Primal (Druid)
+Druid
 
 ## 2024 Changes
 

@@ -1,7 +1,7 @@
 ---
 type: spell
 level: 2
-school: Illusion
+school: illusion
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
@@ -30,8 +30,7 @@ The trigger can be as general or as detailed as you like, though it must be base
 
 ## Spell Lists
 
-- **Classes:** Bard, Wizard
-- **Spell Lists:** Arcane
+Bard, Wizard
 
 ## 2024 Changes
 

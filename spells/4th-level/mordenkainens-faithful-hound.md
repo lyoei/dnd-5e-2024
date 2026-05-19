@@ -1,7 +1,7 @@
 ---
 type: spell
 level: 4
-school: Conjuration
+school: conjuration
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
@@ -17,9 +17,8 @@ updated: 2026-05-19
 - **Range:** 30 feet
 - **Components:** V, S, M (a tiny silver whistle, a piece of bone, and a thread)
 - **Duration:** 8 hours
-- **Concentration:** no
-- **Ritual:** no
-
+- **Concentration:** No
+- **Ritual:** No
 ## Description
 
 You conjure a phantom watchdog in an unoccupied space that you can see within range. The hound remains for the duration or until the two of you are more than 300 feet apart, at which point the spell ends.
@@ -30,7 +29,7 @@ At the start of each of your turns, the hound attempts to bite one creature with
 
 ## At Higher Levels
 
-None specified.
+None.
 
 ## Spell Lists
 

@@ -1,7 +1,7 @@
 ---
 type: spell
 level: 2
-school: Enchantment
+school: enchantment
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
@@ -26,8 +26,7 @@ You weave a distracting string of words, causing creatures of your choice that y
 
 ## Spell Lists
 
-- **Classes:** Bard, Warlock
-- **Spell Lists:** Arcane
+Bard, Warlock
 
 ## 2024 Changes
 

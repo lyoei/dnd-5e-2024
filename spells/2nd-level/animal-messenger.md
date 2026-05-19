@@ -1,7 +1,7 @@
 ---
 type: spell
 level: 2
-school: Enchantment
+school: enchantment
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
@@ -32,8 +32,7 @@ The duration increases by 48 hours for each spell slot level above 2.
 
 ## Spell Lists
 
-- **Classes:** Bard, Druid, Ranger
-- **Spell Lists:** Primal
+Bard, Druid, Ranger
 
 ## 2024 Changes
 

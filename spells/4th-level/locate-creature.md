@@ -1,7 +1,7 @@
 ---
 type: spell
 level: 4
-school: Divination
+school: divination
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
@@ -17,9 +17,8 @@ updated: 2026-05-19
 - **Range:** Self
 - **Components:** V, S, M (a bit of fur from a bloodhound)
 - **Duration:** Concentration, up to 1 hour
-- **Concentration:** yes
-- **Ritual:** no
-
+- **Concentration:** Yes
+- **Ritual:** No
 ## Description
 
 Describe or name a creature that is familiar to you. You sense the direction to the creature's location as long as that creature is within 1,000 feet of you. If the creature is moving, you know the direction of its movement.
@@ -30,7 +29,7 @@ This spell can't locate a creature if any thickness of running water at least 10
 
 ## At Higher Levels
 
-None specified.
+None.
 
 ## Spell Lists
 

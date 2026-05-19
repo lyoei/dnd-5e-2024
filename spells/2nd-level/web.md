@@ -1,7 +1,7 @@
 ---
 type: spell
 level: 2
-school: Conjuration
+school: conjuration
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
@@ -34,8 +34,7 @@ The webs are flammable. Any 5-foot Cube of webs exposed to fire burns away in 1 
 
 ## Spell Lists
 
-- **Classes:** Sorcerer, Wizard
-- **Spell Lists:** Arcane
+Sorcerer, Wizard
 
 ## 2024 Changes
 

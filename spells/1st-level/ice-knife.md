@@ -28,8 +28,7 @@ You create a shard of ice and fling it at one creature within range. Make a rang
 
 ## Spell Lists
 
-- **Classes:** Druid, Sorcerer, Wizard
-- **Categories:** Arcane, Primal
+Druid, Sorcerer, Wizard
 
 ## 2024 Changes
 

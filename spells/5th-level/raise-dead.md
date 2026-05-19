@@ -1,11 +1,11 @@
 ---
 type: spell
 level: 5
-school: Necromancy
+school: necromancy
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
-tags: [spell, 5th-level, Necromancy, raise-dead]
+tags: [spell, 5th-level, necromancy, raise-dead]
 updated: 2026-05-19
 ---
 
@@ -26,7 +26,7 @@ You return a dead creature you touch to life, provided that it has been dead no 
 
 ## At Higher Levels
 
-No additional effect at higher levels.
+None.
 
 ## Spell Lists
 

@@ -1,11 +1,11 @@
 ---
 type: spell
 level: 5
-school: Conjuration
+school: conjuration
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
-tags: [spell, 5th-level, Conjuration, banishing-smite]
+tags: [spell, 5th-level, conjuration, banishing-smite]
 updated: 2026-05-19
 ---
 
@@ -26,7 +26,7 @@ The next time you hit a creature with a melee weapon attack before this spell en
 
 ## At Higher Levels
 
-No additional effect at higher levels.
+None.
 
 ## Spell Lists
 

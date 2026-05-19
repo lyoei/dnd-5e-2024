@@ -1,7 +1,7 @@
 ---
 type: spell
 level: 9
-school: Conjuration
+school: conjuration
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
@@ -11,14 +11,14 @@ updated: 2026-05-19
 
 # Gate
 
-**Level:** 9th
-**School:** Conjuration
-**Casting Time:** Action
-**Range:** 60 feet
-**Components:** V, S, M (a diamond worth 5,000+ GP)
-**Duration:** Concentration, up to 1 minute
-**Concentration:** Yes
-**Ritual:** No
+- **Level:** 9th
+- **School:** Conjuration
+- **Casting Time:** Action
+- **Range:** 60 feet
+- **Components:** V, S, M (a diamond worth 5,000+ GP)
+- **Duration:** Concentration, up to 1 minute
+- **Concentration:** Yes
+- **Ritual:** No
 
 ## Description
 
@@ -32,14 +32,11 @@ When you cast this spell, you can speak the name of a specific creature (a pseud
 
 ## At Higher Levels
 
-Not applicable.
+None.
 
 ## Spell Lists
 
-- Arcane (Wizard)
-- Divine (Cleric)
-- Sorcerer
-- Warlock
+Wizard, Cleric, Sorcerer, Warlock
 
 ## 2024 Changes
 

@@ -1,7 +1,7 @@
 ---
 type: spell
 level: 2
-school: Transmutation
+school: transmutation
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
@@ -32,8 +32,7 @@ The damage increases by 1d8 for each spell slot level above 2.
 
 ## Spell Lists
 
-- **Classes:** Bard, Druid
-- **Spell Lists:** Arcane, Primal
+Bard, Druid
 
 ## 2024 Changes
 

@@ -1,7 +1,7 @@
 ---
 type: spell
 level: 3
-school: Illusion
+school: illusion
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
@@ -32,7 +32,7 @@ N/A
 
 ## Spell Lists
 
-- Arcane (Bard, Sorcerer, Warlock, Wizard)
+Bard, Sorcerer, Warlock, Wizard
 
 ## 2024 Changes
 

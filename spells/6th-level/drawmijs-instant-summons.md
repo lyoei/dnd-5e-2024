@@ -1,11 +1,11 @@
 ---
 type: spell
 level: 6
-school: Conjuration
+school: conjuration
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
-tags: [spell, 6th-level, Conjuration, drawmijs-instant-summons]
+tags: [spell, 6th-level, conjuration, drawmijs-instant-summons]
 updated: 2026-05-19
 ---
 
@@ -26,7 +26,7 @@ You touch an object weighing 10 pounds or less whose longest dimension is 6 feet
 
 ## At Higher Levels
 
-No additional effect at higher levels.
+None.
 
 ## Spell Lists
 

@@ -1,11 +1,11 @@
 ---
 type: spell
 level: 5
-school: Transmutation
+school: transmutation
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
-tags: [spell, 5th-level, Transmutation, animate-objects]
+tags: [spell, 5th-level, transmutation, animate-objects]
 updated: 2026-05-19
 ---
 

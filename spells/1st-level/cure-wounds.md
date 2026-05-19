@@ -28,8 +28,7 @@ A creature you touch regains a number of Hit Points equal to 2d8 plus your spell
 
 ## Spell Lists
 
-- **Classes:** Artificer, Bard, Cleric, Druid, Paladin, Ranger
-- **Categories:** Arcane, Divine, Primal
+Artificer, Bard, Cleric, Druid, Paladin, Ranger
 
 ## 2024 Changes
 

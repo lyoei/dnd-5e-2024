@@ -1,11 +1,11 @@
 ---
 type: spell
 level: 6
-school: Evocation
+school: evocation
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
-tags: [spell, 6th-level, Evocation, blade-barrier]
+tags: [spell, 6th-level, evocation, blade-barrier]
 updated: 2026-05-19
 ---
 
@@ -26,7 +26,7 @@ You create a vertical wall of whirling, razor-sharp blades made of magical energ
 
 ## At Higher Levels
 
-No additional effect at higher levels.
+None.
 
 ## Spell Lists
 

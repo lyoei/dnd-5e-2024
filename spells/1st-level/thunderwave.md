@@ -30,8 +30,7 @@ In addition, unsecured objects that are entirely within the Cube are pushed 10 f
 
 ## Spell Lists
 
-- **Classes:** Bard, Druid, Sorcerer, Wizard
-- **Categories:** Arcane, Primal
+Bard, Druid, Sorcerer, Wizard
 
 ## 2024 Changes
 

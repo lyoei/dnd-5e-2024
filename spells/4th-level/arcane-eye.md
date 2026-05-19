@@ -1,7 +1,7 @@
 ---
 type: spell
 level: 4
-school: Divination
+school: divination
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
@@ -17,9 +17,8 @@ updated: 2026-05-19
 - **Range:** 30 feet
 - **Components:** V, S, M (a bit of bat fur)
 - **Duration:** Concentration, up to 1 hour
-- **Concentration:** yes
-- **Ritual:** no
-
+- **Concentration:** Yes
+- **Ritual:** No
 ## Description
 
 You create an invisible, magical eye within range that hovers in the air for the duration. You mentally receive visual information from the eye, which has normal vision and Darkvision out to 30 feet. The eye can look in every direction.
@@ -28,7 +27,7 @@ As a Bonus Action, you can move the eye up to 30 feet in any direction. The eye 
 
 ## At Higher Levels
 
-None specified.
+None.
 
 ## Spell Lists
 

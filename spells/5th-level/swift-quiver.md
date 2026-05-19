@@ -1,11 +1,11 @@
 ---
 type: spell
 level: 5
-school: Transmutation
+school: transmutation
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
-tags: [spell, 5th-level, Transmutation, swift-quiver]
+tags: [spell, 5th-level, transmutation, swift-quiver]
 updated: 2026-05-19
 ---
 
@@ -26,7 +26,7 @@ You transmute your quiver so it produces an endless supply of nonmagical ammunit
 
 ## At Higher Levels
 
-No additional effect at higher levels.
+None.
 
 ## Spell Lists
 

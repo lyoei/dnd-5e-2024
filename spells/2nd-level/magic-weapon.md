@@ -1,7 +1,7 @@
 ---
 type: spell
 level: 2
-school: Transmutation
+school: transmutation
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
@@ -30,8 +30,7 @@ The bonus increases to +2 with a level 3-5 spell slot. The bonus increases to +3
 
 ## Spell Lists
 
-- **Classes:** Paladin, Ranger, Sorcerer, Wizard
-- **Spell Lists:** Arcane, Divine, Primal
+Paladin, Ranger, Sorcerer, Wizard
 
 ## 2024 Changes
 

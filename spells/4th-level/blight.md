@@ -1,7 +1,7 @@
 ---
 type: spell
 level: 4
-school: Necromancy
+school: necromancy
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
@@ -17,9 +17,8 @@ updated: 2026-05-19
 - **Range:** 30 feet
 - **Components:** V, S
 - **Duration:** Instantaneous
-- **Concentration:** no
-- **Ritual:** no
-
+- **Concentration:** No
+- **Ritual:** No
 ## Description
 
 Necromantic energy washes over a creature of your choice that you can see within range, draining moisture and vitality from it. The target must make a Constitution saving throw. The target takes 8d8 Necrotic damage on a failed save or half as much damage on a successful one. This spell has no effect on Constructs or Undead.

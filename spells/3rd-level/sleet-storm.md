@@ -1,7 +1,7 @@
 ---
 type: spell
 level: 3
-school: Conjuration
+school: conjuration
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
@@ -34,8 +34,7 @@ N/A
 
 ## Spell Lists
 
-- Primal (Druid)
-- Arcane (Sorcerer, Wizard)
+Druid, Sorcerer, Wizard
 
 ## 2024 Changes
 

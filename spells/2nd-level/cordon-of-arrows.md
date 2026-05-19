@@ -1,7 +1,7 @@
 ---
 type: spell
 level: 2
-school: Transmutation
+school: transmutation
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
@@ -32,8 +32,7 @@ The amount of ammunition that can be affected increases by two for each spell sl
 
 ## Spell Lists
 
-- **Classes:** Ranger
-- **Spell Lists:** Primal
+Ranger
 
 ## 2024 Changes
 

@@ -1,7 +1,7 @@
 ---
 type: spell
 level: 8
-school: Abjuration
+school: abjuration
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
@@ -11,14 +11,14 @@ updated: 2026-05-19
 
 # Antimagic Field
 
-**Level:** 8th
-**School:** Abjuration
-**Casting Time:** Action
-**Range:** Self
-**Components:** V, S, M (iron filings)
-**Duration:** Concentration, up to 1 hour
-**Concentration:** Yes
-**Ritual:** No
+- **Level:** 8th
+- **School:** Abjuration
+- **Casting Time:** Action
+- **Range:** Self
+- **Components:** V, S, M (iron filings)
+- **Duration:** Concentration, up to 1 hour
+- **Concentration:** Yes
+- **Ritual:** No
 
 ## Description
 
@@ -32,12 +32,11 @@ Dispel Magic has no effect on the aura, and the auras created by different Antim
 
 ## At Higher Levels
 
-Not applicable.
+None.
 
 ## Spell Lists
 
-- Arcane (Wizard)
-- Divine (Cleric)
+Wizard, Cleric
 
 ## 2024 Changes
 

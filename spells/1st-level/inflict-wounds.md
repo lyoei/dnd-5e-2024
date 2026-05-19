@@ -28,8 +28,7 @@ A creature you touch makes a Constitution saving throw, taking 2d10 Necrotic dam
 
 ## Spell Lists
 
-- **Classes:** Cleric
-- **Categories:** Divine
+Cleric
 
 ## 2024 Changes
 

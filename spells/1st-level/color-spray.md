@@ -26,8 +26,7 @@ You launch a dazzling array of flashing, colorful light. Each creature in a 15-f
 
 ## Spell Lists
 
-- **Classes:** Bard, Sorcerer, Wizard
-- **Categories:** Arcane
+Bard, Sorcerer, Wizard
 
 ## 2024 Changes
 

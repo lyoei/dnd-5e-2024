@@ -1,11 +1,11 @@
 ---
 type: spell
 level: 5
-school: Conjuration
+school: conjuration
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
-tags: [spell, 5th-level, Conjuration, tree-stride]
+tags: [spell, 5th-level, conjuration, tree-stride]
 updated: 2026-05-19
 ---
 
@@ -26,7 +26,7 @@ You gain the ability to enter a tree and move from inside it to inside another t
 
 ## At Higher Levels
 
-No additional effect at higher levels.
+None.
 
 ## Spell Lists
 

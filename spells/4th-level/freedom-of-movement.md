@@ -1,7 +1,7 @@
 ---
 type: spell
 level: 4
-school: Abjuration
+school: abjuration
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
@@ -17,9 +17,8 @@ updated: 2026-05-19
 - **Range:** Touch
 - **Components:** V, S, M (a leather strap, bound around the arm or a similar appendage)
 - **Duration:** 1 hour
-- **Concentration:** no
-- **Ritual:** no
-
+- **Concentration:** No
+- **Ritual:** No
 ## Description
 
 You touch a willing creature. For the duration, the target's movement is unaffected by Difficult Terrain, and spells and other magical effects can neither reduce the target's Speed nor cause the target to have the Paralyzed or Restrained condition.
@@ -30,7 +29,7 @@ Finally, being underwater imposes no penalties on the target's movement or attac
 
 ## At Higher Levels
 
-None specified.
+None.
 
 ## Spell Lists
 

@@ -1,7 +1,7 @@
 ---
 type: spell
 level: 8
-school: Necromancy
+school: necromancy
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
@@ -11,14 +11,14 @@ updated: 2026-05-19
 
 # Clone
 
-**Level:** 8th
-**School:** Necromancy
-**Casting Time:** 1 hour
-**Range:** Touch
-**Components:** V, S, M (a diamond worth 1,000+ GP, which the spell consumes, and a sealable vessel worth 2,000+ GP that is large enough to hold the creature being cloned)
-**Duration:** Instantaneous
-**Concentration:** No
-**Ritual:** No
+- **Level:** 8th
+- **School:** Necromancy
+- **Casting Time:** 1 hour
+- **Range:** Touch
+- **Components:** V, S, M (a diamond worth 1,000+ GP, which the spell consumes, and a sealable vessel worth 2,000+ GP that is large enough to hold the creature being cloned)
+- **Duration:** Instantaneous
+- **Concentration:** No
+- **Ritual:** No
 
 ## Description
 
@@ -28,11 +28,11 @@ If the original creature dies after the clone finishes forming, the creature's s
 
 ## At Higher Levels
 
-Not applicable.
+None.
 
 ## Spell Lists
 
-- Arcane (Wizard)
+Wizard
 
 ## 2024 Changes
 

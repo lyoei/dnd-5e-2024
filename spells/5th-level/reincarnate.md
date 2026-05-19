@@ -1,11 +1,11 @@
 ---
 type: spell
 level: 5
-school: Necromancy
+school: necromancy
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
-tags: [spell, 5th-level, Necromancy, reincarnate]
+tags: [spell, 5th-level, necromancy, reincarnate]
 updated: 2026-05-19
 ---
 
@@ -26,7 +26,7 @@ You touch a dead Humanoid or a piece of a dead Humanoid. Provided that the creat
 
 ## At Higher Levels
 
-No additional effect at higher levels.
+None.
 
 ## Spell Lists
 

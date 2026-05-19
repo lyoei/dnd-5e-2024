@@ -1,7 +1,7 @@
 ---
 type: spell
 level: 9
-school: Divination
+school: divination
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
@@ -11,14 +11,14 @@ updated: 2026-05-19
 
 # Foresight
 
-**Level:** 9th
-**School:** Divination
-**Casting Time:** 1 minute
-**Range:** Touch
-**Components:** V, S, M (a hummingbird feather)
-**Duration:** 8 hours
-**Concentration:** No
-**Ritual:** No
+- **Level:** 9th
+- **School:** Divination
+- **Casting Time:** 1 minute
+- **Range:** Touch
+- **Components:** V, S, M (a hummingbird feather)
+- **Duration:** 8 hours
+- **Concentration:** No
+- **Ritual:** No
 
 ## Description
 
@@ -26,14 +26,11 @@ You touch a willing creature and bestow a limited ability to see into the immedi
 
 ## At Higher Levels
 
-Not applicable.
+None.
 
 ## Spell Lists
 
-- Arcane (Wizard)
-- Primal (Druid)
-- Bard
-- Warlock
+Wizard, Druid, Bard, Warlock
 
 ## 2024 Changes
 

@@ -1,7 +1,7 @@
 ---
 type: spell
 level: 2
-school: Divination
+school: divination
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
@@ -26,8 +26,7 @@ For the duration, you see creatures and objects that have the Invisible conditio
 
 ## Spell Lists
 
-- **Classes:** Bard, Sorcerer, Wizard
-- **Spell Lists:** Arcane
+Bard, Sorcerer, Wizard
 
 ## 2024 Changes
 

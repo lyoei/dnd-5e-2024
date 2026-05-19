@@ -1,7 +1,7 @@
 ---
 type: spell
 level: 4
-school: Conjuration
+school: conjuration
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
@@ -17,9 +17,8 @@ updated: 2026-05-19
 - **Range:** Self
 - **Components:** V, S
 - **Duration:** Concentration, up to 10 minutes
-- **Concentration:** yes
-- **Ritual:** no
-
+- **Concentration:** Yes
+- **Ritual:** No
 ## Description
 
 You conjure nature spirits that flit around you in a 10-foot Emanation for the duration. Any enemy that enters the Emanation for the first time on a turn or starts its turn there must succeed on a Wisdom saving throw or take 5d8 Force damage and have the Charmed condition until the start of its next turn. While Charmed in this way, the creature has a Speed of 0.

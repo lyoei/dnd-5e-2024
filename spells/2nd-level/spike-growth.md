@@ -1,7 +1,7 @@
 ---
 type: spell
 level: 2
-school: Transmutation
+school: transmutation
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
@@ -28,8 +28,7 @@ The transformation of the ground is camouflaged to look natural. Any creature th
 
 ## Spell Lists
 
-- **Classes:** Druid, Ranger
-- **Spell Lists:** Primal
+Druid, Ranger
 
 ## 2024 Changes
 

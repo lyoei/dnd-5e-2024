@@ -1,11 +1,11 @@
 ---
 type: spell
 level: 6
-school: Evocation
+school: evocation
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
-tags: [spell, 6th-level, Evocation, sunbeam]
+tags: [spell, 6th-level, evocation, sunbeam]
 updated: 2026-05-19
 ---
 
@@ -26,7 +26,7 @@ A beam of brilliant light flashes out from your hand in a 5-foot-wide, 60-foot-l
 
 ## At Higher Levels
 
-No additional effect at higher levels.
+None.
 
 ## Spell Lists
 

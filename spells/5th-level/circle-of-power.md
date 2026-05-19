@@ -1,11 +1,11 @@
 ---
 type: spell
 level: 5
-school: Abjuration
+school: abjuration
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
-tags: [spell, 5th-level, Abjuration, circle-of-power]
+tags: [spell, 5th-level, abjuration, circle-of-power]
 updated: 2026-05-19
 ---
 
@@ -26,7 +26,7 @@ Divine energy radiates from you in a 30-foot-radius Sphere, empowering your alli
 
 ## At Higher Levels
 
-No additional effect at higher levels.
+None.
 
 ## Spell Lists
 

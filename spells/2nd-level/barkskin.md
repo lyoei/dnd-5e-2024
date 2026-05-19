@@ -1,7 +1,7 @@
 ---
 type: spell
 level: 2
-school: Transmutation
+school: transmutation
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
@@ -26,8 +26,7 @@ You touch a willing creature. Until the spell ends, the target's skin takes on a
 
 ## Spell Lists
 
-- **Classes:** Druid, Ranger
-- **Spell Lists:** Primal
+Druid, Ranger
 
 ## 2024 Changes
 

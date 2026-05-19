@@ -1,7 +1,7 @@
 ---
 type: spell
 level: 2
-school: Enchantment
+school: enchantment
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
@@ -29,8 +29,7 @@ Each Humanoid in a 20-foot-radius Sphere centered on a point you choose within r
 
 ## Spell Lists
 
-- **Classes:** Bard, Cleric
-- **Spell Lists:** Arcane, Divine
+Bard, Cleric
 
 ## 2024 Changes
 

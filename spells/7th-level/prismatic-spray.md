@@ -1,11 +1,11 @@
 ---
 type: spell
 level: 7
-school: Evocation
+school: evocation
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
-tags: [spell, 7th-level, Evocation, prismatic-spray]
+tags: [spell, 7th-level, evocation, prismatic-spray]
 updated: 2026-05-19
 ---
 
@@ -26,7 +26,7 @@ Eight multicolored rays of light flash from your hand. Each ray is a different c
 
 ## At Higher Levels
 
-No additional effect at higher levels.
+None.
 
 ## Spell Lists
 

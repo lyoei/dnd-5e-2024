@@ -1,7 +1,7 @@
 ---
 type: spell
 level: 2
-school: Abjuration
+school: abjuration
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
@@ -30,8 +30,7 @@ The healing scales automatically — you roll d8s equal to half the slot level u
 
 ## Spell Lists
 
-- **Classes:** Sorcerer, Wizard
-- **Spell Lists:** Arcane
+Sorcerer, Wizard
 
 ## 2024 Changes
 

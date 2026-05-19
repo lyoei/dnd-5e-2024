@@ -1,7 +1,7 @@
 ---
 type: spell
 level: 3
-school: Transmutation
+school: transmutation
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
@@ -32,9 +32,7 @@ N/A
 
 ## Spell Lists
 
-- Divine (Cleric)
-- Primal (Druid, Ranger)
-- Arcane (Sorcerer)
+Cleric, Druid, Ranger, Sorcerer
 
 ## 2024 Changes
 

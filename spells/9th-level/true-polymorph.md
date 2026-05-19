@@ -1,7 +1,7 @@
 ---
 type: spell
 level: 9
-school: Transmutation
+school: transmutation
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
@@ -11,14 +11,14 @@ updated: 2026-05-19
 
 # True Polymorph
 
-**Level:** 9th
-**School:** Transmutation
-**Casting Time:** Action
-**Range:** 30 feet
-**Components:** V, S, M (a drop of mercury, a dollop of gum arabic, and a wisp of smoke)
-**Duration:** Concentration, up to 1 hour
-**Concentration:** Yes
-**Ritual:** No
+- **Level:** 9th
+- **School:** Transmutation
+- **Casting Time:** Action
+- **Range:** 30 feet
+- **Components:** V, S, M (a drop of mercury, a dollop of gum arabic, and a wisp of smoke)
+- **Duration:** Concentration, up to 1 hour
+- **Concentration:** Yes
+- **Ritual:** No
 
 ## Description
 
@@ -42,13 +42,11 @@ If the spell lasts more than an hour, you no longer control the creature. It mig
 
 ## At Higher Levels
 
-Not applicable.
+None.
 
 ## Spell Lists
 
-- Arcane (Wizard)
-- Bard
-- Warlock
+Wizard, Bard, Warlock
 
 ## 2024 Changes
 

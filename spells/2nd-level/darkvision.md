@@ -1,7 +1,7 @@
 ---
 type: spell
 level: 2
-school: Transmutation
+school: transmutation
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
@@ -26,8 +26,7 @@ For the duration, a willing creature you touch has Darkvision with a range of 15
 
 ## Spell Lists
 
-- **Classes:** Druid, Ranger, Sorcerer, Wizard
-- **Spell Lists:** Arcane, Primal
+Druid, Ranger, Sorcerer, Wizard
 
 ## 2024 Changes
 

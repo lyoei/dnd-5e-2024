@@ -1,11 +1,11 @@
 ---
 type: spell
 level: 5
-school: Evocation
+school: evocation
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
-tags: [spell, 5th-level, Evocation, jallarzis-storm-of-radiance]
+tags: [spell, 5th-level, evocation, jallarzis-storm-of-radiance]
 updated: 2026-05-19
 ---
 

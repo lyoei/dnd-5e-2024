@@ -28,8 +28,7 @@ The creature that damaged you is momentarily surrounded by green flames. It make
 
 ## Spell Lists
 
-- **Classes:** Warlock
-- **Categories:** Arcane
+Warlock
 
 ## 2024 Changes
 

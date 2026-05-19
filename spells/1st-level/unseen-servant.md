@@ -30,8 +30,7 @@ If you command the servant to perform a task that would move it more than 60 fee
 
 ## Spell Lists
 
-- **Classes:** Bard, Warlock, Wizard
-- **Categories:** Arcane
+Bard, Warlock, Wizard
 
 ## 2024 Changes
 

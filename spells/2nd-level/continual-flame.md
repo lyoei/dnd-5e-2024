@@ -1,7 +1,7 @@
 ---
 type: spell
 level: 2
-school: Evocation
+school: evocation
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
@@ -26,8 +26,7 @@ A flame springs from an object that you touch. The effect casts Bright Light in 
 
 ## Spell Lists
 
-- **Classes:** Cleric, Druid, Wizard
-- **Spell Lists:** Arcane, Divine, Primal
+Cleric, Druid, Wizard
 
 ## 2024 Changes
 

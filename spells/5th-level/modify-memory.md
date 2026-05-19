@@ -1,11 +1,11 @@
 ---
 type: spell
 level: 5
-school: Enchantment
+school: enchantment
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
-tags: [spell, 5th-level, Enchantment, modify-memory]
+tags: [spell, 5th-level, enchantment, modify-memory]
 updated: 2026-05-19
 ---
 

@@ -1,11 +1,11 @@
 ---
 type: spell
 level: 7
-school: Necromancy
+school: necromancy
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
-tags: [spell, 7th-level, Necromancy, finger-of-death]
+tags: [spell, 7th-level, necromancy, finger-of-death]
 updated: 2026-05-19
 ---
 
@@ -26,7 +26,7 @@ You send negative energy coursing through a creature that you can see within ran
 
 ## At Higher Levels
 
-No additional effect at higher levels.
+None.
 
 ## Spell Lists
 

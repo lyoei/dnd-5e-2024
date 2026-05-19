@@ -30,8 +30,7 @@ If you move more than 100 feet from the disk (typically because it can’t move 
 
 ## Spell Lists
 
-- **Classes:** Wizard
-- **Categories:** Arcane
+Wizard
 
 ## 2024 Changes
 

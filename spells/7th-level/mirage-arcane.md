@@ -1,11 +1,11 @@
 ---
 type: spell
 level: 7
-school: Illusion
+school: illusion
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
-tags: [spell, 7th-level, Illusion, mirage-arcane]
+tags: [spell, 7th-level, illusion, mirage-arcane]
 updated: 2026-05-19
 ---
 
@@ -26,7 +26,7 @@ You make terrain in an area up to 1 mile square look, sound, smell, and even fee
 
 ## At Higher Levels
 
-No additional effect at higher levels.
+None.
 
 ## Spell Lists
 

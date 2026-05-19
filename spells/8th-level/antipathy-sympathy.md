@@ -1,7 +1,7 @@
 ---
 type: spell
 level: 8
-school: Enchantment
+school: enchantment
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
@@ -11,14 +11,14 @@ updated: 2026-05-19
 
 # Antipathy/Sympathy
 
-**Level:** 8th
-**School:** Enchantment
-**Casting Time:** 1 hour
-**Range:** 60 feet
-**Components:** V, S, M (a mix of vinegar and honey)
-**Duration:** 10 days
-**Concentration:** No
-**Ritual:** No
+- **Level:** 8th
+- **School:** Enchantment
+- **Casting Time:** 1 hour
+- **Range:** 60 feet
+- **Components:** V, S, M (a mix of vinegar and honey)
+- **Duration:** 10 days
+- **Concentration:** No
+- **Ritual:** No
 
 ## Description
 
@@ -32,13 +32,11 @@ As you cast the spell, choose whether it creates antipathy or sympathy, and targ
 
 ## At Higher Levels
 
-Not applicable.
+None.
 
 ## Spell Lists
 
-- Arcane (Wizard)
-- Primal (Druid)
-- Bard
+Wizard, Druid, Bard
 
 ## 2024 Changes
 

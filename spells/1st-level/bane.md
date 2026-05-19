@@ -28,8 +28,7 @@ Up to three creatures of your choice that you can see within range must each mak
 
 ## Spell Lists
 
-- **Classes:** Bard, Cleric, Warlock
-- **Categories:** Arcane, Divine
+Bard, Cleric, Warlock
 
 ## 2024 Changes
 

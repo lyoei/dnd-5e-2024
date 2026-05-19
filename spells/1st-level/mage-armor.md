@@ -26,8 +26,7 @@ You touch a willing creature who isn’t wearing armor. Until the spell ends, th
 
 ## Spell Lists
 
-- **Classes:** Sorcerer, Wizard
-- **Categories:** Arcane
+Sorcerer, Wizard
 
 ## 2024 Changes
 

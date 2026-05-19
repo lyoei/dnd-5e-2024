@@ -30,8 +30,7 @@ You set an alarm against intrusion. Choose a door, a window, or an area within r
 
 ## Spell Lists
 
-- **Classes:** Artificer, Ranger, Wizard
-- **Categories:** Arcane, Primal
+Artificer, Ranger, Wizard
 
 ## 2024 Changes
 

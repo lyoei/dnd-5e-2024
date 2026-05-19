@@ -1,7 +1,7 @@
 ---
 type: spell
 level: 9
-school: Transmutation
+school: transmutation
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
@@ -11,14 +11,14 @@ updated: 2026-05-19
 
 # Time Stop
 
-**Level:** 9th
-**School:** Transmutation
-**Casting Time:** Action
-**Range:** Self
-**Components:** V
-**Duration:** Instantaneous
-**Concentration:** No
-**Ritual:** No
+- **Level:** 9th
+- **School:** Transmutation
+- **Casting Time:** Action
+- **Range:** Self
+- **Components:** V
+- **Duration:** Instantaneous
+- **Concentration:** No
+- **Ritual:** No
 
 ## Description
 
@@ -28,12 +28,11 @@ This spell ends if one of the actions you use during this period, or any effects
 
 ## At Higher Levels
 
-Not applicable.
+None.
 
 ## Spell Lists
 
-- Arcane (Wizard)
-- Sorcerer
+Wizard, Sorcerer
 
 ## 2024 Changes
 

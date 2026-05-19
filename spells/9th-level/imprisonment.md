@@ -1,7 +1,7 @@
 ---
 type: spell
 level: 9
-school: Abjuration
+school: abjuration
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
@@ -11,14 +11,14 @@ updated: 2026-05-19
 
 # Imprisonment
 
-**Level:** 9th
-**School:** Abjuration
-**Casting Time:** 1 minute
-**Range:** 30 feet
-**Components:** V, S, M (a statuette of the target worth 5,000+ GP)
-**Duration:** Until dispelled
-**Concentration:** No
-**Ritual:** No
+- **Level:** 9th
+- **School:** Abjuration
+- **Casting Time:** 1 minute
+- **Range:** 30 feet
+- **Components:** V, S, M (a statuette of the target worth 5,000+ GP)
+- **Duration:** Until dispelled
+- **Concentration:** No
+- **Ritual:** No
 
 ## Description
 
@@ -42,12 +42,11 @@ A Dispel Magic spell can end the spell only if it is cast with a level 9 spell s
 
 ## At Higher Levels
 
-Not applicable.
+None.
 
 ## Spell Lists
 
-- Arcane (Wizard)
-- Warlock
+Wizard, Warlock
 
 ## 2024 Changes
 

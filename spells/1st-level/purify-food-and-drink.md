@@ -26,8 +26,7 @@ You remove poison and rot from nonmagical food and drink in a 5-foot-radius Sphe
 
 ## Spell Lists
 
-- **Classes:** Artificer, Cleric, Druid, Paladin
-- **Categories:** Arcane, Divine, Primal
+Artificer, Cleric, Druid, Paladin
 
 ## 2024 Changes
 

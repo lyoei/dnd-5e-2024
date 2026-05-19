@@ -1,11 +1,11 @@
 ---
 type: spell
 level: 6
-school: Necromancy
+school: necromancy
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
-tags: [spell, 6th-level, Necromancy, magic-jar]
+tags: [spell, 6th-level, necromancy, magic-jar]
 updated: 2026-05-19
 ---
 
@@ -26,7 +26,7 @@ Your body falls into a catatonic state as your soul leaves it and enters the con
 
 ## At Higher Levels
 
-No additional effect at higher levels.
+None.
 
 ## Spell Lists
 

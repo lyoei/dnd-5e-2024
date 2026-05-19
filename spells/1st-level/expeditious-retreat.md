@@ -26,8 +26,7 @@ You take the Dash action, and until the spell ends, you can take that action aga
 
 ## Spell Lists
 
-- **Classes:** Artificer, Sorcerer, Warlock, Wizard
-- **Categories:** Arcane
+Artificer, Sorcerer, Warlock, Wizard
 
 ## 2024 Changes
 

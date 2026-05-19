@@ -28,8 +28,7 @@ Creatures that don’t sleep, such as elves, or that have Immunity to the Exhaus
 
 ## Spell Lists
 
-- **Classes:** Bard, Sorcerer, Wizard
-- **Categories:** Arcane
+Bard, Sorcerer, Wizard
 
 ## 2024 Changes
 

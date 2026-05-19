@@ -1,7 +1,7 @@
 ---
 type: spell
 level: 4
-school: Transmutation
+school: transmutation
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
@@ -17,9 +17,8 @@ updated: 2026-05-19
 - **Range:** 60 feet
 - **Components:** V, S, M (a caterpillar cocoon)
 - **Duration:** Concentration, up to 1 hour
-- **Concentration:** yes
-- **Ritual:** no
-
+- **Concentration:** Yes
+- **Ritual:** No
 ## Description
 
 You attempt to transform a creature that you can see within range. An unwilling creature must succeed on a Wisdom saving throw to avoid the effect. The spell has no effect on a shapechanger or a creature with 0 Hit Points.
@@ -34,7 +33,7 @@ The target's gear melds into the new form. The creature can't activate, use, wie
 
 ## At Higher Levels
 
-None specified.
+None.
 
 ## Spell Lists
 

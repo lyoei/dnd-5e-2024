@@ -1,11 +1,11 @@
 ---
 type: spell
 level: 5
-school: Abjuration
+school: abjuration
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
-tags: [spell, 5th-level, Abjuration, hallow]
+tags: [spell, 5th-level, abjuration, hallow]
 updated: 2026-05-19
 ---
 
@@ -26,7 +26,7 @@ You touch a point and infuse an area around it with holy or unholy power. The ar
 
 ## At Higher Levels
 
-No additional effect at higher levels.
+None.
 
 ## Spell Lists
 

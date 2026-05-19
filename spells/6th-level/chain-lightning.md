@@ -1,11 +1,11 @@
 ---
 type: spell
 level: 6
-school: Evocation
+school: evocation
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
-tags: [spell, 6th-level, Evocation, chain-lightning]
+tags: [spell, 6th-level, evocation, chain-lightning]
 updated: 2026-05-19
 ---
 

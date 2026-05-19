@@ -1,11 +1,11 @@
 ---
 type: spell
 level: 6
-school: Divination
+school: divination
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
-tags: [spell, 6th-level, Divination, true-seeing]
+tags: [spell, 6th-level, divination, true-seeing]
 updated: 2026-05-19
 ---
 
@@ -26,7 +26,7 @@ This spell gives the willing creature you touch the ability to see things as the
 
 ## At Higher Levels
 
-No additional effect at higher levels.
+None.
 
 ## Spell Lists
 

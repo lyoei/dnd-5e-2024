@@ -28,8 +28,7 @@ Attack rolls against an affected creature or object have Advantage if the attack
 
 ## Spell Lists
 
-- **Classes:** Artificer, Bard, Druid
-- **Categories:** Arcane, Primal
+Artificer, Bard, Druid
 
 ## 2024 Changes
 

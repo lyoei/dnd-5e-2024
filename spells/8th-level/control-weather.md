@@ -1,7 +1,7 @@
 ---
 type: spell
 level: 8
-school: Transmutation
+school: transmutation
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
@@ -11,14 +11,14 @@ updated: 2026-05-19
 
 # Control Weather
 
-**Level:** 8th
-**School:** Transmutation
-**Casting Time:** 10 minutes
-**Range:** Self
-**Components:** V, S, M (burning incense)
-**Duration:** Concentration, up to 8 hours
-**Concentration:** Yes
-**Ritual:** No
+- **Level:** 8th
+- **School:** Transmutation
+- **Casting Time:** 10 minutes
+- **Range:** Self
+- **Components:** V, S, M (burning incense)
+- **Duration:** Concentration, up to 8 hours
+- **Concentration:** Yes
+- **Ritual:** No
 
 ## Description
 
@@ -61,13 +61,11 @@ When you change the weather conditions, find a current condition on the followin
 
 ## At Higher Levels
 
-Not applicable.
+None.
 
 ## Spell Lists
 
-- Arcane (Wizard)
-- Divine (Cleric)
-- Primal (Druid)
+Wizard, Cleric, Druid
 
 ## 2024 Changes
 

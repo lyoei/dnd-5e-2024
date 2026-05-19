@@ -30,8 +30,7 @@ Physical interaction with the image reveals it to be an illusion, since things c
 
 ## Spell Lists
 
-- **Classes:** Bard, Sorcerer, Wizard
-- **Categories:** Arcane
+Bard, Sorcerer, Wizard
 
 ## 2024 Changes
 

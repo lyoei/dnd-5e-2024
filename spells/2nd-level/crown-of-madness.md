@@ -1,7 +1,7 @@
 ---
 type: spell
 level: 2
-school: Enchantment
+school: enchantment
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
@@ -30,8 +30,7 @@ On your later turns, you must take the Magic action to maintain control of the t
 
 ## Spell Lists
 
-- **Classes:** Bard, Sorcerer, Warlock, Wizard
-- **Spell Lists:** Arcane
+Bard, Sorcerer, Warlock, Wizard
 
 ## 2024 Changes
 

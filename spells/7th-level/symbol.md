@@ -1,11 +1,11 @@
 ---
 type: spell
 level: 7
-school: Abjuration
+school: abjuration
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
-tags: [spell, 7th-level, Abjuration, symbol]
+tags: [spell, 7th-level, abjuration, symbol]
 updated: 2026-05-19
 ---
 
@@ -26,7 +26,7 @@ When you cast this spell, you inscribe a harmful glyph either on a surface (such
 
 ## At Higher Levels
 
-No additional effect at higher levels.
+None.
 
 ## Spell Lists
 

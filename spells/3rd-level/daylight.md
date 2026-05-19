@@ -1,7 +1,7 @@
 ---
 type: spell
 level: 3
-school: Evocation
+school: evocation
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
@@ -34,9 +34,7 @@ N/A
 
 ## Spell Lists
 
-- Divine (Cleric, Paladin)
-- Primal (Druid, Ranger)
-- Arcane (Sorcerer)
+Cleric, Paladin, Druid, Ranger, Sorcerer
 
 ## 2024 Changes
 

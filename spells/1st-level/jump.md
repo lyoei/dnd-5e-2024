@@ -28,8 +28,7 @@ You touch a willing creature. Once on each of its turns until the spell ends, th
 
 ## Spell Lists
 
-- **Classes:** Artificer, Druid, Ranger, Sorcerer, Wizard
-- **Categories:** Arcane, Primal
+Artificer, Druid, Ranger, Sorcerer, Wizard
 
 ## 2024 Changes
 

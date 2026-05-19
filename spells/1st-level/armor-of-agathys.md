@@ -28,8 +28,7 @@ Protective magical frost surrounds you. You gain 5 Temporary Hit Points. If a cr
 
 ## Spell Lists
 
-- **Classes:** Warlock
-- **Categories:** Arcane
+Warlock
 
 ## 2024 Changes
 

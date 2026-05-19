@@ -1,11 +1,11 @@
 ---
 type: spell
 level: 6
-school: Conjuration
+school: conjuration
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
-tags: [spell, 6th-level, Conjuration, conjure-fey]
+tags: [spell, 6th-level, conjuration, conjure-fey]
 updated: 2026-05-19
 ---
 

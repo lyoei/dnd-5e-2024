@@ -1,11 +1,11 @@
 ---
 type: spell
 level: 5
-school: Evocation
+school: evocation
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
-tags: [spell, 5th-level, Evocation, wall-of-force]
+tags: [spell, 5th-level, evocation, wall-of-force]
 updated: 2026-05-19
 ---
 
@@ -26,7 +26,7 @@ An invisible wall of force springs into existence at a point you choose within r
 
 ## At Higher Levels
 
-No additional effect at higher levels.
+None.
 
 ## Spell Lists
 

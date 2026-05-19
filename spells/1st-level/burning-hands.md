@@ -30,8 +30,7 @@ Flammable objects in the Cone that aren’t being worn or carried start burning.
 
 ## Spell Lists
 
-- **Classes:** Sorcerer, Wizard
-- **Categories:** Arcane
+Sorcerer, Wizard
 
 ## 2024 Changes
 

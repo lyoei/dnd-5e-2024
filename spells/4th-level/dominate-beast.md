@@ -1,7 +1,7 @@
 ---
 type: spell
 level: 4
-school: Enchantment
+school: enchantment
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
@@ -17,9 +17,8 @@ updated: 2026-05-19
 - **Range:** 60 feet
 - **Components:** V, S
 - **Duration:** Concentration, up to 1 minute
-- **Concentration:** yes
-- **Ritual:** no
-
+- **Concentration:** Yes
+- **Ritual:** No
 ## Description
 
 You attempt to beguile a Beast you can see within range. The Beast must succeed on a Wisdom saving throw or have the Charmed condition for the duration. The Beast has Advantage on the save if you or your allies are fighting it.

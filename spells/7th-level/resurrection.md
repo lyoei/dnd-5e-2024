@@ -1,11 +1,11 @@
 ---
 type: spell
 level: 7
-school: Necromancy
+school: necromancy
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
-tags: [spell, 7th-level, Necromancy, resurrection]
+tags: [spell, 7th-level, necromancy, resurrection]
 updated: 2026-05-19
 ---
 
@@ -26,7 +26,7 @@ You touch a dead creature that has been dead for no more than a century, that di
 
 ## At Higher Levels
 
-No additional effect at higher levels.
+None.
 
 ## Spell Lists
 

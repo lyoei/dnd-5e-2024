@@ -1,7 +1,7 @@
 ---
 type: spell
 level: 4
-school: Divination
+school: divination
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
@@ -17,9 +17,8 @@ updated: 2026-05-19
 - **Range:** Self
 - **Components:** V, S, M (incense worth 25+ GP, which the spell consumes)
 - **Duration:** Instantaneous
-- **Concentration:** no
-- **Ritual:** yes
-
+- **Concentration:** No
+- **Ritual:** Yes
 ## Description
 
 This spell puts you in contact with a god or a god's servants. You ask one question about a specific goal, event, or activity to occur within 7 days. The DM offers a truthful reply, which might be a short phrase, a cryptic rhyme, or an omen.
@@ -30,7 +29,7 @@ If you cast the spell two or more times before finishing a Long Rest, there is a
 
 ## At Higher Levels
 
-None specified.
+None.
 
 ## Spell Lists
 

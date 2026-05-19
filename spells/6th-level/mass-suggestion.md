@@ -1,11 +1,11 @@
 ---
 type: spell
 level: 6
-school: Enchantment
+school: enchantment
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
-tags: [spell, 6th-level, Enchantment, mass-suggestion]
+tags: [spell, 6th-level, enchantment, mass-suggestion]
 updated: 2026-05-19
 ---
 

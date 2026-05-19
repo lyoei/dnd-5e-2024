@@ -28,8 +28,7 @@ The target takes an extra 2d8 Radiant damage from the attack. The damage increas
 
 ## Spell Lists
 
-- **Classes:** Paladin
-- **Categories:** Divine
+Paladin
 
 ## 2024 Changes
 

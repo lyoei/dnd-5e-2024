@@ -36,8 +36,7 @@ Finally, when you cast a spell with a range of touch, your familiar can deliver 
 
 ## Spell Lists
 
-- **Classes:** Wizard
-- **Categories:** Arcane
+Wizard
 
 ## 2024 Changes
 

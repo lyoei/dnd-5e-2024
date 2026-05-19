@@ -28,8 +28,7 @@ When the grease appears, each creature standing in its area must succeed on a De
 
 ## Spell Lists
 
-- **Classes:** Artificer, Sorcerer, Wizard
-- **Categories:** Arcane
+Artificer, Sorcerer, Wizard
 
 ## 2024 Changes
 

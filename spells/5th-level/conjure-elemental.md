@@ -1,11 +1,11 @@
 ---
 type: spell
 level: 5
-school: Conjuration
+school: conjuration
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
-tags: [spell, 5th-level, Conjuration, conjure-elemental]
+tags: [spell, 5th-level, conjuration, conjure-elemental]
 updated: 2026-05-19
 ---
 

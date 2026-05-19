@@ -28,8 +28,7 @@ One creature of your choice that you can see within range hears a discordant mel
 
 ## Spell Lists
 
-- **Classes:** Bard
-- **Categories:** Arcane
+Bard
 
 ## 2024 Changes
 

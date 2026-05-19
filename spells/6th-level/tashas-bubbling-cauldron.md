@@ -1,11 +1,11 @@
 ---
 type: spell
 level: 6
-school: Conjuration
+school: conjuration
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
-tags: [spell, 6th-level, Conjuration, tashas-bubbling-cauldron]
+tags: [spell, 6th-level, conjuration, tashas-bubbling-cauldron]
 updated: 2026-05-19
 ---
 
@@ -26,7 +26,7 @@ You conjure a claw-footed cauldron filled with bubbling liquid. The cauldron app
 
 ## At Higher Levels
 
-No additional effect at higher levels.
+None.
 
 ## Spell Lists
 

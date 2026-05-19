@@ -1,11 +1,11 @@
 ---
 type: spell
 level: 6
-school: Divination
+school: divination
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
-tags: [spell, 6th-level, Divination, find-the-path]
+tags: [spell, 6th-level, divination, find-the-path]
 updated: 2026-05-19
 ---
 
@@ -26,7 +26,7 @@ This spell allows you to find the shortest, most direct physical route to a spec
 
 ## At Higher Levels
 
-No additional effect at higher levels.
+None.
 
 ## Spell Lists
 

@@ -1,7 +1,7 @@
 ---
 type: spell
 level: 2
-school: Enchantment
+school: enchantment
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
@@ -28,8 +28,7 @@ An affected creature is aware of the spell and can avoid answering questions to 
 
 ## Spell Lists
 
-- **Classes:** Bard, Cleric, Paladin
-- **Spell Lists:** Arcane, Divine
+Bard, Cleric, Paladin
 
 ## 2024 Changes
 

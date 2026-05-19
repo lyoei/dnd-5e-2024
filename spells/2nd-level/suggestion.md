@@ -1,7 +1,7 @@
 ---
 type: spell
 level: 2
-school: Enchantment
+school: enchantment
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
@@ -28,8 +28,7 @@ The target must succeed on a Wisdom saving throw or have the Charmed condition f
 
 ## Spell Lists
 
-- **Classes:** Bard, Sorcerer, Warlock, Wizard
-- **Spell Lists:** Arcane
+Bard, Sorcerer, Warlock, Wizard
 
 ## 2024 Changes
 

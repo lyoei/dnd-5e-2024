@@ -1,7 +1,7 @@
 ---
 type: spell
 level: 3
-school: Conjuration
+school: conjuration
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
@@ -30,8 +30,7 @@ N/A
 
 ## Spell Lists
 
-- Divine (Cleric, Paladin)
-- Primal (Druid)
+Cleric, Paladin, Druid
 
 ## 2024 Changes
 

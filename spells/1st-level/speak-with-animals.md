@@ -28,8 +28,7 @@ Most Beasts have little to say about topics that don’t pertain to survival or 
 
 ## Spell Lists
 
-- **Classes:** Bard, Druid, Ranger, Warlock
-- **Categories:** Arcane, Primal
+Bard, Druid, Ranger, Warlock
 
 ## 2024 Changes
 

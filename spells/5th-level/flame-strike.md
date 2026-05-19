@@ -1,11 +1,11 @@
 ---
 type: spell
 level: 5
-school: Evocation
+school: evocation
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
-tags: [spell, 5th-level, Evocation, flame-strike]
+tags: [spell, 5th-level, evocation, flame-strike]
 updated: 2026-05-19
 ---
 

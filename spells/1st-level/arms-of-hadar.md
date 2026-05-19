@@ -28,8 +28,7 @@ Invoking Hadar, you cause tendrils to erupt from yourself. Each creature in a 10
 
 ## Spell Lists
 
-- **Classes:** Warlock
-- **Categories:** Arcane
+Warlock
 
 ## 2024 Changes
 

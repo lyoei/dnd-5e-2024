@@ -1,7 +1,7 @@
 ---
 type: spell
 level: 9
-school: Evocation
+school: evocation
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
@@ -11,14 +11,14 @@ updated: 2026-05-19
 
 # Meteor Swarm
 
-**Level:** 9th
-**School:** Evocation
-**Casting Time:** Action
-**Range:** 1 mile
-**Components:** V, S
-**Duration:** Instantaneous
-**Concentration:** No
-**Ritual:** No
+- **Level:** 9th
+- **School:** Evocation
+- **Casting Time:** Action
+- **Range:** 1 mile
+- **Components:** V, S
+- **Duration:** Instantaneous
+- **Concentration:** No
+- **Ritual:** No
 
 ## Description
 
@@ -28,12 +28,11 @@ A nonmagical object that isn't being worn or carried also takes the damage if it
 
 ## At Higher Levels
 
-Not applicable.
+None.
 
 ## Spell Lists
 
-- Arcane (Wizard)
-- Sorcerer
+Wizard, Sorcerer
 
 ## 2024 Changes
 

@@ -1,11 +1,11 @@
 ---
 type: spell
 level: 5
-school: Divination
+school: divination
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
-tags: [spell, 5th-level, Divination, contact-other-plane]
+tags: [spell, 5th-level, divination, contact-other-plane]
 updated: 2026-05-19
 ---
 
@@ -26,7 +26,7 @@ You mentally contact a demigod, the spirit of a long-dead sage, or some other my
 
 ## At Higher Levels
 
-No additional effect at higher levels.
+None.
 
 ## Spell Lists
 

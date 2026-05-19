@@ -1,7 +1,7 @@
 ---
 type: spell
 level: 9
-school: Abjuration
+school: abjuration
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
@@ -11,14 +11,14 @@ updated: 2026-05-19
 
 # Prismatic Wall
 
-**Level:** 9th
-**School:** Abjuration
-**Casting Time:** Action
-**Range:** 60 feet
-**Components:** V, S
-**Duration:** 10 minutes
-**Concentration:** No
-**Ritual:** No
+- **Level:** 9th
+- **School:** Abjuration
+- **Casting Time:** Action
+- **Range:** 60 feet
+- **Components:** V, S
+- **Duration:** 10 minutes
+- **Concentration:** No
+- **Ritual:** No
 
 ## Description
 
@@ -44,12 +44,11 @@ Antimagic Field has no effect on the wall, and Dispel Magic can affect only the 
 
 ## At Higher Levels
 
-Not applicable.
+None.
 
 ## Spell Lists
 
-- Arcane (Wizard)
-- Bard
+Wizard, Bard
 
 ## 2024 Changes
 

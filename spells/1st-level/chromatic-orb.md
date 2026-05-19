@@ -30,8 +30,7 @@ If you roll the same number on two or more of the d8s, the orb leaps to a differ
 
 ## Spell Lists
 
-- **Classes:** Sorcerer, Wizard
-- **Categories:** Arcane
+Sorcerer, Wizard
 
 ## 2024 Changes
 

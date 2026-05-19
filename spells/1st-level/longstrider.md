@@ -28,8 +28,7 @@ You touch a creature. The target’s Speed increases by 10 feet until the spell 
 
 ## Spell Lists
 
-- **Classes:** Artificer, Bard, Druid, Ranger, Wizard
-- **Categories:** Arcane, Primal
+Artificer, Bard, Druid, Ranger, Wizard
 
 ## 2024 Changes
 

@@ -1,11 +1,11 @@
 ---
 type: spell
 level: 6
-school: Conjuration
+school: conjuration
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
-tags: [spell, 6th-level, Conjuration, transport-via-plants]
+tags: [spell, 6th-level, conjuration, transport-via-plants]
 updated: 2026-05-19
 ---
 
@@ -26,7 +26,7 @@ This spell creates a magical link between a Large or larger inanimate plant with
 
 ## At Higher Levels
 
-No additional effect at higher levels.
+None.
 
 ## Spell Lists
 

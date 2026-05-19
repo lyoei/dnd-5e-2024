@@ -1,11 +1,11 @@
 ---
 type: spell
 level: 7
-school: Conjuration
+school: conjuration
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
-tags: [spell, 7th-level, Conjuration, conjure-celestial]
+tags: [spell, 7th-level, conjuration, conjure-celestial]
 updated: 2026-05-19
 ---
 

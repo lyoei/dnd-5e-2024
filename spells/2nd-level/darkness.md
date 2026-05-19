@@ -1,7 +1,7 @@
 ---
 type: spell
 level: 2
-school: Evocation
+school: evocation
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
@@ -30,8 +30,7 @@ If any of this spell's area overlaps with an area of Bright Light or Dim Light c
 
 ## Spell Lists
 
-- **Classes:** Sorcerer, Warlock, Wizard
-- **Spell Lists:** Arcane
+Sorcerer, Warlock, Wizard
 
 ## 2024 Changes
 

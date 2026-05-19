@@ -1,7 +1,7 @@
 ---
 type: spell
 level: 4
-school: Evocation
+school: evocation
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
@@ -17,9 +17,8 @@ updated: 2026-05-19
 - **Range:** Self
 - **Components:** V, S, M (a bit of phosphorus or a firefly)
 - **Duration:** 10 minutes
-- **Concentration:** no
-- **Ritual:** no
-
+- **Concentration:** No
+- **Ritual:** No
 ## Description
 
 Flames wreathe your body for the duration, shedding Bright Light in a 10-foot radius and Dim Light for an additional 10 feet.
@@ -30,7 +29,7 @@ In addition, whenever a creature within 5 feet of you hits you with a melee atta
 
 ## At Higher Levels
 
-None specified.
+None.
 
 ## Spell Lists
 

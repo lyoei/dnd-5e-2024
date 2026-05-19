@@ -1,7 +1,7 @@
 ---
 type: spell
 level: 4
-school: Abjuration
+school: abjuration
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
@@ -17,16 +17,15 @@ updated: 2026-05-19
 - **Range:** Self
 - **Components:** V
 - **Duration:** Concentration, up to 10 minutes
-- **Concentration:** yes
-- **Ritual:** no
-
+- **Concentration:** Yes
+- **Ritual:** No
 ## Description
 
 Purifying energy radiates from you in a 30-foot Emanation for the duration. The aura moves with you, centered on you. Each nonhostile creature in the aura (including you) can't become Diseased, has Resistance to Poison damage, and has Advantage on saving throws against effects that cause any of the following conditions: Blinded, Charmed, Deafened, Frightened, Paralyzed, Poisoned, or Stunned.
 
 ## At Higher Levels
 
-None specified.
+None.
 
 ## Spell Lists
 

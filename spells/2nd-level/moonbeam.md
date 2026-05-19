@@ -1,7 +1,7 @@
 ---
 type: spell
 level: 2
-school: Evocation
+school: evocation
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
@@ -34,8 +34,7 @@ The damage increases by 1d10 for each spell slot level above 2.
 
 ## Spell Lists
 
-- **Classes:** Druid
-- **Spell Lists:** Primal
+Druid
 
 ## 2024 Changes
 

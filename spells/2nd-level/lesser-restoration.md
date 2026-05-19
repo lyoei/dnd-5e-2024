@@ -1,7 +1,7 @@
 ---
 type: spell
 level: 2
-school: Abjuration
+school: abjuration
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
@@ -26,8 +26,7 @@ You touch a creature and end one condition on it: Blinded, Deafened, Paralyzed, 
 
 ## Spell Lists
 
-- **Classes:** Bard, Cleric, Druid, Paladin, Ranger
-- **Spell Lists:** Arcane, Divine, Primal
+Bard, Cleric, Druid, Paladin, Ranger
 
 ## 2024 Changes
 

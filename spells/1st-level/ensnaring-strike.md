@@ -30,8 +30,7 @@ While Restrained, the target takes 1d6 Piercing damage at the start of each of i
 
 ## Spell Lists
 
-- **Classes:** Ranger
-- **Categories:** Primal
+Ranger
 
 ## 2024 Changes
 

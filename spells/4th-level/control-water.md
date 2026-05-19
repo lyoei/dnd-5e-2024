@@ -1,7 +1,7 @@
 ---
 type: spell
 level: 4
-school: Transmutation
+school: transmutation
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
@@ -17,9 +17,8 @@ updated: 2026-05-19
 - **Range:** 300 feet
 - **Components:** V, S, M (a drop of water and a pinch of dust)
 - **Duration:** Concentration, up to 10 minutes
-- **Concentration:** yes
-- **Ritual:** no
-
+- **Concentration:** Yes
+- **Ritual:** No
 ## Description
 
 Until the spell ends, you control any water inside an area you choose that is a Cube up to 100 feet on a side. You choose one of the following effects when you cast the spell. As a Magic action on your later turns, you can repeat the same effect or choose a different one.
@@ -34,7 +33,7 @@ Until the spell ends, you control any water inside an area you choose that is a 
 
 ## At Higher Levels
 
-None specified.
+None.
 
 ## Spell Lists
 

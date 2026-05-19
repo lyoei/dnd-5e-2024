@@ -1,11 +1,11 @@
 ---
 type: spell
 level: 7
-school: Transmutation
+school: transmutation
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
-tags: [spell, 7th-level, Transmutation, sequester]
+tags: [spell, 7th-level, transmutation, sequester]
 updated: 2026-05-19
 ---
 
@@ -26,7 +26,7 @@ By means of this spell, a willing creature or an object can be hidden away, safe
 
 ## At Higher Levels
 
-No additional effect at higher levels.
+None.
 
 ## Spell Lists
 

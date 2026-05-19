@@ -1,7 +1,7 @@
 ---
 type: spell
 level: 4
-school: Transmutation
+school: transmutation
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
@@ -17,16 +17,15 @@ updated: 2026-05-19
 - **Range:** Touch
 - **Components:** V, S, M (diamond dust worth 100+ GP, which the spell consumes)
 - **Duration:** Concentration, up to 1 hour
-- **Concentration:** yes
-- **Ritual:** no
-
+- **Concentration:** Yes
+- **Ritual:** No
 ## Description
 
 This spell turns the flesh of a willing creature you touch as hard as stone. Until the spell ends, the target has Resistance to Bludgeoning, Piercing, and Slashing damage.
 
 ## At Higher Levels
 
-None specified.
+None.
 
 ## Spell Lists
 

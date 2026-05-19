@@ -1,7 +1,7 @@
 ---
 type: spell
 level: 3
-school: Necromancy
+school: necromancy
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
@@ -32,7 +32,7 @@ When you cast this spell using a spell slot of 4th level or higher, use the high
 
 ## Spell Lists
 
-- Arcane (Warlock, Wizard)
+Warlock, Wizard
 
 ## 2024 Changes
 

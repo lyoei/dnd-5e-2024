@@ -1,7 +1,7 @@
 ---
 type: spell
 level: 2
-school: Illusion
+school: illusion
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
@@ -30,8 +30,7 @@ A creature is unaffected by this spell if it has the Blinded condition, Blindsig
 
 ## Spell Lists
 
-- **Classes:** Bard, Sorcerer, Warlock, Wizard
-- **Spell Lists:** Arcane
+Bard, Sorcerer, Warlock, Wizard
 
 ## 2024 Changes
 

@@ -1,11 +1,11 @@
 ---
 type: spell
 level: 7
-school: Illusion
+school: illusion
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
-tags: [spell, 7th-level, Illusion, project-image]
+tags: [spell, 7th-level, illusion, project-image]
 updated: 2026-05-19
 ---
 
@@ -26,7 +26,7 @@ You create an illusory copy of yourself that lasts for the duration. The copy ca
 
 ## At Higher Levels
 
-No additional effect at higher levels.
+None.
 
 ## Spell Lists
 

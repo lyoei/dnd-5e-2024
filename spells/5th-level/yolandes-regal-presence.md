@@ -1,11 +1,11 @@
 ---
 type: spell
 level: 5
-school: Enchantment
+school: enchantment
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
-tags: [spell, 5th-level, Enchantment, yolandes-regal-presence]
+tags: [spell, 5th-level, enchantment, yolandes-regal-presence]
 updated: 2026-05-19
 ---
 
@@ -26,7 +26,7 @@ You surround yourself with unearthly majesty in a 10-foot Emanation. Whenever an
 
 ## At Higher Levels
 
-No additional effect at higher levels.
+None.
 
 ## Spell Lists
 

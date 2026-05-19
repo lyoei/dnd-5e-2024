@@ -28,8 +28,7 @@ Your strike rings with thunder that is audible within 300 feet of you, and the t
 
 ## Spell Lists
 
-- **Classes:** Paladin
-- **Categories:** Divine
+Paladin
 
 ## 2024 Changes
 

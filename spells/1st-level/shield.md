@@ -26,8 +26,7 @@ An imperceptible barrier of magical force protects you. Until the start of your 
 
 ## Spell Lists
 
-- **Classes:** Sorcerer, Wizard
-- **Categories:** Arcane
+Sorcerer, Wizard
 
 ## 2024 Changes
 

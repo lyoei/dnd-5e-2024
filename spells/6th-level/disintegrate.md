@@ -1,11 +1,11 @@
 ---
 type: spell
 level: 6
-school: Transmutation
+school: transmutation
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
-tags: [spell, 6th-level, Transmutation, disintegrate]
+tags: [spell, 6th-level, transmutation, disintegrate]
 updated: 2026-05-19
 ---
 

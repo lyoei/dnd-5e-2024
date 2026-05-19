@@ -1,7 +1,7 @@
 ---
 type: spell
 level: 4
-school: Conjuration
+school: conjuration
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
@@ -17,9 +17,8 @@ updated: 2026-05-19
 - **Range:** 90 feet
 - **Components:** V, S, M (a piece of tentacle from a giant octopus or a giant squid)
 - **Duration:** Concentration, up to 1 minute
-- **Concentration:** yes
-- **Ritual:** no
-
+- **Concentration:** Yes
+- **Ritual:** No
 ## Description
 
 Squirming, ebony tentacles fill a 20-foot square on ground that you can see within range. For the duration, these tentacles turn the ground in that area into Difficult Terrain.
@@ -30,7 +29,7 @@ A Restrained creature can use its action to make a Strength (Athletics) or Dexte
 
 ## At Higher Levels
 
-None specified.
+None.
 
 ## Spell Lists
 

@@ -1,7 +1,7 @@
 ---
 type: spell
 level: 8
-school: Transmutation
+school: transmutation
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
@@ -11,14 +11,14 @@ updated: 2026-05-19
 
 # Animal Shapes
 
-**Level:** 8th
-**School:** Transmutation
-**Casting Time:** Action
-**Range:** 30 feet
-**Components:** V, S
-**Duration:** 24 hours
-**Concentration:** No
-**Ritual:** No
+- **Level:** 8th
+- **School:** Transmutation
+- **Casting Time:** Action
+- **Range:** 30 feet
+- **Components:** V, S
+- **Duration:** 24 hours
+- **Concentration:** No
+- **Ritual:** No
 
 ## Description
 
@@ -30,11 +30,11 @@ The target gains a number of Temporary Hit Points equal to the Hit Points of the
 
 ## At Higher Levels
 
-Not applicable.
+None.
 
 ## Spell Lists
 
-- Primal (Druid)
+Druid
 
 ## 2024 Changes
 

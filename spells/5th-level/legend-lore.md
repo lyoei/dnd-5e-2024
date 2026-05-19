@@ -1,11 +1,11 @@
 ---
 type: spell
 level: 5
-school: Divination
+school: divination
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
-tags: [spell, 5th-level, Divination, legend-lore]
+tags: [spell, 5th-level, divination, legend-lore]
 updated: 2026-05-19
 ---
 
@@ -26,7 +26,7 @@ Name or describe a person, place, or object. The spell brings to your mind a bri
 
 ## At Higher Levels
 
-No additional effect at higher levels.
+None.
 
 ## Spell Lists
 

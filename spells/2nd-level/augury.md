@@ -1,7 +1,7 @@
 ---
 type: spell
 level: 2
-school: Divination
+school: divination
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
@@ -33,8 +33,7 @@ The spell doesn't account for possible circumstances that might change the outco
 
 ## Spell Lists
 
-- **Classes:** Cleric, Druid, Wizard
-- **Spell Lists:** Divine, Arcane
+Cleric, Druid, Wizard
 
 ## 2024 Changes
 

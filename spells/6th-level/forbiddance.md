@@ -1,11 +1,11 @@
 ---
 type: spell
 level: 6
-school: Abjuration
+school: abjuration
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
-tags: [spell, 6th-level, Abjuration, forbiddance]
+tags: [spell, 6th-level, abjuration, forbiddance]
 updated: 2026-05-19
 ---
 
@@ -26,7 +26,7 @@ You create a ward against magical travel that protects up to 40,000 square feet 
 
 ## At Higher Levels
 
-No additional effect at higher levels.
+None.
 
 ## Spell Lists
 

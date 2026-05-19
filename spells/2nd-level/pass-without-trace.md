@@ -1,7 +1,7 @@
 ---
 type: spell
 level: 2
-school: Abjuration
+school: abjuration
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
@@ -26,8 +26,7 @@ You radiate a concealing aura in a 30-foot Emanation for the duration. While in 
 
 ## Spell Lists
 
-- **Classes:** Druid, Ranger
-- **Spell Lists:** Primal
+Druid, Ranger
 
 ## 2024 Changes
 

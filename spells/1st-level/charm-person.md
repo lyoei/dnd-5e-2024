@@ -28,8 +28,7 @@ One Humanoid you can see within range makes a Wisdom saving throw. It does so wi
 
 ## Spell Lists
 
-- **Classes:** Bard, Druid, Sorcerer, Warlock, Wizard
-- **Categories:** Arcane, Primal
+Bard, Druid, Sorcerer, Warlock, Wizard
 
 ## 2024 Changes
 

@@ -1,11 +1,11 @@
 ---
 type: spell
 level: 5
-school: Divination
+school: divination
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
-tags: [spell, 5th-level, Divination, commune]
+tags: [spell, 5th-level, divination, commune]
 updated: 2026-05-19
 ---
 
@@ -26,7 +26,7 @@ You contact your deity or a divine proxy and ask up to three questions that can 
 
 ## At Higher Levels
 
-No additional effect at higher levels.
+None.
 
 ## Spell Lists
 

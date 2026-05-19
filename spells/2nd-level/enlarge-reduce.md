@@ -1,7 +1,7 @@
 ---
 type: spell
 level: 2
-school: Transmutation
+school: transmutation
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
@@ -32,8 +32,7 @@ Everything that a targeted creature is wearing and carrying changes size with it
 
 ## Spell Lists
 
-- **Classes:** Bard, Druid, Sorcerer, Wizard
-- **Spell Lists:** Arcane, Primal
+Bard, Druid, Sorcerer, Wizard
 
 ## 2024 Changes
 

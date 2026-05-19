@@ -1,11 +1,11 @@
 ---
 type: spell
 level: 5
-school: Conjuration
+school: conjuration
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
-tags: [spell, 5th-level, Conjuration, conjure-volley]
+tags: [spell, 5th-level, conjuration, conjure-volley]
 updated: 2026-05-19
 ---
 
@@ -26,7 +26,7 @@ You fire a piece of nonmagical ammunition from a ranged weapon or throw a nonmag
 
 ## At Higher Levels
 
-No additional effect at higher levels.
+None.
 
 ## Spell Lists
 

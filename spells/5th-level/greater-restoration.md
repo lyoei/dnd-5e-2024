@@ -1,11 +1,11 @@
 ---
 type: spell
 level: 5
-school: Abjuration
+school: abjuration
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
-tags: [spell, 5th-level, Abjuration, greater-restoration]
+tags: [spell, 5th-level, abjuration, greater-restoration]
 updated: 2026-05-19
 ---
 
@@ -26,7 +26,7 @@ You touch a creature and end one of the following effects on it: one effect that
 
 ## At Higher Levels
 
-No additional effect at higher levels.
+None.
 
 ## Spell Lists
 

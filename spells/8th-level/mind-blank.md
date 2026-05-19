@@ -1,7 +1,7 @@
 ---
 type: spell
 level: 8
-school: Abjuration
+school: abjuration
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
@@ -11,14 +11,14 @@ updated: 2026-05-19
 
 # Mind Blank
 
-**Level:** 8th
-**School:** Abjuration
-**Casting Time:** Action
-**Range:** Touch
-**Components:** V, S
-**Duration:** 24 hours
-**Concentration:** No
-**Ritual:** No
+- **Level:** 8th
+- **School:** Abjuration
+- **Casting Time:** Action
+- **Range:** Touch
+- **Components:** V, S
+- **Duration:** 24 hours
+- **Concentration:** No
+- **Ritual:** No
 
 ## Description
 
@@ -26,12 +26,11 @@ Until the spell ends, one willing creature you touch has Immunity to Psychic dam
 
 ## At Higher Levels
 
-Not applicable.
+None.
 
 ## Spell Lists
 
-- Arcane (Wizard)
-- Bard
+Wizard, Bard
 
 ## 2024 Changes
 

@@ -1,11 +1,11 @@
 ---
 type: spell
 level: 5
-school: Enchantment
+school: enchantment
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
-tags: [spell, 5th-level, Enchantment, hold-monster]
+tags: [spell, 5th-level, enchantment, hold-monster]
 updated: 2026-05-19
 ---
 

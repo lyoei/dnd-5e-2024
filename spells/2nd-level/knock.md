@@ -1,7 +1,7 @@
 ---
 type: spell
 level: 2
-school: Transmutation
+school: transmutation
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
@@ -32,8 +32,7 @@ When you cast the spell, a loud knock, audible up to 300 feet away, emanates fro
 
 ## Spell Lists
 
-- **Classes:** Bard, Sorcerer, Wizard
-- **Spell Lists:** Arcane
+Bard, Sorcerer, Wizard
 
 ## 2024 Changes
 

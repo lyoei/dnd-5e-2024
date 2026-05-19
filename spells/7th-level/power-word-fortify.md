@@ -1,11 +1,11 @@
 ---
 type: spell
 level: 7
-school: Enchantment
+school: enchantment
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
-tags: [spell, 7th-level, Enchantment, power-word-fortify]
+tags: [spell, 7th-level, enchantment, power-word-fortify]
 updated: 2026-05-19
 ---
 
@@ -26,7 +26,7 @@ You speak a word of power that fortifies up to six creatures you can see within 
 
 ## At Higher Levels
 
-No additional effect at higher levels.
+None.
 
 ## Spell Lists
 

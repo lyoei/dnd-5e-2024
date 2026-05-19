@@ -30,8 +30,7 @@ If the target drops to 0 Hit Points before this spell ends, you can take a Bonus
 
 ## Spell Lists
 
-- **Classes:** Ranger
-- **Categories:** Primal
+Ranger
 
 ## 2024 Changes
 

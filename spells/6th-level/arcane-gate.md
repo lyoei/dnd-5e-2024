@@ -1,11 +1,11 @@
 ---
 type: spell
 level: 6
-school: Conjuration
+school: conjuration
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
-tags: [spell, 6th-level, Conjuration, arcane-gate]
+tags: [spell, 6th-level, conjuration, arcane-gate]
 updated: 2026-05-19
 ---
 
@@ -26,7 +26,7 @@ You create linked teleportation portals that remain open for the duration. Choos
 
 ## At Higher Levels
 
-No additional effect at higher levels.
+None.
 
 ## Spell Lists
 

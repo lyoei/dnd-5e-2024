@@ -1,7 +1,7 @@
 ---
 type: spell
 level: 3
-school: Abjuration
+school: abjuration
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
@@ -30,8 +30,7 @@ N/A
 
 ## Spell Lists
 
-- Arcane (Warlock, Wizard)
-- Divine (Cleric, Paladin)
+Warlock, Wizard, Cleric, Paladin
 
 ## 2024 Changes
 

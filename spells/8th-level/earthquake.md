@@ -1,7 +1,7 @@
 ---
 type: spell
 level: 8
-school: Transmutation
+school: transmutation
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
@@ -11,14 +11,14 @@ updated: 2026-05-19
 
 # Earthquake
 
-**Level:** 8th
-**School:** Transmutation
-**Casting Time:** Action
-**Range:** 500 feet
-**Components:** V, S, M (a fractured rock)
-**Duration:** Concentration, up to 1 minute
-**Concentration:** Yes
-**Ritual:** No
+- **Level:** 8th
+- **School:** Transmutation
+- **Casting Time:** Action
+- **Range:** 500 feet
+- **Components:** V, S, M (a fractured rock)
+- **Duration:** Concentration, up to 1 minute
+- **Concentration:** Yes
+- **Ritual:** No
 
 ## Description
 
@@ -36,13 +36,11 @@ A creature within a distance from a collapsing structure equal to half the struc
 
 ## At Higher Levels
 
-Not applicable.
+None.
 
 ## Spell Lists
 
-- Divine (Cleric)
-- Primal (Druid)
-- Sorcerer
+Cleric, Druid, Sorcerer
 
 ## 2024 Changes
 

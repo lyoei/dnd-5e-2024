@@ -1,11 +1,11 @@
 ---
 type: spell
 level: 6
-school: Abjuration
+school: abjuration
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
-tags: [spell, 6th-level, Abjuration, contingency]
+tags: [spell, 6th-level, abjuration, contingency]
 updated: 2026-05-19
 ---
 
@@ -26,7 +26,7 @@ Choose a spell of 5th level or lower that you can cast, that has a casting time 
 
 ## At Higher Levels
 
-No additional effect at higher levels.
+None.
 
 ## Spell Lists
 

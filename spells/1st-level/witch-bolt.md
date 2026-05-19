@@ -32,8 +32,7 @@ The spell ends if the target is ever outside the spell’s range or if it has To
 
 ## Spell Lists
 
-- **Classes:** Sorcerer, Warlock, Wizard
-- **Categories:** Arcane
+Sorcerer, Warlock, Wizard
 
 ## 2024 Changes
 

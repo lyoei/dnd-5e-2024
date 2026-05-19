@@ -1,7 +1,7 @@
 ---
 type: spell
 level: 2
-school: Conjuration
+school: conjuration
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
@@ -34,8 +34,7 @@ The damage increases by 1d6 for each spell slot level above 2.
 
 ## Spell Lists
 
-- **Classes:** Druid, Sorcerer, Wizard
-- **Spell Lists:** Arcane, Primal
+Druid, Sorcerer, Wizard
 
 ## 2024 Changes
 

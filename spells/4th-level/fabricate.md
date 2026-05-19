@@ -1,7 +1,7 @@
 ---
 type: spell
 level: 4
-school: Transmutation
+school: transmutation
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
@@ -17,9 +17,8 @@ updated: 2026-05-19
 - **Range:** 120 feet
 - **Components:** V, S
 - **Duration:** Instantaneous
-- **Concentration:** no
-- **Ritual:** no
-
+- **Concentration:** No
+- **Ritual:** No
 ## Description
 
 You convert raw materials into products of the same material. For example, you can fabricate a wooden bridge from a clump of trees, a rope from a patch of hemp, and clothes from flax or wool.
@@ -30,7 +29,7 @@ Creatures and magic items can't be created by this spell. You also can't use it 
 
 ## At Higher Levels
 
-None specified.
+None.
 
 ## Spell Lists
 

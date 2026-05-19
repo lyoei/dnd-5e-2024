@@ -1,7 +1,7 @@
 ---
 type: spell
 level: 3
-school: Necromancy
+school: necromancy
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
@@ -32,9 +32,7 @@ N/A
 
 ## Spell Lists
 
-- Arcane (Bard, Wizard)
-- Divine (Cleric)
-- Primal (Druid)
+Bard, Wizard, Cleric, Druid
 
 ## 2024 Changes
 

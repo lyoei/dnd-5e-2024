@@ -28,8 +28,7 @@ A willing creature you touch is imbued with bravery. Until the spell ends, the c
 
 ## Spell Lists
 
-- **Classes:** Bard, Paladin
-- **Categories:** Arcane, Divine
+Bard, Paladin
 
 ## 2024 Changes
 

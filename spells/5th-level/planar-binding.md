@@ -1,11 +1,11 @@
 ---
 type: spell
 level: 5
-school: Abjuration
+school: abjuration
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
-tags: [spell, 5th-level, Abjuration, planar-binding]
+tags: [spell, 5th-level, abjuration, planar-binding]
 updated: 2026-05-19
 ---
 

@@ -1,7 +1,7 @@
 ---
 type: spell
 level: 4
-school: Enchantment
+school: enchantment
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
@@ -17,9 +17,8 @@ updated: 2026-05-19
 - **Range:** Self
 - **Components:** V
 - **Duration:** Instantaneous
-- **Concentration:** no
-- **Ritual:** no
-
+- **Concentration:** No
+- **Ritual:** No
 ## Description
 
 The next time you hit a creature with a melee weapon attack before this spell ends, your weapon pierces both body and mind, and the attack deals an extra 4d6 Psychic damage to the target. The target must succeed on a Wisdom saving throw or have the Stunned condition until the end of your next turn.

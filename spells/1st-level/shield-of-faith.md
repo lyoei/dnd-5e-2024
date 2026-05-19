@@ -26,8 +26,7 @@ A shimmering field surrounds a creature of your choice within range, granting it
 
 ## Spell Lists
 
-- **Classes:** Cleric, Paladin
-- **Categories:** Divine
+Cleric, Paladin
 
 ## 2024 Changes
 

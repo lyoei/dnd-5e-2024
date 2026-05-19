@@ -1,7 +1,7 @@
 ---
 type: spell
 level: 4
-school: Evocation
+school: evocation
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
@@ -17,9 +17,8 @@ updated: 2026-05-19
 - **Range:** 150 feet
 - **Components:** V, S, M (a drop of giant slug bile)
 - **Duration:** Instantaneous
-- **Concentration:** no
-- **Ritual:** no
-
+- **Concentration:** No
+- **Ritual:** No
 ## Description
 
 You point at a location within range, and a glowing, 1-foot-diameter ball of emerald acid streaks there and explodes in a 20-foot-radius Sphere. Each creature in that area makes a Dexterity saving throw. On a failed save, a creature takes 10d4 Acid damage and 5d4 Acid damage at the end of its next turn. On a successful save, a creature takes half the initial damage only and no damage at the end of its next turn.

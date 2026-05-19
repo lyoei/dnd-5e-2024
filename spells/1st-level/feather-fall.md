@@ -26,8 +26,7 @@ Choose up to five falling creatures within range. A falling creature’s rate of
 
 ## Spell Lists
 
-- **Classes:** Artificer, Bard, Sorcerer, Wizard
-- **Categories:** Arcane
+Artificer, Bard, Sorcerer, Wizard
 
 ## 2024 Changes
 

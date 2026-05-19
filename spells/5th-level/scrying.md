@@ -1,11 +1,11 @@
 ---
 type: spell
 level: 5
-school: Divination
+school: divination
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
-tags: [spell, 5th-level, Divination, scrying]
+tags: [spell, 5th-level, divination, scrying]
 updated: 2026-05-19
 ---
 
@@ -26,7 +26,7 @@ You can see and hear a particular creature you choose that is on the same plane 
 
 ## At Higher Levels
 
-No additional effect at higher levels.
+None.
 
 ## Spell Lists
 

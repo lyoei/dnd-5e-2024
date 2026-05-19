@@ -1,11 +1,11 @@
 ---
 type: spell
 level: 5
-school: Evocation
+school: evocation
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
-tags: [spell, 5th-level, Evocation, destructive-wave]
+tags: [spell, 5th-level, evocation, destructive-wave]
 updated: 2026-05-19
 ---
 
@@ -26,7 +26,7 @@ You strike the ground, creating a burst of divine energy that ripples outward fr
 
 ## At Higher Levels
 
-No additional effect at higher levels.
+None.
 
 ## Spell Lists
 

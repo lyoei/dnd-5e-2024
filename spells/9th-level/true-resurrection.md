@@ -1,7 +1,7 @@
 ---
 type: spell
 level: 9
-school: Necromancy
+school: necromancy
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
@@ -11,14 +11,14 @@ updated: 2026-05-19
 
 # True Resurrection
 
-**Level:** 9th
-**School:** Necromancy
-**Casting Time:** 1 hour
-**Range:** Touch
-**Components:** V, S, M (diamonds worth 25,000+ GP, which the spell consumes)
-**Duration:** Instantaneous
-**Concentration:** No
-**Ritual:** No
+- **Level:** 9th
+- **School:** Necromancy
+- **Casting Time:** 1 hour
+- **Range:** Touch
+- **Components:** V, S, M (diamonds worth 25,000+ GP, which the spell consumes)
+- **Duration:** Instantaneous
+- **Concentration:** No
+- **Ritual:** No
 
 ## Description
 
@@ -30,12 +30,11 @@ The spell can provide a new body if the original no longer exists, in which case
 
 ## At Higher Levels
 
-Not applicable.
+None.
 
 ## Spell Lists
 
-- Divine (Cleric)
-- Primal (Druid)
+Cleric, Druid
 
 ## 2024 Changes
 

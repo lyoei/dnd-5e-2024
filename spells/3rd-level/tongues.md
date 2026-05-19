@@ -1,7 +1,7 @@
 ---
 type: spell
 level: 3
-school: Divination
+school: divination
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
@@ -30,8 +30,7 @@ N/A
 
 ## Spell Lists
 
-- Arcane (Bard, Sorcerer, Warlock, Wizard)
-- Divine (Cleric)
+Bard, Sorcerer, Warlock, Wizard, Cleric
 
 ## 2024 Changes
 

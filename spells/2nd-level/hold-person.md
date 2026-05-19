@@ -1,7 +1,7 @@
 ---
 type: spell
 level: 2
-school: Enchantment
+school: enchantment
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
@@ -30,8 +30,7 @@ You can target one additional Humanoid for each spell slot level above 2.
 
 ## Spell Lists
 
-- **Classes:** Bard, Cleric, Druid, Sorcerer, Warlock, Wizard
-- **Spell Lists:** Arcane, Divine, Primal
+Bard, Cleric, Druid, Sorcerer, Warlock, Wizard
 
 ## 2024 Changes
 

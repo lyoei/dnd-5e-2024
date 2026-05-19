@@ -1,7 +1,7 @@
 ---
 type: spell
 level: 2
-school: Illusion
+school: illusion
 version: dnd-5e-2024
 source: PHB 2024
 status: needs-source-check
@@ -26,8 +26,7 @@ For the duration, no sound can be created within or pass through a 20-foot-radiu
 
 ## Spell Lists
 
-- **Classes:** Bard, Cleric, Ranger
-- **Spell Lists:** Arcane, Divine, Primal
+Bard, Cleric, Ranger
 
 ## 2024 Changes
 
