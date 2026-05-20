@@ -1,5 +1,7 @@
 # Spell File Format Audit Report
 
+> **⚠️ RESOLVED:** All issues identified in this audit were batch-fixed in commit `0d9445b` (2026-05-19). This file is retained for historical reference only.
+
 **Date:** 2026-05-19
 **Audited by:** Moco (subagent)
 **Sample:** 1 file per spell level (10 files total)

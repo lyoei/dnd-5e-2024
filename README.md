@@ -9,7 +9,7 @@
 > - `needs-source-check` — Compiled from secondary sources, not yet verified against PHB
 > - `unverified` — Rough draft, may contain errors
 
-A structured, searchable reference for **D&D 5th Edition 2024 Revised Rules** (PHB, DMG, MM).
+A structured, searchable reference for **D&D 5th Edition 2024 Revised Rules**, currently focused on the **PHB (Player's Handbook)**. DMG and MM directories are placeholders for future expansion.
 
 Built for AI DMs and players to query during sessions.
 
