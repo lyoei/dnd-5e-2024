@@ -4,7 +4,7 @@ version: dnd-5e-2024
 source: PHB 2024, Classes
 status: needs-source-check
 tags: [class, druid, circle-of-the-land, circle-of-the-moon, circle-of-the-sea, circle-of-the-stars]
-updated: 2026-05-19
+updated: 2026-05-20
 ---
 
 # Druid
@@ -75,7 +75,7 @@ Choose one sacred role:
 
 ### Level 2: Wild Shape
 
-As a **Bonus Action**, shape-shift into a known Beast form. Duration: hours equal to half Druid level. Can end early as a Bonus Action.
+As a **Bonus Action**, shape-shift into a known Beast form. Duration: hours equal to half Druid level. Can end early as a Bonus Action. Also ends if you use Wild Shape again, become Incapacitated, or die.
 
 - **Uses.** Start with 2. Regain 1 on Short Rest, all on Long Rest. Increases per table.
 - **Known Forms.** Start with 4 forms (max CR 1/4, no Fly Speed). Increases:

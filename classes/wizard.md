@@ -4,7 +4,7 @@ version: dnd-5e-2024
 source: PHB 2024, Classes
 status: needs-source-check
 tags: [class, wizard, abjurer, diviner, evoker, illusionist]
-updated: 2026-05-19
+updated: 2026-05-20
 ---
 
 # Wizard
@@ -124,10 +124,10 @@ Recharging: When you cast an Abjuration spell with a spell slot, the ward regain
 Once you create the ward, you can't create it again until you finish a Long Rest.
 
 #### Level 6: Projected Ward
-When a creature you can see within 30 feet takes damage, you can use your Reaction to have your Arcane Ward absorb the damage. If the ward drops to 0 HP, the warded creature takes the remaining damage.
+When a creature you can see within 30 feet takes damage, you can use your Reaction to have your Arcane Ward absorb the damage. **If that creature has any Resistances or Vulnerabilities, apply them before reducing the ward's Hit Points.** If the ward drops to 0 HP, the warded creature takes the remaining damage.
 
 #### Level 10: Spell Breaker
-You always have Counterspell and Dispel Magic prepared. You can cast Dispel Magic as a Bonus Action. You can add your Proficiency Bonus to ability checks made for Counterspell and Dispel Magic. If you fail the ability check for either spell, the spell slot is not expended.
+You always have Counterspell and Dispel Magic prepared. You can cast Dispel Magic as a **Bonus Action**, and you can add your Proficiency Bonus to **its** ability check. If you fail the ability check for either spell, the spell slot is not expended.
 
 #### Level 14: Spell Resistance
 You have Advantage on saving throws against spells. You have Resistance to damage dealt by spells.
@@ -141,16 +141,16 @@ You have Advantage on saving throws against spells. You have Resistance to damag
 Choose two Wizard spells from the Divination school (each no higher than level 2) and add them to your spellbook for free. Whenever you gain access to a new level of spell slots, you can add one Divination Wizard spell for free.
 
 #### Level 3: Portent
-When you finish a Long Rest, roll two d20s and record the numbers (your portent dice). You can replace any Attack Roll, Saving Throw, or Ability Check made by you or a creature that you can see with one of these portent dice. You must choose to do so before the roll. Each portent die can be used only once. Unused portent dice are lost when you finish a Long Rest.
+When you finish a Long Rest, roll two d20s and record the numbers (your foretelling rolls). You can replace any **d20 Test** made by you or a creature that you can see with one of these foretelling rolls. You must choose to do so before the roll, and **you can replace a roll in this way only once per turn**. Each foretelling roll can be used only once. Unused rolls are lost when you finish a Long Rest.
 
 #### Level 6: Expert Divination
 When you cast a Divination spell of level 2+ using a spell slot, you regain one expended spell slot. The regained slot must be of a level lower than the spell you cast and can't be higher than level 5.
 
 #### Level 10: The Third Eye
-As a Bonus Action, you can gain one of the following benefits, which lasts until you start a Long Rest or use this feature again:
+As a Bonus Action, you can gain one of the following benefits, which lasts until you finish a **Short or Long Rest**. You can't use this feature again until you finish a **Short or Long Rest**.
 - **Darkvision.** You gain Darkvision to 120 feet.
 - **Greater Comprehension.** You can read any language.
-- **See Invisibility.** You can see invisible creatures and objects within 10 feet of you that are within line of sight.
+- **See Invisibility.** You can cast *See Invisibility* without expending a spell slot.
 
 #### Level 14: Greater Portent
 You roll three d20s for your Portent feature, instead of two.
@@ -163,11 +163,11 @@ You roll three d20s for your Portent feature, instead of two.
 #### Level 3: Evocation Savant
 Choose two Wizard spells from the Evocation school (each no higher than level 2) and add them to your spellbook for free. Whenever you gain access to a new level of spell slots, you can add one Evocation Wizard spell for free.
 
-#### Level 3: Sculpt Spells
-When you cast an Evocation spell that forces other creatures you can see to make a saving throw, you can choose a number of those creatures equal to 1 + the spell's level. The chosen creatures automatically succeed on their saving throws against the spell and take no damage if they would normally take half damage on a successful save.
+#### Level 3: Potent Cantrip
+When you cast a cantrip at a creature and you **miss with the attack roll** or the target succeeds on a saving throw against the cantrip, the target takes half the cantrip's damage (if any) but suffers no additional effect from the cantrip.
 
-#### Level 6: Potent Cantrip
-When a creature succeeds on a saving throw against one of your cantrips, the creature takes half the cantrip's damage (if any) but suffers no additional effect from the cantrip.
+#### Level 6: Sculpt Spells
+When you cast an Evocation spell that forces other creatures you can see to make a saving throw, you can choose a number of those creatures equal to 1 + the spell's level. The chosen creatures automatically succeed on their saving throws against the spell and take no damage if they would normally take half damage on a successful save.
 
 #### Level 10: Empowered Evocation
 Whenever you cast a Wizard Evocation spell, you can add your Intelligence modifier to one damage roll of that spell.
@@ -175,7 +175,7 @@ Whenever you cast a Wizard Evocation spell, you can add your Intelligence modifi
 #### Level 14: Overchannel
 When you cast a Wizard spell of levels 1–5 that deals damage, you can deal maximum damage with that spell on the turn you cast it.
 
-The first time you use this feature after a Long Rest, you suffer no adverse effects. If you use it again before finishing a Long Rest, you take 2d12 Necrotic damage per spell level immediately after casting. Each subsequent use before a Long Rest increases the Necrotic damage per spell level by 1d12.
+The first time you use this feature after a Long Rest, you suffer no adverse effects. If you use it again before finishing a Long Rest, you take 2d12 Necrotic damage per spell level immediately after casting. **This damage ignores Resistance and Immunity.** Each subsequent use before a Long Rest increases the Necrotic damage per spell level by 1d12.
 
 ---
 
@@ -186,18 +186,18 @@ The first time you use this feature after a Long Rest, you suffer no adverse eff
 Choose two Wizard spells from the Illusion school (each no higher than level 2) and add them to your spellbook for free. Whenever you gain access to a new level of spell slots, you can add one Illusion Wizard spell for free.
 
 #### Level 3: Improved Illusions
-You always have the Silent Image spell prepared. When you cast it, you can cast it as a Bonus Action. When you cast an Illusion spell that has a casting time of an action, you can change the casting time to a Bonus Action for that casting.
+You can cast Illusion spells without providing Verbal components, and if an Illusion spell you cast has a range of 10+ feet, the range increases by 60 feet.
 
-Additionally, you can make your Illusion spells seem more real. When a creature uses its action to examine one of your Illusion spells with an ability check, the DC equals your Spell Save DC.
+You also know the *Minor Illusion* cantrip. If you already know it, you learn a different Wizard cantrip of your choice. The cantrip doesn't count against your number of cantrips known. You can create both a sound and an image with a single casting of *Minor Illusion*, and you can cast it as a Bonus Action.
 
 #### Level 6: Phantasmal Creatures
-You always have the Summon Beast spell prepared. When you cast it, you can change its school to Illusion, causing the beast to appear spectral. When cast this way, the spell doesn't require Concentration, but the spell lasts for a number of rounds equal to your Intelligence modifier (minimum 1 round).
+You always have the *Summon Beast* and *Summon Fey* spells prepared. Whenever you cast either spell, you can change its school to Illusion, causing the creature to appear spectral. You can cast the Illusion version of each spell **without expending a spell slot**, but casting it without a slot **halves the creature's Hit Points**. Once you cast either spell without a spell slot, you must finish a Long Rest before you can cast that spell in that way again.
 
 #### Level 10: Illusory Self
-When a creature makes an attack roll against you, you can use your Reaction to create an illusory duplicate. The attack automatically misses, and then the illusion dissipates. You can use this feature a number of times equal to your Proficiency Bonus, and you regain all expended uses on a Long Rest.
+When a creature **hits you** with an attack roll, you can use your Reaction to create an illusory duplicate. The attack automatically misses, and then the illusion dissipates. **Once** you use this feature, you can't use it again until you finish a **Short or Long Rest**. You can also restore your use of it by expending a **level 2+ spell slot** (no action required).
 
 #### Level 14: Illusory Reality
-When you cast an Illusion spell of level 1+, you can choose one inanimate, nonmagical object that is part of the illusion and make that object real. The object remains real for 1 minute, during which it can't deal damage or directly harm anyone. For example, you could make an illusory bridge real long enough for your allies to cross a chasm.
+When you cast an Illusion spell of level 1+, **you can do this on your turn as a Bonus Action while the spell is ongoing**: choose one inanimate, nonmagical object that is part of the illusion and make that object real. The object remains real for 1 minute, during which it can't deal damage or **give any conditions**. For example, you could make an illusory bridge real long enough for your allies to cross a chasm.
 
 ## 2024 Changes
 

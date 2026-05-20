@@ -4,7 +4,7 @@ version: dnd-5e-2024
 source: PHB 2024, Classes
 status: needs-source-check
 tags: [class, paladin, oath-of-devotion, oath-of-glory, oath-of-the-ancients, oath-of-vengeance]
-updated: 2026-05-19
+updated: 2026-05-20
 ---
 
 # Paladin
@@ -96,7 +96,7 @@ Always have *Find Steed* prepared. Can cast it **once without a spell slot** per
 **Magic Action:** Expend one Channel Divinity use. Target up to CHA modifier creatures you can see within 60 ft. Each must make a **WIS save** or be **Frightened** for 1 minute (or until taking damage). While Frightened this way, target can only do one thing on its turn: move, take an action, OR take a Bonus Action.
 
 ### Level 10: Aura of Courage
-You and allies have **Immunity to the Frightened condition** while in your Aura of Protection.
+You and allies have **Immunity to the Frightened condition** while in your Aura of Protection. **If a Frightened ally enters the aura, that condition has no effect on that ally while there.**
 
 ### Level 11: Radiant Strikes
 When you hit with a melee weapon or Unarmed Strike, deal an extra **1d8 Radiant damage**.
@@ -133,13 +133,15 @@ The 2024 PHB includes four Paladin subclasses: **Oath of Devotion**, **Oath of G
 | 17 | Commune, Flame Strike |
 
 #### Level 3: Sacred Weapon
-When you take the Attack action, expend one Channel Divinity use to imbue a melee weapon you're holding for 10 minutes:
+When you take the Attack action, expend one Channel Divinity use to imbue a melee weapon you're holding for 10 minutes **or until you use this feature again**:
 - Add **CHA modifier** to attack rolls (minimum +1).
 - Choose to deal normal damage type or **Radiant damage** on each hit.
 - Weapon emits **Bright Light 20 ft** / Dim Light 20 ft.
 
+You can end this effect early (no action required). This effect also ends if you aren't carrying the weapon.
+
 #### Level 7: Aura of Devotion
-You and allies have **Immunity to the Charmed condition** while in your Aura of Protection.
+You and allies have **Immunity to the Charmed condition** while in your Aura of Protection. **If a Charmed ally enters the aura, that condition has no effect on that ally while there.**
 
 #### Level 15: Smite of Protection
 Whenever you cast *Divine Smite*, you and allies gain **Half Cover** while in your Aura of Protection until the start of your next turn.
@@ -172,10 +174,10 @@ Whenever you cast *Divine Smite*, you and allies gain **Half Cover** while in yo
 After casting *Divine Smite*, expend one Channel Divinity use: distribute **2d8 + Paladin level** Temporary HP among creatures of your choice within 30 ft.
 
 #### Level 3: Peerless Athlete
-**Bonus Action**, expend one Channel Divinity use: for 1 hour, Advantage on STR (Athletics) and DEX (Acrobatics) checks. Long and High Jump distances increase by 10 ft.
+**Bonus Action**, expend one Channel Divinity use: for 1 hour, Advantage on STR (Athletics) and DEX (Acrobatics) checks. Long and High Jump distances increase by 10 ft **(this extra distance costs movement as normal)**.
 
 #### Level 7: Aura of Alacrity
-Your Speed increases by **10 ft**. Allies entering or starting their turn in your Aura of Protection gain **+10 ft Speed** until end of their next turn.
+Your Speed increases by **10 ft**. Allies entering your Aura of Protection **for the first time on a turn** or starting their turn there gain **+10 ft Speed** until end of their next turn.
 
 #### Level 15: Glorious Defense
 **Reaction** when you or a creature within 10 ft is hit by an attack: grant **+CHA modifier to AC** against that attack (minimum +1). If the attack misses, make one weapon attack against the attacker (if in range). Uses equal to CHA modifier per Long Rest.
