@@ -4,11 +4,11 @@ player: Carmen (shenjie@garena.com)
 version: dnd-5e-2024
 level: 1
 species: Wood Elf
-class: Druid (Circle of the Moon)
+class: Druid (Circle of the Land)
 background: Acolyte
 alignment: Chaotic Good
 status: active
-tags: [character, moco, druid, wood-elf, acolyte, circle-of-the-moon]
+tags: [character, moco, druid, wood-elf, acolyte, circle-of-the-land]
 updated: 2026-05-19
 ---
 

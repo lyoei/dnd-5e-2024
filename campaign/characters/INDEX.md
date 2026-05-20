@@ -10,7 +10,7 @@ updated: 2026-05-19
 
 | Character | Player | Species | Class | Background | Links |
 |-----------|--------|---------|-------|------------|-------|
-| moco | Carmen | [Wood Elf](../../species/elf.md) | [Druid](../../classes/druid.md) (Circle of the Moon) | [Acolyte](../../backgrounds/acolyte.md) | [Character Sheet](moco.md) |
+| moco | Carmen | [Wood Elf](../../species/elf.md) | [Druid](../../classes/druid.md) (Circle of the Land) | [Acolyte](../../backgrounds/acolyte.md) | [Character Sheet](moco.md) |
 | Han | Han | [Tiefling](../../species/tiefling.md) | [Wizard](../../classes/wizard.md) (Divination) | [Sage](../../backgrounds/sage.md) | [Character Sheet](han.md) |
 | Helen | Helen | [High Elf](../../species/elf.md) | [Wizard](../../classes/wizard.md) (Abjuration) | [Sage](../../backgrounds/sage.md) | [Character Sheet](helen.md) |
 | xixi | xixi | [High Elf](../../species/elf.md) | [Paladin](../../classes/paladin.md) (Oath of Vengeance) | [Noble](../../backgrounds/noble.md) | [Character Sheet](xixi.md) |
