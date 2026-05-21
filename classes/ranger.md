@@ -2,9 +2,9 @@
 type: class
 version: dnd-5e-2024
 source: PHB 2024, Classes
-status: needs-source-check
+status: verified
 tags: [class, ranger, beast-master, fey-wanderer, gloom-stalker, hunter]
-updated: 2026-05-19
+updated: 2026-05-21
 ---
 
 # Ranger
@@ -37,8 +37,8 @@ Far from bustling cities, amid the trees of trackless forests and across wide pl
 | 6 | +3 | Roving | 3 | 6 | 4 | 2 | — | — | — |
 | 7 | +3 | Subclass Feature | 3 | 7 | 4 | 3 | — | — | — |
 | 8 | +3 | Ability Score Improvement | 3 | 7 | 4 | 3 | — | — | — |
-| 9 | +4 | Expertise | 4 | 9 | 4 | 3 | 2 | — | — |
-| 10 | +4 | Tireless | 4 | 9 | 4 | 3 | 2 | — | — |
+| 9 | +4 | Expertise | 4 | 8 | 4 | 3 | 2 | — | — |
+| 10 | +4 | Tireless | 4 | 8 | 4 | 3 | 2 | — | — |
 | 11 | +4 | Subclass Feature | 4 | 10 | 4 | 3 | 3 | — | — |
 | 12 | +4 | Ability Score Improvement | 4 | 10 | 4 | 3 | 3 | — | — |
 | 13 | +5 | Relentless Hunter | 5 | 11 | 4 | 3 | 3 | 1 | — |
@@ -86,7 +86,7 @@ Speed increases by **10 ft** while not wearing Heavy Armor. Gain **Climb Speed**
 Choose 2 skill proficiencies you lack Expertise in; gain Expertise in both.
 
 ### Level 10: Tireless
-- **Temporary HP (Magic Action):** Gain **1d8 + WIS modifier** Temporary HP. Uses equal to WIS modifier per Long Rest.
+- **Temporary HP (Action):** As an action, gain **1d8 + WIS modifier** (minimum of 1) Temporary HP. Uses equal to WIS modifier (minimum of once) per Long Rest.
 - **Decrease Exhaustion:** Whenever you finish a Short Rest, your Exhaustion level decreases by 1.
 
 ### Level 13: Relentless Hunter
@@ -124,7 +124,7 @@ Summon a primal beast — choose one stat block:
 
 | Stat Block | Size | HP | Speed | Key Trait |
 |---|---|---|---|---|
-| **Beast of the Land** | Medium | 5 + 5 × Ranger level | 40 ft, Climb 40 ft | Charge: +1d6 damage + Prone on 20 ft straight move |
+| **Beast of the Land** | Medium | 5 + 5 × Ranger level | 40 ft, Climb 40 ft | Charge: +1d6 damage + Prone (Large or smaller) on 20 ft straight move |
 | **Beast of the Sky** | Small | 4 + 4 × Ranger level | 10 ft, Fly 60 ft | Flyby: No OAs when flying out of reach |
 | **Beast of the Sea** | Medium | 5 + 5 × Ranger level | 5 ft, Swim 60 ft | Amphibious; Grapple on hit |
 

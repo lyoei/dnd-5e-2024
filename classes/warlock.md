@@ -2,7 +2,7 @@
 type: class
 version: dnd-5e-2024
 source: PHB 2024, Classes
-status: needs-source-check
+status: verified
 tags: [class, warlock, archfey-patron, celestial-patron, fiend-patron, great-old-one-patron]
 updated: 2026-05-19
 ---
@@ -223,7 +223,7 @@ You might bind yourself to Tharizdun, Zargon, Hadar, Great Cthulhu, or invoke se
 
 #### Level 3: Awakened Mind
 
-As a Bonus Action, choose one creature you can see within 30 feet. You and the chosen creature can communicate telepathically while within a number of miles equal to your Charisma modifier (minimum 1 mile). The connection lasts for a number of minutes equal to your Warlock level. It ends early if you connect with a different creature.
+As a Bonus Action, choose one creature you can see within 30 feet. You and the chosen creature can communicate telepathically while within a number of miles equal to your Charisma modifier (minimum 1 mile). To understand each other, you each must mentally use a language the other knows. The connection lasts for a number of minutes equal to your Warlock level. It ends early if you connect with a different creature.
 
 #### Level 3: Great Old One Spells
 

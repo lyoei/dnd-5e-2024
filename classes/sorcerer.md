@@ -2,9 +2,9 @@
 type: class
 version: dnd-5e-2024
 source: PHB 2024, Classes
-status: needs-source-check
+status: verified
 tags: [class, sorcerer, aberrant-sorcery, clockwork-sorcery, draconic-sorcery, wild-magic-sorcery]
-updated: 2026-05-19
+updated: 2026-05-21
 ---
 
 # Sorcerer
@@ -90,16 +90,16 @@ You gain two Metamagic options of your choice. You can use only one Metamagic op
 
 **Metamagic Options:**
 
-- **Careful Spell (1 SP):** Choose a number of creatures equal to your Charisma modifier (min 1). Each chosen creature automatically succeeds on its saving throw against the spell.
+- **Careful Spell (1 SP):** Choose a number of creatures equal to your Charisma modifier (min 1). Each chosen creature automatically succeeds on its saving throw against the spell, and it takes no damage if it would normally take half damage on a successful save.
 - **Distant Spell (1 SP):** Double the range of a spell with range 5+ feet, or make a Touch spell have range 30 feet.
 - **Empowered Spell (1 SP):** Reroll up to your Charisma modifier damage dice (min 1). Can be used with another Metamagic option.
-- **Extended Spell (1 SP):** Double the duration of a spell with a duration of 1 minute or longer, to a max of 24 hours.
-- **Heightened Spell (2 SP):** One target of the spell has Disadvantage on its first saving throw against the spell.
-- **Quickened Spell (2 SP):** Change the casting time of a spell from an action to a Bonus Action for this casting.
-- **Seeking Spell (1 SP):** If you make an attack roll for a spell and miss, you can reroll the d20 and must use the new roll.
-- **Subtle Spell (1 SP):** Cast without Verbal or Somatic components.
+- **Extended Spell (1 SP):** Double the duration of a spell with a duration of 1 minute or longer, to a max of 24 hours. If the affected spell requires Concentration, you have Advantage on any saving throw you make to maintain that Concentration.
+- **Heightened Spell (2 SP):** One target of the spell has Disadvantage on saves against the spell.
+- **Quickened Spell (2 SP):** Change the casting time of a spell from an action to a Bonus Action for this casting. You can't modify a spell in this way if you've already cast a level 1+ spell on the current turn, nor can you cast a level 1+ spell on this turn after modifying a spell in this way.
+- **Seeking Spell (1 SP):** If you make an attack roll for a spell and miss, you can reroll the d20 and must use the new roll. Can be used with another Metamagic option.
+- **Subtle Spell (1 SP):** Cast without any Verbal, Somatic, or Material components, except Material components that are consumed by the spell or that have a cost specified in the spell.
 - **Transmuted Spell (1 SP):** Change the damage type of a spell to Acid, Cold, Fire, Lightning, Poison, or Thunder.
-- **Twinned Spell (SP = spell level, min 1):** When you cast a spell that targets only one creature and doesn't have a range of Self, you can spend extra Sorcery Points to target a second creature in range with the same spell.
+- **Twinned Spell (1 SP):** When you cast a spell that can be cast with a higher-level spell slot to target an additional creature (such as Charm Person), you can spend 1 Sorcery Point to increase the spell's effective level by 1.
 
 ### Level 3: Sorcerer Subclass
 
@@ -148,7 +148,7 @@ An alien influence has wrapped its tendrils around your mind, giving you psionic
 
 #### Level 3: Telepathic Speech
 
-As a Bonus Action, choose one creature you can see within 30 feet. You and the chosen creature can communicate telepathically while within a number of miles equal to your Charisma modifier (minimum 1 mile). The connection lasts for a number of minutes equal to your Sorcerer level. It ends early if you use this ability to connect with a different creature.
+As a Bonus Action, choose one creature you can see within 30 feet. You and the chosen creature can communicate telepathically while within a number of miles equal to your Charisma modifier (minimum 1 mile). To understand each other, you each must mentally use a language the other knows. The connection lasts for a number of minutes equal to your Sorcerer level. It ends early if you use this ability to connect with a different creature.
 
 #### Level 6: Psionic Sorcery
 

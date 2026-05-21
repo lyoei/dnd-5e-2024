@@ -2,7 +2,7 @@
 type: class
 version: dnd-5e-2024
 source: PHB 2024, Classes
-status: needs-source-check
+status: verified
 tags: [class, fighter, battle-master, champion, eldritch-knight, psi-warrior]
 updated: 2026-05-19
 ---
@@ -210,7 +210,7 @@ Eldritch Knights combine martial mastery with careful study of Wizard magic.
 | 20 | 13 | 4 | 3 | 3 | 1 |
 
 #### Level 3: War Bond
-Ritual (1 hour, can be done during Short Rest) to bond with a weapon. Can't be disarmed of it; can summon it as a Bonus Action from same plane. Up to 2 bonded weapons (summon 1 at a time).
+Ritual (1 hour, can be done during Short Rest) to bond with a weapon. Can't be disarmed of it unless you have the Incapacitated condition; can summon it as a Bonus Action from same plane. Up to 2 bonded weapons (summon 1 at a time).
 
 #### Level 7: War Magic
 When you take the Attack action, you can replace one attack with a Wizard cantrip (casting time: action).
