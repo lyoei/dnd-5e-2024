@@ -9,7 +9,7 @@
 > - `needs-source-check` — Compiled from secondary sources, not yet verified against PHB
 > - `unverified` — Rough draft, may contain errors
 
-A structured, searchable reference for **D&D 5th Edition 2024 Revised Rules**, currently focused on the **PHB (Player's Handbook)**. DMG and MM directories are placeholders for future expansion.
+A structured, searchable reference for **D&D 5th Edition 2024 Revised Rules**, covering the **PHB (Player's Handbook)** and **DMG (Dungeon Master's Guide)**. MM content planned for future expansion.
 
 Built for AI DMs and players to query during sessions.
 
@@ -37,6 +37,12 @@ Built for AI DMs and players to query during sessions.
 │   ├── conditions/   # All conditions in one place
 │   └── rest/         # Short/long rest rules
 ├── magic-items/      # Magic items by rarity
+├── dmg/              # Dungeon Master's Guide reference
+│   ├── running-the-game/  # DC table, damage, combat, advancement
+│   ├── toolbox/           # Traps, poisons, hazards, chases, NPCs
+│   ├── adventures/        # Encounter building, XP budgets
+│   ├── treasure/          # Magic items, crafting, rarity/value
+│   └── bastions/          # Bastion system (facilities, events)
 ├── templates/        # File templates for contributing
 └── 2024-vs-2014.md   # Key changes from 2014 to 2024
 ```
