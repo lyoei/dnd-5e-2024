@@ -65,8 +65,14 @@ def check_frontmatter_fields(path: Path, fm: dict):
     """Check 3: Required frontmatter fields (skip campaign files)."""
     if "campaign" in str(path.relative_to(REPO_ROOT)):
         return  # Campaign files don't need source
-    required = ["source", "status", "updated"]
+    required = ["source", "updated"]
     missing = [f for f in required if f not in fm]
+    # status can be top-level or under verification
+    has_status = "status" in fm or (
+        isinstance(fm.get("verification"), dict) and "status" in fm["verification"]
+    )
+    if not has_status:
+        missing.append("status")
     if missing:
         warnings.append(
             f"{path.relative_to(REPO_ROOT)}: missing frontmatter fields: {missing}"
@@ -181,6 +187,9 @@ def main():
             continue
 
         status = fm.get("status", "")
+        # Also check nested verification.status
+        if not status and isinstance(fm.get("verification"), dict):
+            status = fm["verification"].get("status", "")
         if status == "verified":
             stats["verified"] += 1
         elif status == "partially-verified":

@@ -2,8 +2,13 @@
 type: dm-reference
 version: dnd-5e-2024
 source: DMG 2024, Chapter 3
-status: needs-source-check
-updated: 2026-05-21
+source_detail: "Chapter 3: DM's Toolbox — Chases, Environmental Effects, Hazards, Poison, Traps, NPCs, Doors, Settlements"
+verification:
+  status: needs-source-check
+  method: "Compiled from secondary sources (aidedd.org, community references)"
+  verified_by: pending
+  notes: "Most mechanical tables need cross-check against official DMG. Poison names/DCs and trap DCs are likely accurate but unverified."
+updated: 2026-05-23
 ---
 
 # Chapter 3: DM's Toolbox — Condensed Reference

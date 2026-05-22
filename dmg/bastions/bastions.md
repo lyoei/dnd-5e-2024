@@ -2,15 +2,23 @@
 type: dm-reference
 version: dnd-5e-2024
 source: DMG 2024, Chapter 8
-status: verified
-updated: 2026-05-21
+source_detail: "Chapter 8: Bastions — Gaining a Bastion, Bastion Turns, Facilities, Orders, Events"
+verification:
+  status: verified
+  method: "Full chapter extracted from D&D Beyond official DMG text"
+  verified_by: moco
+  verified_at: 2026-05-22
+  notes: "Complete chapter content verified. All 30 special facilities, facility costs, orders, events table, and defensive wall rules confirmed."
+updated: 2026-05-23
 ---
 
 # Bastions
 
 > *Source: Dungeon Master's Guide (2024), Chapter 8*
 
-A Bastion is a location belonging to a player character — home, stronghold, and place of power developed over a campaign. Characters acquire Bastions at **level 5**.
+---
+
+## RAW Summary — home, stronghold, and place of power developed over a campaign. Characters acquire Bastions at **level 5**.
 
 ## Bastion Turns
 

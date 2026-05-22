@@ -2,7 +2,15 @@
 type: dm-reference
 version: dnd-5e-2024
 source: DMG 2024, Chapter 7
-status: verified
+source_detail: "Chapter 7: Treasure — Magic Item Rules, Rarity/Value, Crafting, Categories"
+verification:
+  status: verified
+  method: "Checked against D&D Beyond official DMG text"
+  verified_by: moco
+  verified_at: 2026-05-22
+  notes: "All tables in this file verified against D&D Beyond. Crafting rules, potion miscibility, rarity/value, and items-by-level tables all confirmed."
+updated: 2026-05-23
+---
 updated: 2026-05-21
 ---
 
@@ -10,7 +18,9 @@ updated: 2026-05-21
 
 > *Source: Dungeon Master's Guide (2024), Chapter 7*
 
-## Coins
+---
+
+## RAW Summary — Currency & Valuables
 
 Standard currency: CP, SP, EP, GP, PP (10:1 ratio each step, EP is 5 SP / 0.5 GP).
 
@@ -29,7 +39,7 @@ Trade bars (various metals, 10–500 GP each) and trade goods (salt, livestock, 
 | 1,000 GP | Black opal, blue sapphire, emerald, fire opal, opal, star ruby, star sapphire, yellow sapphire |
 | 5,000 GP | Black sapphire, diamond, jacinth, ruby |
 
-## Magic Item Categories
+## RAW Summary — Magic Item Categories
 
 | Category | Examples |
 |---|---|
@@ -43,7 +53,7 @@ Trade bars (various metals, 10–500 GP each) and trade goods (salt, livestock, 
 | Weapons | +1 Ammunition, +1 Longsword |
 | Wondrous Items | Bag of Holding, Boots of Elvenkind |
 
-## Magic Item Rarity and Value
+## RAW Summary — Magic Item Rarity and Value
 
 | Rarity | Value* |
 |---|---|
@@ -58,7 +68,7 @@ Trade bars (various metals, 10–500 GP each) and trade goods (salt, livestock, 
 
 If the item incorporates a base item (e.g., Plate Armor), add that item's cost to the magic item's value.
 
-## Magic Items Awarded by Level
+## RAW Summary — Magic Items Awarded by Level
 
 | Character Level (Tier) | Common | Uncommon | Rare | Very Rare | Legendary | Total |
 |---|---|---|---|---|---|---|
@@ -70,7 +80,7 @@ If the item incorporates a base item (e.g., Plate Armor), add that item's cost t
 
 **Overstocking:** Adventures can include 25% more items than the table suggests, assuming some won't be found.
 
-## Potion Rules
+## RAW Summary — Potion Rules
 
 - **Using a Potion:** Drinking or administering = **Bonus Action**. Effect is immediate. Consumed on use.
 - **Mixing Potions:** Roll d100 on the Potion Miscibility table.
@@ -88,18 +98,18 @@ If the item incorporates a base item (e.g., Plate Armor), add that item's cost t
 | 91–99 | Both work, one potion's numerical effects/duration doubled |
 | 00 | Only one works, but effects are **permanent** (DM's choice) |
 
-## Scroll Rules
+## RAW Summary — Scroll Rules
 
 - Consumable. Any creature that can read a written language can attempt to use a scroll.
 - **Spell Scroll:** Must be on your class's spell list. If spell level > your casting ability, make DC 10 + spell level ability check.
 
-## Attunement Rules
+## RAW Summary — Attunement Rules
 
 - Max 3 attuned items at a time.
 - Class prerequisites: must be a member of that class.
 - "Spellcaster" prerequisite: must be able to cast at least one spell via traits/features (not items).
 
-## Crafting Magic Items
+## RAW Summary — Crafting Magic Items
 
 ### Requirements
 - **Arcana Proficiency** required for crafter and all assistants
@@ -137,13 +147,13 @@ If the item incorporates a base item (e.g., Plate Armor), add that item's cost t
 - **Raw Materials:** 75% chance available in city, 25% in other settlements. If unavailable, wait 7 days before checking again.
 - **Base Item Cost:** If the magic item incorporates a purchasable item (e.g., Plate Armor), also pay that cost or craft it.
 
-## Artifacts
+## RAW Summary — Artifacts
 
 Artifacts are priceless, unique items. Each typically has:
 - **Random Properties** (beneficial + detrimental from tables)
 - **Destroying an Artifact** requires a specific method
 
-## Sentient Magic Items
+## RAW Summary — Sentient Magic Items
 
 A sentient item has:
 - **Ability Scores** (typically INT, WIS, CHA)

@@ -2,52 +2,36 @@
 type: dm-reference
 version: dnd-5e-2024
 source: DMG 2024, Chapter 4
-status: partially-verified
-updated: 2026-05-21
+source_detail: "Chapter 4: Creating Adventures — Combat Encounter Difficulty (p. 83), Treasure (p. 120-121)"
+verification:
+  status: partially-verified
+  method: "XP Budget table checked against D&D Beyond official text"
+  verified_by: moco
+  verified_at: 2026-05-22
+  notes: "XP Budget and difficulty categories verified. Social/exploration/reward sections summarized from DMG guidance, not line-checked."
+updated: 2026-05-23
 ---
 
 # Chapter 4: Creating Adventures — Encounter Building & Rewards
-
-## Adventure Structure (4 Steps)
-
-1. **Lay Out the Premise** — Define the core conflict, villain, and stakes
-2. **Draw in the Players** — Create hooks that connect to character motivations
-3. **Plan Encounters** — Each encounter should: advance a goal, frustrate progress, or reveal information
-4. **Bring It to an End** — Design a climactic encounter that resolves the adventure's central conflict
-
-### The One-Hour Guideline
-
-For every **1 hour of gameplay**, plan roughly **3 "things"** (encounters, explorations, social scenes). A low-difficulty combat = 1 thing; harder combats may count as 2.
-
-### Encounter Categories
-
-Encounters break down into three types:
-- **Combat Encounters** — Use the XP Budget system (see below)
-- **Social Interaction Encounters** — NPC conversations, negotiations, interrogations
-- **Exploration Encounters** — Traps, puzzles, environmental hazards, navigation
 
 ---
 
 ## Combat Encounter Building
 
-### Key Changes from 2014 DMG
+### RAW Summary
 
-| Change | 2014 | 2024 |
-|--------|------|------|
-| Difficulty categories | 4 (Easy/Medium/Hard/Deadly) | 3 (Low/Moderate/High) |
-| Encounter multiplier | Yes (×1.5 to ×4 for multiple monsters) | **Removed entirely** |
-| XP threshold meaning | Floor (minimum for that difficulty) | **Ceiling** (maximum for that difficulty) |
-| High-level budgets | Lower | Significantly higher (acknowledges PC power scaling) |
+**Difficulty Categories (2024):** Low, Moderate, High (replaces 2014's Easy/Medium/Hard/Deadly).
 
-### How It Works
-
+**Procedure:**
 1. Look up **XP Budget Per Character** for each PC's level
 2. Choose difficulty: **Low**, **Moderate**, or **High**
 3. **Sum** the XP budgets for all PCs → total encounter XP budget
 4. Select monsters whose **combined XP** fits within that budget
 5. **No multiplier** — just add raw monster XP totals directly
 
-### XP Budget Per Character
+**XP Budget Per Character**
+
+*Source: DMG 2024, p. 83 — "XP Budget per Character" table. Verified against D&D Beyond.*
 
 | Level | Low | Moderate | High |
 |---:|---:|---:|---:|
@@ -74,165 +58,160 @@ Encounters break down into three types:
 
 Multiply the per-character value by the number of PCs to get the total XP budget.
 
-> **Example:** 4 PCs at level 5, High difficulty → 1,100 × 4 = **4,400 XP** total monster budget.
-
-### Party of 4 — Total XP Budgets (Quick Reference)
-
-| Level | Low    | Moderate | High    |
-|------:|-------:|---------:|--------:|
-| 1     | 200    | 300      | 400     |
-| 5     | 2,000  | 3,000    | 4,400   |
-| 10    | 6,400  | 9,200    | 12,400  |
-| 15    | 13,200 | 21,600   | 31,200  |
-| 20    | 25,600 | 52,800   | 88,000  |
-
-### No Encounter Multiplier
-
-The 2024 DMG **completely removes** the encounter multiplier table. You simply total monster XP values directly regardless of how many monsters are in the encounter.
-
-> ⚠️ **DM Caution:** Multiple weaker monsters can be deadlier than the raw XP suggests, especially at low levels. The removal of the multiplier may underestimate swarm encounters. Use judgment for groups of 5+ monsters. [NEEDS VERIFICATION — community consensus still forming]
-
-### Encounter Difficulty Summary
+**Difficulty Definitions:**
 
 | Difficulty | Risk Level | Description |
-|------------|-----------|-------------|
-| **Low**      | Minimal   | Characters unlikely to be seriously threatened. Good for attrition in adventuring day |
-| **Moderate** | Moderate  | A meaningful challenge; resources will be spent. Possible character death with bad luck |
-| **High**     | Serious   | Genuine risk of character death. Intended for climactic or boss encounters |
+|---|---|---|
+| **Low** | Minimal | Characters unlikely to be seriously threatened. One or more may need healing resources. A single monster with CR = party level is roughly Low difficulty for 4 PCs. |
+| **Moderate** | Moderate | Could go badly without healing. Weaker characters might go down. Slim chance of death. |
+| **High** | Serious | Could be lethal. Characters need smart tactics, quick thinking, and maybe luck to survive. |
 
----
+**No Encounter Multiplier.** The 2024 DMG completely removes the multiplier from 2014. Total monster XP values directly regardless of monster count.
 
-## Social Interaction Encounters
+**Key Changes from 2014:**
 
-### Framework [NEEDS VERIFICATION — summarized from DMG 2024 guidance]
+| Change | 2014 | 2024 |
+|---|---|---|
+| Difficulty categories | 4 (Easy/Medium/Hard/Deadly) | 3 (Low/Moderate/High) |
+| Encounter multiplier | Yes (×1.5 to ×4) | Removed |
+| XP threshold meaning | Floor | Ceiling |
 
-Social encounters follow a **goal-based** structure:
-
-1. **Define the NPC's attitude**: Friendly, Indifferent, or Hostile
-2. **Determine what the PCs want** from the interaction
-3. **Roleplay the exchange** — let players present arguments, make offers, use leverage
-4. **Call for ability checks** when outcome is uncertain:
-   - **Charisma (Persuasion)** — logical/emotional appeal
-   - **Charisma (Deception)** — lies and misdirection
-   - **Charisma (Intimidation)** — threats and coercion
-   - **Wisdom (Insight)** — reading the NPC's motives
-5. **Shift attitude** based on roleplay quality and check results
-
-### NPC Attitude & DC Guidelines
-
-| Starting Attitude | Easy Ask DC | Hard Ask DC | Effect of Failure |
-|-------------------|-------------|-------------|-------------------|
-| Friendly          | 0 (auto)    | 10          | Attitude unchanged |
-| Indifferent       | 10          | 20          | May become hostile |
-| Hostile           | 20          | 25+         | Likely becomes violent |
-
-> Social encounters should feel like encounters — with stakes, choices, and consequences — not just "roll Persuasion."
-
----
-
-## Exploration Encounters
-
-### Design Principles
-
-Exploration encounters test the party's **resourcefulness, perception, and problem-solving**:
-
-- **Traps** — See DMG Ch. 3 for trap mechanics (Simple & Complex traps)
-- **Puzzles** — Present information and require creative solutions
-- **Environmental Hazards** — Extreme weather, difficult terrain, collapsing structures
-- **Navigation** — Getting lost, tracking, pathfinding in wilderness or dungeons
-- **Discovery** — Finding hidden locations, deciphering clues, investigating scenes
-
-### Encounter as "Thing" Sizing
-
-| Exploration Type | Approximate Time | "Things" Count |
-|------------------|-----------------|----------------|
-| Simple trap      | 5–10 min        | ½ thing        |
-| Complex trap     | 15–30 min       | 1 thing         |
-| Puzzle room      | 15–30 min       | 1 thing         |
-| Dungeon room exploration | 10–15 min | ½–1 thing    |
-| Wilderness travel segment | 15–30 min | 1 thing      |
-
----
-
-## Adventure Rewards
-
-### Experience Points (XP)
-
-The 2024 DMG supports two XP systems:
-
-| Method | Description |
-|--------|-------------|
-| **XP Awards** | Monsters grant XP per their stat block. Divide total XP equally among party members. Non-combat challenges can also award XP at DM discretion |
-| **Milestone Leveling** | PCs level up when they achieve story milestones. No XP tracking needed |
-
-### Treasure Distribution
-
-Treasure is organized by **Treasure Type** (assigned per monster in the Monster Manual):
-
-| Treasure Type | What You Roll | Source |
-|---------------|--------------|--------|
-| **Individual Treasure** | Random Individual Treasure table (DMG p. 120) | Monetary value per creature |
-| **Treasure Hoard** | Random Treasure Hoard table (DMG p. 121) | Monetary treasure + magic items |
-
-### Magic Item Distribution by Tier
-
-Recommended magic items per character across an adventure tier: [NEEDS VERIFICATION]
-
-| Tier | Levels | Suggested Rarity | Items Per Character |
-|------|--------|-------------------|---------------------|
-| 1    | 1–4    | Common, Uncommon  | 1–3 minor items     |
-| 2    | 5–10   | Uncommon, Rare    | 3–6 items           |
-| 3    | 11–16  | Rare, Very Rare   | 4–8 items           |
-| 4    | 17–20  | Very Rare, Legendary | 5–10 items       |
-
-### Treasure Themes (DMG Ch. 7)
-
-Each hoard has a **theme** that determines what types of treasure and magic items appear:
-
-| Theme | Magic Item Table | Monetary Treasure Type |
-|-------|-----------------|----------------------|
-| **Arcana** | DMG p. 326 | Gemstones |
-| **Armaments** | DMG p. 328 | Coins, trade bars |
-| **Implements** | DMG p. 329 | Coins, trade bars, trade goods |
-| **Relics** | DMG p. 330 | Art objects |
-| **Any** | Roll 1d4 for theme | Any monetary type |
-
-### Magic Item Rarity by CR
-
-When a hoard includes magic items, roll on the **Magic Item Rarities** table (DMG p. 218) to determine rarity, then use the treasure theme table for the specific item.
-
-| Hoard CR Range | Common Items | Uncommon | Rare | Very Rare | Legendary |
-|---------------|-------------|----------|------|-----------|-----------|
-| 0–4           | Yes         | Yes      | Rare | —         | —         |
-| 5–10          | Yes         | Yes      | Yes  | Rare      | —         |
-| 11–16         | —           | Yes      | Yes  | Yes       | Rare      |
-| 17+           | —           | —        | Yes  | Yes       | Yes       |
-
-> [NEEDS VERIFICATION] — Exact probabilities on Magic Item Rarities table should be confirmed against DMG p. 218.
-
----
-
-## Quick Reference: Building an Encounter in 5 Minutes
+### Table-Ready Procedure
 
 ```
 1. Party: How many PCs? What levels?
 2. Difficulty: Low (routine) / Moderate (challenging) / High (deadly)?
 3. Budget: Look up XP per character → multiply by party size
 4. Monsters: Pick monsters whose TOTAL XP ≤ budget
-5. No multiplier needed — just add XP values
-6. Sanity check: Does this "feel" right for the narrative moment?
+5. No multiplier — just raw XP total
+6. Sanity check: Does this feel right for the moment?
 ```
 
-## Prep Time Guidelines
+**Quick Party-of-4 Totals:**
 
-| Available Prep Time | What to Focus On |
-|--------------------|--------------------|
-| **1 hour** | Story outline → identify encounters → prep "definite" encounters → connect to player motivations |
-| **2 hours** | Above + flesh out "possible" encounters + NPC details |
-| **3 hours** | Above + maps, handouts, contingencies for "unlikely" encounters |
+| Level | Low | Moderate | High |
+|---:|---:|---:|---:|
+| 1 | 200 | 300 | 400 |
+| 5 | 2,000 | 3,000 | 4,400 |
+| 10 | 6,400 | 9,200 | 12,400 |
+| 15 | 13,200 | 21,600 | 31,200 |
+| 20 | 25,600 | 52,800 | 88,000 |
 
-### Encounter Priority Categories
+**Examples from DMG:**
+- Low for 4 × Lv 1: Budget 200 XP → 1 Bugbear Warrior (200 XP) or 2 Giant Wasps (100 each)
+- Moderate for 5 × Lv 3: Budget 1,125 XP → 2 Nothics (450 each) + 9 Stirges (25 each)
+- High for 6 × Lv 15: Budget 46,800 XP → 2 Adult Red Dragons (18,000 each) + 2 Fire Giants (5,000 each)
 
-- **Definite** — Will almost certainly happen this session. Prep these fully.
-- **Possible** — Might happen depending on player choices. Skim/outline.
-- **Unlikely** — Probably won't happen but could. Brief notes only.
+### DM Notes
+
+- **Many Creatures:** More than 2 creatures per character = higher risk of lucky damage streaks. Include fragile creatures that go down fast. Especially important at levels 1-2.
+- **Powerful Creatures:** A creature with CR > party level might one-shot low-HP characters. An Ogre (CR 2) can kill a level 1 Wizard in one hit.
+- **CR 0 Creatures:** Use sparingly. If you want many CR 0 critters, use swarms instead.
+- **Stat Block Limit:** Try to keep unique stat blocks to 2-3 per encounter for manageability.
+- **On-the-Fly Adjustment:** Reinforce if too easy, have monsters flee if too hard.
+
+---
+
+## Social Interaction Encounters
+
+### RAW Summary
+
+*Source: DMG 2024, Chapter 4 — Social Interaction Encounters. [NEEDS VERIFICATION — summarized, not line-checked]*
+
+NPCs have an **Initial Attitude**: Friendly, Indifferent, or Hostile. Determine randomly with d12:
+
+| d12 | Attitude |
+|---|---|
+| 4 or lower | Hostile |
+| 5–8 | Indifferent |
+| 9 or higher | Friendly |
+
+*(Roll different dice to alter range: 1d6 for predators, 1d6+3 for travelers, 1d6+6 for kindhearted.)*
+
+**Monster Personality (d8):**
+1. Cowardly; surrenders easily
+2. Greedy; wants treasure
+3. Boastful; showy but runs
+4. Disorderly; easily rattled
+5. Fanatical; ready to die
+6. Brave; stands firm
+7. Jocular; taunts enemies
+8. Orderly; difficult to rattle
+
+### Table-Ready Procedure
+
+1. Define NPC attitude (Friendly / Indifferent / Hostile)
+2. Let players roleplay their approach
+3. Call for Charisma checks when outcome is uncertain:
+   - Persuasion — logical/emotional appeal
+   - Deception — lies and misdirection
+   - Intimidation — threats and coercion
+   - Insight (Wisdom) — reading motives
+4. Shift attitude based on roleplay + results
+
+### DM Notes
+
+Social encounters should feel like encounters — with stakes, choices, and consequences — not just "roll Persuasion." A hostile NPC who is intimidated may comply but retaliate later.
+
+---
+
+## Exploration Encounters
+
+### DM Notes
+
+*Source: DMG 2024, Chapter 4 — general guidance. Not RAW mechanical rules.*
+
+Exploration encounters test resourcefulness, perception, and problem-solving:
+- **Traps** — See `dmg/toolbox/dm-toolbox.md` for mechanics
+- **Puzzles** — Present information, require creative solutions
+- **Environmental Hazards** — Extreme weather, difficult terrain, collapsing structures
+- **Navigation** — Getting lost, tracking, pathfinding
+- **Discovery** — Hidden locations, clues, investigation
+
+---
+
+## Adventure Rewards
+
+### RAW Summary
+
+*Source: DMG 2024, Chapter 2 — Character Advancement; Chapter 7 — Treasure.*
+
+**XP Awards:** Monsters grant XP per their stat block. Divide total XP equally among all party members (including helpful NPCs). Non-combat challenges can award XP at DM discretion.
+
+**Milestone Leveling:** PCs level up when they achieve story milestones. No XP tracking needed. Major milestone = high-difficulty encounter XP. Minor milestone = low-difficulty.
+
+**Magic Items Awarded by Level** (verified — see `dmg/treasure/treasure-reference.md`):
+
+| Tier (Levels) | Common | Uncommon | Rare | Very Rare | Legendary | Total |
+|---|---|---|---|---|---|---|
+| 1–4 | 6 | 4 | 1 | 0 | 0 | 11 |
+| 5–10 | 10 | 17 | 6 | 1 | 0 | 34 |
+| 11–16 | 3 | 7 | 11 | 7 | 2 | 30 |
+| 17–20 | 0 | 0 | 5 | 11 | 9 | 25 |
+
+### DM Notes
+
+- **Overstocking:** Include 25% more items than the table suggests. Assume players won't find everything.
+- **Player Wish Lists:** Encourage players to keep a wish list of magic items. Pick from it when awarding items of appropriate rarity.
+- **Treasure Themes:** Each hoard has a theme (Arcana / Armaments / Implements / Relics) that determines item types and monetary treasure.
+
+---
+
+## Adventure Structure
+
+### DM Notes
+
+*Source: DMG 2024, Chapter 4 — general adventure design guidance.*
+
+**4 Steps:**
+1. Lay Out the Premise — core conflict, villain, stakes
+2. Draw in the Players — hooks tied to character motivations
+3. Plan Encounters — each should advance a goal, frustrate progress, or reveal info
+4. Bring It to an End — climactic encounter resolving the central conflict
+
+**The One-Hour Guideline:** For every 1 hour of gameplay, plan ~3 "things" (encounters, explorations, social scenes). Low-difficulty combat = 1 thing; harder combats = 2.
+
+**Encounter Priority:**
+- **Definite** — Will almost certainly happen. Prep fully.
+- **Possible** — Depends on player choices. Skim/outline.
+- **Unlikely** — Probably won't happen. Brief notes only.
