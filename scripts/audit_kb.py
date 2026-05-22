@@ -33,6 +33,15 @@ errors = []
 warnings = []
 
 
+def get_status(fm: dict) -> str:
+    """Get status from top-level or nested verification.status."""
+    if "status" in fm:
+        return fm["status"]
+    if isinstance(fm.get("verification"), dict):
+        return fm["verification"].get("status", "")
+    return ""
+
+
 def load_frontmatter(path: Path):
     """Extract YAML frontmatter from a markdown file."""
     text = path.read_text(encoding="utf-8")
@@ -49,7 +58,7 @@ def load_frontmatter(path: Path):
 
 def check_verified_vs_needs_verification(path: Path, fm: dict, text: str):
     """Check 1: verified status should not coexist with NEEDS VERIFICATION."""
-    status = fm.get("status", "")
+    status = get_status(fm)
     if status == "verified" and "[NEEDS VERIFICATION" in text:
         lines = []
         for i, line in enumerate(text.split("\n"), 1):
@@ -156,6 +165,38 @@ def check_xp_consistency():
                 )
 
 
+def check_residual_frontmatter(path: Path, text: str):
+    """Check 6: Detect residual YAML delimiters after frontmatter."""
+    m = re.match(r"^---\n(.*?)\n---", text, re.DOTALL)
+    if not m:
+        return
+    after_fm = text[m.end():m.end() + 300]
+    lines_after = after_fm.split("\n")
+    # Only check the first 3 non-empty lines after frontmatter
+    non_empty_count = 0
+    for i, line in enumerate(lines_after):
+        stripped = line.strip()
+        if not stripped:
+            continue
+        non_empty_count += 1
+        if non_empty_count > 3:
+            break
+        # A standalone --- right after frontmatter (before any heading) is suspicious
+        if stripped == "---" and non_empty_count <= 2:
+            # But only if the next non-empty line looks like YAML, not markdown
+            remaining = [l.strip() for l in lines_after[i+1:] if l.strip()]
+            if remaining and re.match(r"^(updated|status|source|type|version):\s", remaining[0]):
+                errors.append(
+                    f"{path.relative_to(REPO_ROOT)}: residual YAML delimiter '---' "
+                    f"with YAML-like content after frontmatter"
+                )
+        elif re.match(r"^(updated|status|source|type|version):\s", stripped) and non_empty_count <= 2:
+            warnings.append(
+                f"{path.relative_to(REPO_ROOT)}: possible residual YAML field '{stripped}' "
+                f"found after frontmatter"
+            )
+
+
 def check_internal_links(path: Path, text: str):
     """Check 5: Internal markdown links."""
     links = re.findall(r"\[.*?\]\(([^)]+)\)", text)
@@ -186,10 +227,7 @@ def main():
             stats["no_fm"] += 1
             continue
 
-        status = fm.get("status", "")
-        # Also check nested verification.status
-        if not status and isinstance(fm.get("verification"), dict):
-            status = fm["verification"].get("status", "")
+        status = get_status(fm)
         if status == "verified":
             stats["verified"] += 1
         elif status == "partially-verified":
@@ -200,6 +238,7 @@ def main():
         check_verified_vs_needs_verification(path, fm, text)
         check_frontmatter_fields(path, fm)
         check_supplement_tags(path, fm)
+        check_residual_frontmatter(path, text)
         check_internal_links(path, text)
 
     check_xp_consistency()

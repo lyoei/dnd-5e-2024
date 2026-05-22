@@ -5,7 +5,7 @@ source: DMG 2024, Chapter 8
 source_detail: "Chapter 8: Bastions — Gaining a Bastion, Bastion Turns, Facilities, Orders, Events"
 verification:
   status: verified
-  method: "Full chapter extracted from D&D Beyond official DMG text"
+  method: "Summarized and checked against D&D Beyond official DMG text"
   verified_by: moco
   verified_at: 2026-05-22
   notes: "Complete chapter content verified. All 30 special facilities, facility costs, orders, events table, and defensive wall rules confirmed."

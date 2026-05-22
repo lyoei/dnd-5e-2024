@@ -11,8 +11,6 @@ verification:
   notes: "All tables in this file verified against D&D Beyond. Crafting rules, potion miscibility, rarity/value, and items-by-level tables all confirmed."
 updated: 2026-05-23
 ---
-updated: 2026-05-21
----
 
 # Treasure Reference
 
