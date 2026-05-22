@@ -1,7 +1,8 @@
 ---
-type: index
+type: character-index
 version: dnd-5e-2024
-updated: 2026-05-19
+status: active
+updated: 2026-05-22
 ---
 
 # Party Index

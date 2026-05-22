@@ -18,6 +18,17 @@ from pathlib import Path
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 
+# Files that legitimately don't need frontmatter
+NO_FRONTMATTER_ALLOWLIST = {
+    "README.md",
+    "2024-vs-2014.md",
+    "templates/class-template.md",
+    "templates/feat-template.md",
+    "templates/species-template.md",
+    "templates/spell-template.md",
+    "spells/FORMAT-AUDIT.md",
+}
+
 errors = []
 warnings = []
 
@@ -163,6 +174,9 @@ def main():
         stats["total"] += 1
 
         if fm is None:
+            rel = str(path.relative_to(REPO_ROOT))
+            if rel not in NO_FRONTMATTER_ALLOWLIST:
+                warnings.append(f"{rel}: no YAML frontmatter (add to allowlist if intentional)")
             stats["no_fm"] += 1
             continue
 

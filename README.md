@@ -87,11 +87,11 @@ See `templates/` for the exact format of each type.
 | Section | Files | Status | Notes |
 |---|---|---|---|
 | PHB Classes | 12 | ✅ verified | Cross-checked against D&D Beyond PHB 2024. Supplement subclasses (College of the Moon, Knowledge Domain) tagged separately |
-| PHB Spells | 385+ | ⚠️ needs-source-check | Compiled from secondary sources, format standardized |
+| PHB Spells | 386 | ⚠️ needs-source-check | Compiled from secondary sources, format standardized |
 | PHB Species | 10 | ⚠️ needs-source-check | From secondary sources |
-| PHB Feats | 75+ | ⚠️ needs-source-check | From secondary sources |
-| PHB Equipment | 20+ | ⚠️ needs-source-check | From secondary sources |
-| PHB Rules | 20+ | ⚠️ needs-source-check | From secondary sources |
+| PHB Feats | 75 | ⚠️ needs-source-check | From secondary sources |
+| PHB Equipment | 5 | ⚠️ needs-source-check | From secondary sources |
+| PHB Rules | 5 | ⚠️ needs-source-check | From secondary sources |
 | DMG Encounter Building | 1 | 🟡 partially-verified | XP Budget table verified; social/exploration sections unverified |
 | DMG Running the Game | 1 | 🟡 partially-verified | DC table, damage tables verified; some DM tips unverified |
 | DMG Toolbox | 1 | ⚠️ needs-source-check | Traps, poisons, hazards — from secondary sources |
