@@ -2,7 +2,7 @@
 type: dm-reference
 version: dnd-5e-2024
 source: DMG 2024, Chapter 2
-status: verified
+status: partially-verified
 updated: 2026-05-21
 ---
 
@@ -137,7 +137,7 @@ NPCs have one of three starting attitudes toward the party:
 
 ### Initiative
 - Each creature rolls **1d20 + Dexterity modifier** (+ proficiency if they have a relevant feature)
-- 2024 rules: the DM may also allow **1d20 + Wisdom modifier** for characters with certain features [NEEDS VERIFICATION]
+- 2024 rules: Initiative = **1d20 + Dexterity modifier** (plus any special modifiers from features). Initiative scores (10 + modifiers) can be used instead of rolling.
 - Ties: DM decides, or the creature with the higher modifier goes first
 
 ### Tracking HP
@@ -202,18 +202,18 @@ The 2024 DMG uses an **XP budget** system for encounter difficulty:
 | 8               | 1,000      | 1,700      | 2,100      |
 | 9               | 1,300      | 2,000      | 2,600      |
 | 10              | 1,600      | 2,300      | 3,100      |
-| 11              | 1,900      | 2,900      | 3,600      |
-| 12              | 2,200      | 3,200      | 4,500      |
-| 13              | 2,600      | 3,900      | 5,100      |
-| 14              | 2,900      | 4,400      | 5,700      |
-| 15              | 3,300      | 5,400      | 7,400      |
-| 16              | 3,800      | 5,900      | 8,000      |
-| 17              | 4,500      | 7,300      | 9,800      |
-| 18              | 5,000      | 7,800      | 10,500     |
-| 19              | 5,500      | 8,700      | 11,700     |
-| 20              | 6,400      | 9,500      | 13,500     |
+| 11              | 1,900      | 2,900      | 4,100      |
+| 12              | 2,200      | 3,700      | 4,700      |
+| 13              | 2,600      | 4,200      | 5,400      |
+| 14              | 2,900      | 4,900      | 6,200      |
+| 15              | 3,300      | 5,400      | 7,800      |
+| 16              | 3,800      | 6,100      | 9,800      |
+| 17              | 4,500      | 7,200      | 11,700     |
+| 18              | 5,000      | 8,700      | 14,200     |
+| 19              | 5,500      | 10,700     | 17,200     |
+| 20              | 6,400      | 13,200     | 22,000     |
 
-[NEEDS VERIFICATION — exact XP budget numbers should be cross-checked with DMG 2024 p. 83]
+*Source: DMG 2024, Chapter 4 "Combat Encounter Difficulty", XP Budget per Character table (p. 83)*
 
 **How to use:** Multiply the per-character budget by number of characters. Spend that budget on monsters (using their XP values). Low = easy day, Moderate = standard challenge, High = pointed threat.
 

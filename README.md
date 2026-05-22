@@ -82,6 +82,37 @@ See `templates/` for the exact format of each type.
 
 🚧 Under construction — core classes and rules being added first.
 
+### Status Matrix
+
+| Section | Files | Status | Notes |
+|---|---|---|---|
+| PHB Classes | 12 | ✅ verified | Cross-checked against D&D Beyond PHB 2024. Supplement subclasses (College of the Moon, Knowledge Domain) tagged separately |
+| PHB Spells | 385+ | ⚠️ needs-source-check | Compiled from secondary sources, format standardized |
+| PHB Species | 10 | ⚠️ needs-source-check | From secondary sources |
+| PHB Feats | 75+ | ⚠️ needs-source-check | From secondary sources |
+| PHB Equipment | 20+ | ⚠️ needs-source-check | From secondary sources |
+| PHB Rules | 20+ | ⚠️ needs-source-check | From secondary sources |
+| DMG Encounter Building | 1 | 🟡 partially-verified | XP Budget table verified; social/exploration sections unverified |
+| DMG Running the Game | 1 | 🟡 partially-verified | DC table, damage tables verified; some DM tips unverified |
+| DMG Toolbox | 1 | ⚠️ needs-source-check | Traps, poisons, hazards — from secondary sources |
+| DMG Treasure | 1 | ✅ verified | Magic item rules, crafting, rarity/value tables verified |
+| DMG Bastions | 1 | ✅ verified | Complete system verified against D&D Beyond |
+| Campaign Characters | 5 | ✅ active | Campaign-specific, not rules content |
+
+**Verification levels:**
+- `verified` — Cross-checked against official source (D&D Beyond)
+- `partially-verified` — Some sections verified, some pending
+- `needs-source-check` — Compiled from secondary sources, treat as reference only
+
+### Audit
+
+Run `python3 scripts/audit_kb.py` to check for:
+- `verified` files containing `[NEEDS VERIFICATION]` tags
+- XP budget table consistency across files
+- Missing frontmatter fields
+- Supplement content mixed into core tags
+- Broken internal links
+
 ## Sources
 
 Based on the **2024 Player's Handbook**, **Dungeon Master's Guide**, and **Monster Manual** by Wizards of the Coast. This is a reference tool, not a reproduction of copyrighted text. Entries are structured summaries for gameplay reference.

@@ -3,8 +3,9 @@ type: class
 version: dnd-5e-2024
 source: PHB 2024, Classes
 status: verified
-tags: [class, cleric, life-domain, light-domain, trickery-domain, war-domain, knowledge-domain]
-updated: 2026-05-21
+tags: [class, cleric, life-domain, light-domain, trickery-domain, war-domain]
+supplement-subclasses: [knowledge-domain]
+updated: 2026-05-22
 ---
 
 # Cleric
@@ -248,7 +249,7 @@ Resistance to Bludgeoning, Piercing, and Slashing damage.
 
 ---
 
-### Knowledge Domain
+### Knowledge Domain *(Supplement: Forgotten Realms — Heroes of Faerûn)*
 
 *Unearth Secrets and Master the Mind*
 

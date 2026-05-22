@@ -2,7 +2,8 @@
 type: index
 version: dnd-5e-2024
 source: DMG 2024
-updated: 2026-05-21
+status: reference
+updated: 2026-05-22
 ---
 
 # Dungeon Master's Guide (2024) — Reference Index

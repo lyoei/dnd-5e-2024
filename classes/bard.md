@@ -3,8 +3,9 @@ type: class
 version: dnd-5e-2024
 source: PHB 2024, Classes
 status: verified
-tags: [class, bard, college-of-dance, college-of-glamour, college-of-lore, college-of-valor, college-of-the-moon]
-updated: 2026-05-21
+tags: [class, bard, college-of-dance, college-of-glamour, college-of-lore, college-of-valor]
+supplement-subclasses: [college-of-the-moon]
+updated: 2026-05-22
 ---
 
 # Bard
@@ -215,7 +216,7 @@ After casting a spell with an action casting time, make one weapon attack as a B
 
 ---
 
-### College of the Moon
+### College of the Moon *(Supplement: Forgotten Realms — Heroes of Faerûn)*
 
 *Inspire Allies with Primal Tales*
 

@@ -2,7 +2,7 @@
 type: dm-reference
 version: dnd-5e-2024
 source: DMG 2024, Chapter 4
-status: verified
+status: partially-verified
 updated: 2026-05-21
 ---
 
